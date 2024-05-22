@@ -1,0 +1,101 @@
+company,profits,rank,revenues,year
+General Motors,806.0,1,"9,823.5",1955
+Exxon Mobil,584.8,2,"5,661.4",1955
+U.S. Steel,195.4,3,"3,250.4",1955
+General Electric,212.6,4,"2,959.1",1955
+Esmark,19.1,5,"2,510.8",1955
+Chrysler,18.5,6,"2,071.6",1955
+Armour,1.6,7,"2,056.1",1955
+Gulf Oil,182.8,8,"1,705.3",1955
+Mobil,183.8,9,"1,703.6",1955
+DuPont,344.4,10,"1,687.7",1955
+Amoco,132.8,11,"1,667.4",1955
+Bethlehem Steel,117.2,12,"1,660.3",1955
+CBS,84.6,13,"1,631.0",1955
+Texaco,226.1,14,"1,574.4",1955
+AT&T Technologies,55.8,15,"1,526.2",1955
+Shell Oil,121.1,16,"1,312.1",1955
+Kraft,37.4,17,"1,210.3",1955
+ChevronTexaco,211.9,18,"1,113.3",1955
+Goodyear Tire & Rubber,48.1,19,"1,090.1",1955
+Boeing,37.0,20,"1,033.2",1955
+Sinclair Oil,91.6,21,"1,021.5",1955
+Navistar International,36.3,22,994.1,1955
+RCA,40.5,23,941.0,1955
+Union Carbide,89.8,24,923.7,1955
+Firestone Tire & Rubber,40.5,25,916.0,1955
+Douglas Aircraft,36.2,26,915.2,1955
+Procter & Gamble,52.3,27,911.0,1955
+Republic Steel,52.9,28,846.3,1955
+Citgo Petroleum,43.7,29,813.2,1955
+ConocoPhillips,76.2,30,794.6,1955
+General Foods,27.9,31,783.0,1955
+Uniroyal,28.0,32,782.6,1955
+Borden Chemical,22.7,33,776.8,1955
+Lockheed Martin,22.4,34,732.9,1955
+Alcoa,46.5,35,708.3,1955
+International Paper,73.5,36,681.2,1955
+Wilson,3.1,37,680.5,1955
+Sunoco,40.3,38,659.5,1955
+United Technologies,26.0,39,654.2,1955
+American Can,30.4,40,652.4,1955
+General Dynamics,20.8,41,648.6,1955
+Rockwell Automation,22.2,42,645.8,1955
+Eastman Kodak,69.8,43,633.5,1955
+Goodrich,38.8,44,630.7,1955
+Continental Group,20.7,45,616.2,1955
+Bendix,25.5,46,607.7,1955
+Atlantic Richfield,36.8,47,596.2,1955
+Fortune Brands,41.3,48,533.1,1955
+Ryerson Tull,41.1,49,532.0,1955
+ARMCO,43.1,50,530.8,1955
+Honeywell Intl.,10.8,51,519.7,1955
+AMAX,43.1,52,509.5,1955
+Conoco,41.7,53,500.1,1955
+Allis-Chalmers,26.1,54,492.9,1955
+Jones & Laughlin Steel,25.0,55,492.9,1955
+General Mills,11.2,56,487.6,1955
+National Intergroup,30.3,57,484.1,1955
+Curtiss-Wright,19.4,58,475.1,1955
+Olin,34.3,59,470.1,1955
+Asarco,21.5,60,466.8,1955
+Intl. Business Machines,46.5,61,461.4,1955
+Anaconda,26.7,62,461.1,1955
+Tidewater Oil,34.5,63,459.0,1955
+Cudahy,-7.2,64,454.8,1955
+Briggs Manufacturing,0.8,65,440.9,1955
+Sperry,28.5,66,440.9,1955
+Nabisco Group Holdings,44.8,67,438.3,1955
+PPG Industries,38.6,68,431.0,1955
+Dow Chemical,33.4,69,428.3,1955
+Youngstown Sheet & Tube,20.2,70,428.2,1955
+Kennecott,77.9,71,423.6,1955
+NL Industries,36.6,72,419.3,1955
+Standard Brands,10.6,73,415.9,1955
+Sealed Air,14.8,74,413.4,1955
+Caterpillar,25.1,75,401.0,1955
+American Motors,-11.1,76,400.3,1955
+Ralston Purina,15.5,77,399.6,1955
+American Cyanamid,27.1,78,397.6,1955
+Pullman,13.3,79,391.0,1955
+Pure Oil,31.2,80,388.3,1955
+BorgWarner,24.5,81,380.3,1955
+Nabisco Brands,19.9,82,376.4,1955
+Avco,3.6,83,375.4,1955
+Unocal,35.9,84,349.7,1955
+Philco,6.8,85,349.3,1955
+Burlington Industries Equity,8.4,86,347.5,1955
+Monsanto,23.7,87,341.8,1955
+Campbell Soup,23.6,88,338.7,1955
+Owens-Illinois,21.5,89,336.7,1955
+Pillsbury,4.9,90,336.0,1955
+Singer,11.9,91,333.9,1955
+Hormel Foods,1.8,92,331.8,1955
+Hygrade Food Products,1.0,93,324.2,1955
+Republic Aviation,9.0,94,323.5,1955
+Carnation,7.7,95,310.0,1955
+Amstar,7.6,96,308.8,1955
+Reynolds Metals,20.3,97,306.8,1955
+Morrell (John),0.5,98,306.5,1955
+BP America,18.5,99,304.4,1955
+American Standard,20.4,100,303.4,1955
