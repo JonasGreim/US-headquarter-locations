@@ -25,6 +25,8 @@ WHERE {{
   SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en" . }}
   }}
 """)
+# Q783794 (company) or Q4830453 (business)
+# wdt:P31/wdt:P279* = instance of (P31) a company or an instance of a subclass (P279*) of a company
 
 try:
     queryResult = sparql.queryAndConvert()
