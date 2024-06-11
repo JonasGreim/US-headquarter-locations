@@ -1,8 +1,10 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
+#  https://github.com/RDFLib/sparqlwrapper
+
+# TODO insert companies in query -> loop it
 
 sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 sparql.setReturnFormat(JSON)
-# From https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Cats
 sparql.setQuery("""
 SELECT ?company ?companyLabel ?headquartersLabel WHERE {
   VALUES ?company { wd:Q1454852 } ?company wdt:P159 ?headquarters.
