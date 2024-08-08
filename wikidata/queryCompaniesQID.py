@@ -5,10 +5,10 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 
 
 def request_query_companies_qid(company_name):
-    sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+    user_agent = 'CoolBot/0.0 (https://example.org/coolbot/; coolbot@example.org)'
+    sparql = SPARQLWrapper("https://query.wikidata.org/sparql", agent=user_agent)
     sparql.setReturnFormat(JSON)
 
-    search_string = company_name
     # old simple query without labels
     # sparql.setQuery(f"""
     # SELECT DISTINCT ?item
@@ -16,6 +16,8 @@ def request_query_companies_qid(company_name):
     #   ?item rdfs:label "{search_string}"@en .
     # }}
     # """)
+
+    search_string = company_name
 
     sparql.setQuery(f"""
     SELECT DISTINCT ?item ?itemLabel
@@ -36,7 +38,7 @@ def request_query_companies_qid(company_name):
         print(e)
 
     # Example value of queryResult["results"]["bindings"]
-    # {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q154950'}}
-    # {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q224038'}}
-    # {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q460703'}}
+    # {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q54173'}, 'itemLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'General Electric'}}
+    # {'item': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q3088656'}, 'itemLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'Mobil'}}
+
 
