@@ -2,29 +2,28 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 #  https://github.com/RDFLib/sparqlwrapper
 
 # TODO insert companies in query -> loop it
-def queryHeadquarters(qid):
-    sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+
+def request_queryHeadquarters(qid):
+    user_agent = 'CoolBot/0.0 (https://example.org/coolbot/; coolbot@example.org)'
+    sparql = SPARQLWrapper("https://query.wikidata.org/sparql", agent=user_agent)
     sparql.setReturnFormat(JSON)
 
-    company_id = qid
-
     sparql.setQuery(f"""
-    SELECT ?company ?companyLabel ?headquartersLabel WHERE {{
-      VALUES ?company {{ wd:{company_id} }}  ?company wdt:P159 ?headquarters.
+    SELECT ?company ?companyLabel ?headquartersLabel ?coordinateLocation WHERE {{
+      VALUES ?company {{ wd:{qid} }}
+      ?company wdt:P159 ?headquarters.
+      ?headquarters wdt:P625 ?coordinateLocation.
       SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
     }}
     """)
 
     try:
         queryResult = sparql.queryAndConvert()
-        for r in queryResult["results"]["bindings"]:
-            print(r['company']['value'])
-            print(r['companyLabel']['value'])
-            print(r['headquartersLabel']['value'])         
+        return queryResult["results"]["bindings"][0]
     except Exception as e:
-        print(e)
+        print('headquarter not found', e)
 
-# Example value of queryResult["results"]["bindings"]
-# {'company': {'type': 'uri', 'value': 'http://www.wikidata.org/entity/Q1454852'},
-#  'companyLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'Hormel'},
-#  'headquartersLabel': {'xml:lang': 'en', 'type': 'literal', 'value': 'Austin'}}
+# result example:
+# Apple
+# Cupertino
+# Point(-122.041944444 37.3175)
