@@ -6,7 +6,7 @@ from queryCompaniesQID import request_query_companies_qid
 
 current_dir = os.path.dirname(__file__)
 # parent_dir_path = os.path.join(current_dir, ".")
-file_path = os.path.join(current_dir, "uniqueCompaniesWithQids.json")
+file_path = os.path.join(current_dir, "uniqueCompaniesWithQidsAndWithLocationData.json")
 
 df = pd.read_json(file_path, orient='columns')
 filtered_UniqueCompanyNames_WithoutQid = df[df['qid'] == '']['searchQueryCompanyName']
@@ -14,11 +14,11 @@ filtered_UniqueCompanyNames_WithoutQid = df[df['qid'] == '']['searchQueryCompany
 # 48  of  196 no result
 print('total queries:  ', len(filtered_UniqueCompanyNames_WithoutQid))  # total queries:   196
 
-counter = 0
+notFoundCountercounter = 0
 for search_uniqueCompanyName in filtered_UniqueCompanyNames_WithoutQid:
     queryResponse = request_query_companies_qid(search_uniqueCompanyName)
     if queryResponse is None:
-        counter += 1
+        notFoundCountercounter += 1
     else:
         qid = queryResponse["item"]["value"]
         wikidata_company_name = queryResponse["itemLabel"]["value"]
@@ -29,8 +29,8 @@ for search_uniqueCompanyName in filtered_UniqueCompanyNames_WithoutQid:
 
 
 # updates json with query results
-df.to_json('./uniqueCompaniesWithQids.json', orient='records', indent=4)
-print('total number of no company qids found:', counter, ' of ', len(filtered_UniqueCompanyNames_WithoutQid))
+df.to_json('./uniqueCompaniesWithQidsAndWithLocationData.json', orient='records', indent=4)
+print('total number of no company qids found:', notFoundCountercounter, ' of ', len(filtered_UniqueCompanyNames_WithoutQid))
 
 
 # 5 companies are missing -> no wikidata or wikipedia entry ??
