@@ -46119,8 +46119,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.352222222,
-                    48.856666666
+                    -74.4011111,
+                    40.6953056
                 ]
             },
             "properties": {
@@ -46129,8 +46129,8 @@
                 "revenues": "38,303.0",
                 "profits": "4,766.0",
                 "year": 2000,
-                "qid": "http://www.wikidata.org/entity/Q509404",
-                "wikiDataName": "Alcatel-Lucent"
+                "qid": "http://www.wikidata.org/entity/Q1873176",
+                "wikiDataName": "Lucent"
             }
         },
         {
@@ -46594,8 +46594,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.352222222,
-                    48.856666666
+                    -74.4011111,
+                    40.6953056
                 ]
             },
             "properties": {
@@ -46604,8 +46604,8 @@
                 "revenues": "30,147.0",
                 "profits": "970.0",
                 "year": 1999,
-                "qid": "http://www.wikidata.org/entity/Q509404",
-                "wikiDataName": "Alcatel-Lucent"
+                "qid": "http://www.wikidata.org/entity/Q1873176",
+                "wikiDataName": "Lucent"
             }
         },
         {
@@ -47354,8 +47354,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.352222222,
-                    48.856666666
+                    -74.4011111,
+                    40.6953056
                 ]
             },
             "properties": {
@@ -47364,8 +47364,8 @@
                 "revenues": "26,360.0",
                 "profits": "541.0",
                 "year": 1998,
-                "qid": "http://www.wikidata.org/entity/Q509404",
-                "wikiDataName": "Alcatel-Lucent"
+                "qid": "http://www.wikidata.org/entity/Q1873176",
+                "wikiDataName": "Lucent"
             }
         },
         {
@@ -48589,8 +48589,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.352222222,
-                    48.856666666
+                    -74.4011111,
+                    40.6953056
                 ]
             },
             "properties": {
@@ -48599,8 +48599,8 @@
                 "revenues": "41,420.0",
                 "profits": "1,219.0",
                 "year": 2001,
-                "qid": "http://www.wikidata.org/entity/Q509404",
-                "wikiDataName": "Alcatel-Lucent"
+                "qid": "http://www.wikidata.org/entity/Q1873176",
+                "wikiDataName": "Lucent"
             }
         },
         {
@@ -51154,8 +51154,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.1275,
-                    51.507222222
+                    -83.1674,
+                    42.6022
                 ]
             },
             "properties": {

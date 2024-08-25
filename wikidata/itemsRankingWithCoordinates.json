@@ -24275,9 +24275,9 @@
         "revenues":"38,303.0",
         "profits":"4,766.0",
         "year":2000,
-        "headquarterCoordinates":"Point(2.352222222 48.856666666)",
-        "qid":"http:\/\/www.wikidata.org\/entity\/Q509404",
-        "wikiDataName":"Alcatel-Lucent"
+        "headquarterCoordinates":"Point(-74.4011111 40.6953056)",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q1873176",
+        "wikiDataName":"Lucent"
     },
     {
         "rank":23,
@@ -24525,9 +24525,9 @@
         "revenues":"30,147.0",
         "profits":"970.0",
         "year":1999,
-        "headquarterCoordinates":"Point(2.352222222 48.856666666)",
-        "qid":"http:\/\/www.wikidata.org\/entity\/Q509404",
-        "wikiDataName":"Alcatel-Lucent"
+        "headquarterCoordinates":"Point(-74.4011111 40.6953056)",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q1873176",
+        "wikiDataName":"Lucent"
     },
     {
         "rank":34,
@@ -24925,9 +24925,9 @@
         "revenues":"26,360.0",
         "profits":"541.0",
         "year":1998,
-        "headquarterCoordinates":"Point(2.352222222 48.856666666)",
-        "qid":"http:\/\/www.wikidata.org\/entity\/Q509404",
-        "wikiDataName":"Alcatel-Lucent"
+        "headquarterCoordinates":"Point(-74.4011111 40.6953056)",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q1873176",
+        "wikiDataName":"Lucent"
     },
     {
         "rank":38,
@@ -25575,9 +25575,9 @@
         "revenues":"41,420.0",
         "profits":"1,219.0",
         "year":2001,
-        "headquarterCoordinates":"Point(2.352222222 48.856666666)",
-        "qid":"http:\/\/www.wikidata.org\/entity\/Q509404",
-        "wikiDataName":"Alcatel-Lucent"
+        "headquarterCoordinates":"Point(-74.4011111 40.6953056)",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q1873176",
+        "wikiDataName":"Lucent"
     },
     {
         "rank":29,
@@ -26925,7 +26925,7 @@
         "revenues":"27,427.0",
         "profits":"343.0",
         "year":2003,
-        "headquarterCoordinates":"Point(-0.1275 51.507222222)",
+        "headquarterCoordinates":"Point(-83.1674 42.6022)",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q48971221",
         "wikiDataName":"Delphi Technologies"
     },

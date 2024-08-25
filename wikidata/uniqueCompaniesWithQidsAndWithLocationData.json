@@ -1121,10 +1121,10 @@
     },
     {
         "companyName":"Lucent Technologies",
-        "searchQueryCompanyName":"Lucent Technologies",
-        "wikiDataName":"Alcatel-Lucent",
-        "qid":"http:\/\/www.wikidata.org\/entity\/Q509404",
-        "headquarterCoordinates":"Point(2.352222222 48.856666666)"
+        "searchQueryCompanyName":"Lucent Technologies, Inc.",
+        "wikiDataName":"Lucent",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q1873176",
+        "headquarterCoordinates":"Point(-74.4011111 40.6953056)"
     },
     {
         "companyName":"Albertson's",
@@ -1320,7 +1320,7 @@
         "searchQueryCompanyName":"Delphi Technologies",
         "wikiDataName":"Delphi Technologies",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q48971221",
-        "headquarterCoordinates":"Point(-0.1275 51.507222222)"
+        "headquarterCoordinates":"Point(-83.1674 42.6022)"
     },
     {
         "companyName":"Sprint",
