@@ -227,13 +227,11 @@ def left_join(data_year, df_independent):
     #print(df_merged)
     return df_merged
 
-def geoJsonTransformer (dataframe, timestamp):
+def geoJsonTransformer (dataframe, year):
 
     dataframe[['Latitude', 'Longitude']] = dataframe['Coordinates'].str.split(',', expand=True).astype(float)
 
-    timestamp_str = timestamp.strftime('%Y-%m-%d')
-
-    dataframe['Time'] = timestamp_str
+    dataframe['year'] = year
 
     gdf = gpd.GeoDataFrame(dataframe, geometry=gpd.points_from_xy(dataframe.Longitude, dataframe.Latitude))
 
@@ -246,6 +244,7 @@ def geoJsonTransformer (dataframe, timestamp):
     #     feature['properties']['time'] = timestamp_str
     
     return geojson_data
+
 
 def write_json_file(path, geojson_data):
 
@@ -271,14 +270,14 @@ dataframe_2014 = left_join(data_2014, df_49)
 dataframe_2019 = left_join(data_2019, df_49)
 dataframe_2024 = left_join(data_2024, df_49)
 
-geojson_1990 = geoJsonTransformer(dataframe_1990, datetime(1990, 1, 1))
-geojson_1994 = geoJsonTransformer(dataframe_1994, datetime(1994, 1, 1))
-geojson_1999 = geoJsonTransformer(dataframe_1999, datetime(1999, 1, 1))
-geojson_2004 = geoJsonTransformer(dataframe_2004, datetime(2004, 1, 1))
-geojson_2009 = geoJsonTransformer(dataframe_2009, datetime(2009, 1, 1))
-geojson_2014 = geoJsonTransformer(dataframe_2014, datetime(2014, 1, 1))
-geojson_2019 = geoJsonTransformer(dataframe_2019, datetime(2019, 1, 1))
-geojson_2024 = geoJsonTransformer(dataframe_2024, datetime(2024, 1, 1))
+geojson_1990 = geoJsonTransformer(dataframe_1990, 1990)
+geojson_1994 = geoJsonTransformer(dataframe_1994, 1994)
+geojson_1999 = geoJsonTransformer(dataframe_1999, 1999)
+geojson_2004 = geoJsonTransformer(dataframe_2004, 2004)
+geojson_2009 = geoJsonTransformer(dataframe_2009, 2009)
+geojson_2014 = geoJsonTransformer(dataframe_2014, 2014)
+geojson_2019 = geoJsonTransformer(dataframe_2019, 2019)
+geojson_2024 = geoJsonTransformer(dataframe_2024, 2024)
 
 
 write_json_file('company_after1990.geojson', geojson_1990)
