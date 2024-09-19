@@ -5,7 +5,7 @@
         "wikiDataName":"General Motors",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q81965",
         "headquarterCoordinates":"Point(-83.0475 42.331666666)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Exxon Mobil",
@@ -13,7 +13,7 @@
         "wikiDataName":"ExxonMobil",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q156238",
         "headquarterCoordinates":"Point(-95.3869 30.0542)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Ford Motor",
@@ -21,7 +21,7 @@
         "wikiDataName":"Ford Motor Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q44294",
         "headquarterCoordinates":"Point(-83.213480555 42.311330555)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"U.S. Steel",
@@ -29,7 +29,7 @@
         "wikiDataName":"U.S. Steel",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q72539",
         "headquarterCoordinates":"Point(-80.0 40.441666666)",
-        "industry":"ferrous metallurgy"
+        "industry":"basic_materials"
     },
     {
         "companyName":"General Electric",
@@ -37,7 +37,7 @@
         "wikiDataName":"General Electric",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q54173",
         "headquarterCoordinates":"Point(-71.057777777 42.360277777)",
-        "industry":"mechanical engineering"
+        "industry":"industrials"
     },
     {
         "companyName":"Chrysler",
@@ -45,7 +45,7 @@
         "wikiDataName":"Chrysler",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q29610",
         "headquarterCoordinates":"Point(-83.234166666 42.6875)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Mobil",
@@ -53,7 +53,7 @@
         "wikiDataName":"Mobile",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q3088656",
         "headquarterCoordinates":"Point(-77.304377 38.852612)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Gulf Oil",
@@ -61,7 +61,7 @@
         "wikiDataName":"Gulf Oil",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1296860",
         "headquarterCoordinates":"Point(-80.0 40.441666666)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Bethlehem Steel",
@@ -69,7 +69,7 @@
         "wikiDataName":"Bethlehem Steel",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q27432",
         "headquarterCoordinates":"Point(-75.375555555 40.626111111)",
-        "industry":"ferrous metallurgy"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Esmark",
@@ -77,7 +77,7 @@
         "wikiDataName":"",
         "qid":"",
         "headquarterCoordinates":"Point(-80.1445 40.5395)",
-        "industry":null
+        "industry":"basic_materials"
     },
     {
         "companyName":"AT&T Technologies",
@@ -85,7 +85,7 @@
         "wikiDataName":"AT&T Inc.",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q35476",
         "headquarterCoordinates":"Point(-96.808888888 32.779166666)",
-        "industry":"telecommunication"
+        "industry":"communications"
     },
     {
         "companyName":"Texaco",
@@ -93,7 +93,7 @@
         "wikiDataName":"Texaco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q775060",
         "headquarterCoordinates":"Point(-121.978055555 37.78)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Amoco",
@@ -101,7 +101,7 @@
         "wikiDataName":"Amoco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q465952",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"CBS",
@@ -109,7 +109,7 @@
         "wikiDataName":"CBS",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q43380",
         "headquarterCoordinates":"Point(-73.978789 40.761175)",
-        "industry":"media industry"
+        "industry":"communications"
     },
     {
         "companyName":"DuPont",
@@ -117,7 +117,7 @@
         "wikiDataName":"DuPont",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q221062",
         "headquarterCoordinates":"Point(-75.551388888 39.748333333)",
-        "industry":"chemical industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Armour",
@@ -125,7 +125,7 @@
         "wikiDataName":"Armour and Company",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q2862799",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"meatpacking industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Shell Oil",
@@ -133,7 +133,7 @@
         "wikiDataName":"Shell USA",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3240764",
         "headquarterCoordinates":"Point(-95.6131 29.7858)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"ChevronTexaco",
@@ -141,7 +141,7 @@
         "wikiDataName":"Chevron Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q319642",
         "headquarterCoordinates":"Point(-121.978055555 37.78)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Boeing",
@@ -149,7 +149,7 @@
         "wikiDataName":"Boeing",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q66",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"arms industry"
+        "industry":"industrials"
     },
     {
         "companyName":"General Dynamics",
@@ -157,7 +157,7 @@
         "wikiDataName":"General Dynamics",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q502940",
         "headquarterCoordinates":"Point(-77.171111111 38.882222222)",
-        "industry":"mechanical engineering"
+        "industry":"industrials"
     },
     {
         "companyName":"Kraft",
@@ -165,7 +165,7 @@
         "wikiDataName":"Kraft Foods Group",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q327751",
         "headquarterCoordinates":"Point(-87.766666666 42.1)",
-        "industry":"food industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Goodyear Tire & Rubber",
@@ -173,7 +173,7 @@
         "wikiDataName":"Goodyear Tire and Rubber Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q620875",
         "headquarterCoordinates":"Point(-81.517777777 41.073055555)",
-        "industry":"manufacturing"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Union Carbide",
@@ -181,7 +181,7 @@
         "wikiDataName":"Union Carbide",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q908553",
         "headquarterCoordinates":"Point(-73.471111111 41.402222222)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Sinclair Oil",
@@ -189,7 +189,7 @@
         "wikiDataName":"Sinclair Oil Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1290900",
         "headquarterCoordinates":"Point(-111.883333333 40.75)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Rockwell Automation",
@@ -197,7 +197,7 @@
         "wikiDataName":"Rockwell Automation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1529234",
         "headquarterCoordinates":"Point(-87.95 43.05)",
-        "industry":null
+        "industry":"industrials"
     },
     {
         "companyName":"United Technologies",
@@ -205,7 +205,7 @@
         "wikiDataName":"United Technologies Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1045758",
         "headquarterCoordinates":"Point(-72.685 41.763333333)",
-        "industry":"holding company"
+        "industry":"industrials"
     },
     {
         "companyName":"Republic Steel",
@@ -213,7 +213,7 @@
         "wikiDataName":"Republic Steel",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1487172",
         "headquarterCoordinates":"Point(-81.669722222 41.482222222)",
-        "industry":"ferrous metallurgy"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Navistar International",
@@ -221,7 +221,7 @@
         "wikiDataName":"Navistar",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q29739",
         "headquarterCoordinates":"Point(-88.0883 41.7925)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"RCA",
@@ -229,7 +229,7 @@
         "wikiDataName":"RCA Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q218038",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"electronics"
+        "industry":"communications"
     },
     {
         "companyName":"Firestone Tire & Rubber",
@@ -237,7 +237,7 @@
         "wikiDataName":"Firestone Tire and Rubber Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q420837",
         "headquarterCoordinates":"Point(-86.774444444 36.162222222)",
-        "industry":"tyre industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Procter & Gamble",
@@ -245,7 +245,7 @@
         "wikiDataName":"Procter & Gamble",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q212405",
         "headquarterCoordinates":"Point(-82.5 40.5)",
-        "industry":"pharmaceutical industry"
+        "industry":"health"
     },
     {
         "companyName":"ConocoPhillips",
@@ -253,7 +253,7 @@
         "wikiDataName":"ConocoPhillips",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q214763",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Douglas Aircraft",
@@ -261,7 +261,7 @@
         "wikiDataName":"Douglas",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q651778",
         "headquarterCoordinates":"Point(-118.195555555 33.768055555)",
-        "industry":"aerospace manufacturer"
+        "industry":"industrials"
     },
     {
         "companyName":"Citgo Petroleum",
@@ -269,7 +269,7 @@
         "wikiDataName":"Citgo",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2974437",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":null
+        "industry":"energy"
     },
     {
         "companyName":"Continental Group",
@@ -277,7 +277,7 @@
         "wikiDataName":"Continental Corporation USA",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q28971313",
         "headquarterCoordinates":"Point(-83.234166666 42.6875)",
-        "industry":null
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"American Can",
@@ -285,7 +285,7 @@
         "wikiDataName":"American Can Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q4743274",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":null
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Intl. Business Machines",
@@ -293,7 +293,7 @@
         "wikiDataName":"IBM",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q37156",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"computer hardware"
+        "industry":"information_technology"
     },
     {
         "companyName":"General Foods",
@@ -301,7 +301,7 @@
         "wikiDataName":"General Foods",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q4272111",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"food industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"International Paper",
@@ -309,7 +309,7 @@
         "wikiDataName":"International Paper",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q202972",
         "headquarterCoordinates":"Point(-71.057777777 42.360277777)",
-        "industry":"pulp and paper industry"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Borden Chemical",
@@ -317,7 +317,7 @@
         "wikiDataName":"Borden",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q4944479",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"food industry"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Uniroyal",
@@ -325,7 +325,7 @@
         "wikiDataName":"United States Rubber Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3296074",
         "headquarterCoordinates":"Point(-73.051388888 41.489722222)",
-        "industry":"manufacturing"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Sperry",
@@ -333,7 +333,7 @@
         "wikiDataName":"Sperry Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q784567",
         "headquarterCoordinates":"Point(-75.0 43.0)",
-        "industry":"arms industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Alcoa",
@@ -341,7 +341,7 @@
         "wikiDataName":"Alcoa",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q135325",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"aluminium industry"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Lockheed Martin",
@@ -349,7 +349,7 @@
         "wikiDataName":"Lockheed Martin",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q7240",
         "headquarterCoordinates":"Point(-77.0946459 38.9848265)",
-        "industry":"electronics"
+        "industry":"industrials"
     },
     {
         "companyName":"Jones & Laughlin Steel",
@@ -357,7 +357,7 @@
         "wikiDataName":"Jones and Laughlin Steel Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q16980830",
         "headquarterCoordinates":"Point(-80.0 40.441666666)",
-        "industry":"ferrous metallurgy"
+        "industry":"industrials"
     },
     {
         "companyName":"Eastman Kodak",
@@ -365,7 +365,7 @@
         "wikiDataName":"Kodak",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q486269",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"chemical industry"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"ARMCO",
@@ -373,7 +373,7 @@
         "wikiDataName":"AK Steel Holding",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q71946",
         "headquarterCoordinates":"Point(-84.3647 39.3529)",
-        "industry":"ferrous metallurgy"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Sunoco",
@@ -381,7 +381,7 @@
         "wikiDataName":"Sunoco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1423218",
         "headquarterCoordinates":"Point(-96.808888888 32.779166666)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Ryerson Tull",
@@ -389,7 +389,7 @@
         "wikiDataName":"Ryerson, Inc.",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q7385029",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"steel"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Goodrich",
@@ -397,7 +397,7 @@
         "wikiDataName":"Goodrich Corporation",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q1537591",
         "headquarterCoordinates":"Point(-80.843333333 35.226944444)",
-        "industry":"manufacture of air and spacecraft and related machinery"
+        "industry":"industrials"
     },
     {
         "companyName":"Bendix",
@@ -405,7 +405,7 @@
         "wikiDataName":"Bendix Corporation",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q4887137",
         "headquarterCoordinates":"Point(-82.035509 41.456083)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Honeywell Intl.",
@@ -413,7 +413,7 @@
         "wikiDataName":"Honeywell International, Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q898208",
         "headquarterCoordinates":"Point(-80.843333333 35.226944444)",
-        "industry":"retail"
+        "industry":"industrials"
     },
     {
         "companyName":"Youngstown Sheet & Tube",
@@ -421,7 +421,7 @@
         "wikiDataName":"Youngstown Sheet and Tube",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q8058666",
         "headquarterCoordinates":"Point(-80.649166666 41.096388888)",
-        "industry":"ferrous metallurgy"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Burlington Industries Equity",
@@ -429,7 +429,7 @@
         "wikiDataName":"Burlington Industries",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q924995",
         "headquarterCoordinates":"Point(-79.819444444 36.08)",
-        "industry":"textile industry"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Caterpillar",
@@ -437,7 +437,7 @@
         "wikiDataName":"Caterpillar Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q459965",
         "headquarterCoordinates":"Point(-89.250277777 40.000277777)",
-        "industry":"mechanical engineering"
+        "industry":"industrials"
     },
     {
         "companyName":"Wilson",
@@ -445,7 +445,7 @@
         "wikiDataName":"Wilson Sporting Goods",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1329777",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"textile industry"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Atlantic Richfield",
@@ -453,7 +453,7 @@
         "wikiDataName":"ARCO",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q304769",
         "headquarterCoordinates":"Point(-118.24368 34.05223)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Fortune Brands",
@@ -461,7 +461,7 @@
         "wikiDataName":"Fortune Brands",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1439125",
         "headquarterCoordinates":"Point(-87.851388888 42.168333333)",
-        "industry":"conglomerate"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"AMAX",
@@ -469,7 +469,7 @@
         "wikiDataName":"AMAX Engineering Corporation",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q4652529",
         "headquarterCoordinates":"Point(-121.982777777 37.543055555)",
-        "industry":"information technology"
+        "industry":"information_technology"
     },
     {
         "companyName":"Conoco",
@@ -477,7 +477,7 @@
         "wikiDataName":"Conoco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1126518",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Allis-Chalmers",
@@ -485,7 +485,7 @@
         "wikiDataName":"Allis-Chalmers",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1806882",
         "headquarterCoordinates":"Point(-87.95 43.05)",
-        "industry":"Manufacture of machinery and equipment n.e.c."
+        "industry":"industrials"
     },
     {
         "companyName":"General Telephone & Electronics",
@@ -493,7 +493,7 @@
         "wikiDataName":"GTE",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3759492",
         "headquarterCoordinates":"Point(-73.552222222 41.096666666)",
-        "industry":"telecommunication"
+        "industry":"communications"
     },
     {
         "companyName":"Anaconda",
@@ -501,7 +501,7 @@
         "wikiDataName":"Anaconda Copper",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2845063",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"mining"
+        "industry":"basic_materials"
     },
     {
         "companyName":"National Intergroup",
@@ -509,7 +509,7 @@
         "wikiDataName":"National Steel Corporation",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q6978700",
         "headquarterCoordinates":"Point(-79.996244 40.439697)",
-        "industry":"ferrous metallurgy"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Martin Marietta",
@@ -517,7 +517,7 @@
         "wikiDataName":"Martin Marietta",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q626800",
         "headquarterCoordinates":"Point(-77.0946459 38.9848265)",
-        "industry":"aerospace manufacturer"
+        "industry":"industrials"
     },
     {
         "companyName":"American Motors",
@@ -525,7 +525,7 @@
         "wikiDataName":"American Motors Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q202708",
         "headquarterCoordinates":"Point(-87.845555555 42.582222222)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Monsanto",
@@ -533,7 +533,7 @@
         "wikiDataName":"Monsanto",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q207983",
         "headquarterCoordinates":"Point(-90.199444444 38.626388888)",
-        "industry":"biotechnology"
+        "industry":"health"
     },
     {
         "companyName":"ITT Industries",
@@ -541,7 +541,7 @@
         "wikiDataName":"ITT Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q582418",
         "headquarterCoordinates":"Point(-73.552222222 41.096666666)",
-        "industry":"manufacturing"
+        "industry":"industrials"
     },
     {
         "companyName":"Nabisco Group Holdings",
@@ -549,7 +549,7 @@
         "wikiDataName":"Nabisco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1545718",
         "headquarterCoordinates":"Point(-74.3637 40.8186)",
-        "industry":"food processing"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Dow Chemical",
@@ -557,7 +557,7 @@
         "wikiDataName":"Dow Chemical Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q855639",
         "headquarterCoordinates":"Point(-84.247222222 43.615555555)",
-        "industry":"chemical industry"
+        "industry":"basic_materials"
     },
     {
         "companyName":"GenCorp",
@@ -565,7 +565,7 @@
         "wikiDataName":"Aerojet Rocketdyne Holdings",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q392445",
         "headquarterCoordinates":"Point(-118.415536111 33.919147222)",
-        "industry":null
+        "industry":"industrials"
     },
     {
         "companyName":"McDonnell Douglas",
@@ -573,7 +573,7 @@
         "wikiDataName":"McDonnell Douglas",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q201815",
         "headquarterCoordinates":"Point(-90.199444444 38.626388888)",
-        "industry":"mechanical engineering"
+        "industry":"industrials"
     },
     {
         "companyName":"LTV",
@@ -581,7 +581,7 @@
         "wikiDataName":"Ling-Temco-Vought",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3730937",
         "headquarterCoordinates":"Point(-81.669722222 41.482222222)",
-        "industry":"conglomerate"
+        "industry":"industrials"
     },
     {
         "companyName":"Tenneco Automotive",
@@ -589,7 +589,7 @@
         "wikiDataName":"Tenneco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1509038",
         "headquarterCoordinates":"Point(-87.8508 42.2347)",
-        "industry":"list of auto parts"
+        "industry":"industrials"
     },
     {
         "companyName":"Sealed Air",
@@ -597,7 +597,7 @@
         "wikiDataName":"Sealed Air",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q7440621",
         "headquarterCoordinates":"Point(-74.1195 40.9045)",
-        "industry":"conglomerate"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Litton Industries",
@@ -605,7 +605,7 @@
         "wikiDataName":"Litton Industries",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2058311",
         "headquarterCoordinates":"Point(-87.95 43.05)",
-        "industry":"aerospace manufacturer"
+        "industry":"industrials"
     },
     {
         "companyName":"Textron",
@@ -613,7 +613,7 @@
         "wikiDataName":"Textron",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2140315",
         "headquarterCoordinates":"Point(-71.41283 41.82399)",
-        "industry":"automotive industry"
+        "industry":"industrials"
     },
     {
         "companyName":"Unocal",
@@ -621,7 +621,7 @@
         "wikiDataName":"Unocal Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1393497",
         "headquarterCoordinates":"Point(-118.24368 34.05223)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Occidental Petroleum",
@@ -629,7 +629,7 @@
         "wikiDataName":"Occidental Petroleum",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2013357",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Singer",
@@ -637,7 +637,7 @@
         "wikiDataName":"Singer Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1330508",
         "headquarterCoordinates":"Point(-98.5795 39.828175)",
-        "industry":"manufacturing"
+        "industry":"industrials"
     },
     {
         "companyName":"Rapid-American",
@@ -645,7 +645,7 @@
         "wikiDataName":"",
         "qid":"",
         "headquarterCoordinates":"Point(-73.970111 40.764605)",
-        "industry":null
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"OfficeMax",
@@ -653,7 +653,7 @@
         "wikiDataName":"OfficeMax",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q7079111",
         "headquarterCoordinates":"Point(-80.174556 26.367185)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Greyhound",
@@ -661,7 +661,7 @@
         "wikiDataName":"Greyhound Lines",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q755309",
         "headquarterCoordinates":"Point(-96.797 32.7841)",
-        "industry":null
+        "industry":"utilities"
     },
     {
         "companyName":"Xerox",
@@ -669,7 +669,7 @@
         "wikiDataName":"Xerox",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q152433",
         "headquarterCoordinates":"Point(-72.7 41.6)",
-        "industry":"information technology"
+        "industry":"information_technology"
     },
     {
         "companyName":"Beatrice",
@@ -677,7 +677,7 @@
         "wikiDataName":"Beatrice Foods",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q813248",
         "headquarterCoordinates":"Point(-88.0169 41.7947)",
-        "industry":null
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Honeywell",
@@ -685,7 +685,7 @@
         "wikiDataName":"Honeywell International, Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q898208",
         "headquarterCoordinates":"Point(-80.843333333 35.226944444)",
-        "industry":"retail"
+        "industry":"industrials"
     },
     {
         "companyName":"3M",
@@ -693,7 +693,7 @@
         "wikiDataName":"3M",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q159433",
         "headquarterCoordinates":"Point(-92.995277777 44.953055555)",
-        "industry":"conglomerate"
+        "industry":"industrials"
     },
     {
         "companyName":"Ralston Purina",
@@ -701,7 +701,7 @@
         "wikiDataName":"Ralston Purina",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q17081865",
         "headquarterCoordinates":"Point(-90.199444444 38.626388888)",
-        "industry":null
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Ashland",
@@ -709,7 +709,7 @@
         "wikiDataName":"Ashland Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q725634",
         "headquarterCoordinates":"Point(-84.509722222 39.065)",
-        "industry":"manufacturing"
+        "industry":"industrials"
     },
     {
         "companyName":"Amerada Hess",
@@ -717,7 +717,7 @@
         "wikiDataName":"Hess Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1615684",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"list of oil exploration and production companies"
+        "industry":"energy"
     },
     {
         "companyName":"Colgate-Palmolive",
@@ -725,7 +725,7 @@
         "wikiDataName":"Colgate-Palmolive Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q609466",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"personal care product"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Marathon Oil",
@@ -733,7 +733,7 @@
         "wikiDataName":"Marathon Oil",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1577587",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Altria Group",
@@ -741,7 +741,7 @@
         "wikiDataName":"Altria",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q445007",
         "headquarterCoordinates":"Point(-77.436666666 37.540833333)",
-        "industry":"food industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"BP America",
@@ -749,7 +749,7 @@
         "wikiDataName":"",
         "qid":"",
         "headquarterCoordinates":"Point(-95.641217 29.781411)",
-        "industry":null
+        "industry":"energy"
     },
     {
         "companyName":"Gulf & Western Industries",
@@ -757,7 +757,7 @@
         "wikiDataName":"Gulf and Western Industries",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3111140",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"mass media"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Getty Oil",
@@ -765,7 +765,7 @@
         "wikiDataName":"Getty Oil",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3104680",
         "headquarterCoordinates":"Point(-73.5558 40.7136)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"PepsiCo",
@@ -773,7 +773,7 @@
         "wikiDataName":"PepsiCo",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q334800",
         "headquarterCoordinates":"Point(-73.714444444 41.040555555)",
-        "industry":"food industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Georgia-Pacific",
@@ -781,7 +781,7 @@
         "wikiDataName":"Georgia-Pacific",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1509282",
         "headquarterCoordinates":"Point(-84.390277777 33.756944444)",
-        "industry":"pulp and paper industry"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Coca-Cola",
@@ -789,7 +789,7 @@
         "wikiDataName":"The Coca-Cola Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3295867",
         "headquarterCoordinates":"Point(-84.390277777 33.756944444)",
-        "industry":"food industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Sara Lee",
@@ -797,7 +797,7 @@
         "wikiDataName":"Sara Lee Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q660309",
         "headquarterCoordinates":"Point(-88.0169 41.7947)",
-        "industry":"fast-moving consumer goods"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Nabisco Brands",
@@ -805,7 +805,7 @@
         "wikiDataName":"Nabisco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1545718",
         "headquarterCoordinates":"Point(-74.3637 40.8186)",
-        "industry":"food processing"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Union Pacific",
@@ -813,7 +813,7 @@
         "wikiDataName":"Union Pacific Railroad",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q725793",
         "headquarterCoordinates":"Point(-95.9375 41.258611111)",
-        "industry":"rail transport"
+        "industry":"utilities"
     },
     {
         "companyName":"Coastal",
@@ -821,7 +821,7 @@
         "wikiDataName":"Coastal Corporation",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q5138277",
         "headquarterCoordinates":"Point(-95.4318 29.7327)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Johnson & Johnson",
@@ -829,7 +829,7 @@
         "wikiDataName":"Johnson & Johnson",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q333718",
         "headquarterCoordinates":"Point(-74.444444444 40.486666666)",
-        "industry":"pharmaceutical industry"
+        "industry":"health"
     },
     {
         "companyName":"AT&T",
@@ -837,7 +837,7 @@
         "wikiDataName":"AT&T",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q35476",
         "headquarterCoordinates":"Point(-96.808888888 32.779166666)",
-        "industry":"telecommunication"
+        "industry":"communications"
     },
     {
         "companyName":"Signal Companies",
@@ -845,7 +845,7 @@
         "wikiDataName":"AlliedSignal",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2255004",
         "headquarterCoordinates":"Point(-74.4773 40.7966)",
-        "industry":null
+        "industry":"energy"
     },
     {
         "companyName":"Anheuser-Busch",
@@ -853,7 +853,7 @@
         "wikiDataName":"Anheuser-Busch",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q125074",
         "headquarterCoordinates":"Point(-90.199444444 38.626388888)",
-        "industry":"brewing"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Digital Equipment",
@@ -861,7 +861,7 @@
         "wikiDataName":"Digital Equipment Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q690079",
         "headquarterCoordinates":"Point(-71.45 42.433333333)",
-        "industry":"information technology"
+        "industry":"information_technology"
     },
     {
         "companyName":"Unisys",
@@ -869,7 +869,7 @@
         "wikiDataName":"Unisys",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q518016",
         "headquarterCoordinates":"Point(-75.266289 40.152331)",
-        "industry":"information technology"
+        "industry":"information_technology"
     },
     {
         "companyName":"Raytheon",
@@ -877,7 +877,7 @@
         "wikiDataName":"Raytheon Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q156644",
         "headquarterCoordinates":"Point(-71.235005 42.380596)",
-        "industry":"aerospace manufacturer"
+        "industry":"industrials"
     },
     {
         "companyName":"Hewlett-Packard",
@@ -885,7 +885,7 @@
         "wikiDataName":"Hewlett-Packard",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q80978",
         "headquarterCoordinates":"Point(-122.133333 37.416667)",
-        "industry":"computer hardware"
+        "industry":"information_technology"
     },
     {
         "companyName":"ConAgra Foods",
@@ -893,7 +893,7 @@
         "wikiDataName":"Conagra Brands, Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1123399",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"food industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Motorola",
@@ -901,7 +901,7 @@
         "wikiDataName":"Motorola",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q259011",
         "headquarterCoordinates":"Point(-88.083888888 42.030277777)",
-        "industry":"telecommunications"
+        "industry":"communications"
     },
     {
         "companyName":"Bristol-Myers Squibb",
@@ -909,7 +909,7 @@
         "wikiDataName":"Bristol-Myers Squibb",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q266423",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"pharmaceutical industry"
+        "industry":"health"
     },
     {
         "companyName":"Weyerhaeuser",
@@ -917,7 +917,7 @@
         "wikiDataName":"Weyerhaeuser",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1780382",
         "headquarterCoordinates":"Point(-122.33207 47.60621)",
-        "industry":"pulp and paper industry"
+        "industry":"basic_materials"
     },
     {
         "companyName":"Unilever U.S.",
@@ -925,7 +925,7 @@
         "wikiDataName":"Unilever (United States)",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q28971005",
         "headquarterCoordinates":"Point(-73.9525 40.8825)",
-        "industry":null
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Baxter International",
@@ -933,7 +933,7 @@
         "wikiDataName":"Baxter International",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q761965",
         "headquarterCoordinates":"Point(-87.851388888 42.168333333)",
-        "industry":"medical equipment"
+        "industry":"health"
     },
     {
         "companyName":"IBP",
@@ -941,7 +941,7 @@
         "wikiDataName":"IBP, Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q5969206",
         "headquarterCoordinates":"Point(-96.48638889 42.4875)",
-        "industry":"meatpacking industry"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Merck",
@@ -949,7 +949,7 @@
         "wikiDataName":"Merck & Co.",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q247489",
         "headquarterCoordinates":"Point(-75.163611111 39.952777777)",
-        "industry":"pharmaceutical industry"
+        "industry":"health"
     },
     {
         "companyName":"Archer Daniels Midland",
@@ -957,7 +957,7 @@
         "wikiDataName":"Archer Daniels Midland",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q632694",
         "headquarterCoordinates":"Point(-87.6305 41.8865)",
-        "industry":"food processing"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Wal-Mart Stores",
@@ -965,7 +965,7 @@
         "wikiDataName":"Walmart",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q483551",
         "headquarterCoordinates":"Point(-94.213333333 36.366666666)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Sears Roebuck",
@@ -973,7 +973,7 @@
         "wikiDataName":"Sears",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q6499202",
         "headquarterCoordinates":"Point(-88.119166666 42.063055555)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"State Farm Insurance Cos",
@@ -981,7 +981,7 @@
         "wikiDataName":"State Farm Insurance",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2007336",
         "headquarterCoordinates":"Point(-88.993611111 40.484166666)",
-        "industry":"insurance"
+        "industry":"financials"
     },
     {
         "companyName":"Prudential Ins. Co. of America",
@@ -989,7 +989,7 @@
         "wikiDataName":"Prudential Financial",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2114414",
         "headquarterCoordinates":"Point(-74.17106 40.7335)",
-        "industry":"life insurance"
+        "industry":"financials"
     },
     {
         "companyName":"Kmart Holding",
@@ -997,7 +997,7 @@
         "wikiDataName":"Kmart",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1753080",
         "headquarterCoordinates":"Point(-83.0475 42.331666666)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Citicorp",
@@ -1005,7 +1005,7 @@
         "wikiDataName":"Citigroup",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q219508",
         "headquarterCoordinates":"Point(-74.011 40.7207)",
-        "industry":"bank"
+        "industry":"financials"
     },
     {
         "companyName":"Kroger",
@@ -1013,7 +1013,7 @@
         "wikiDataName":"Kroger",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q153417",
         "headquarterCoordinates":"Point(-84.5125 39.1)",
-        "industry":"retail"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"American Intl. Group",
@@ -1021,7 +1021,7 @@
         "wikiDataName":"American International Group",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q212235",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"MetLife",
@@ -1029,7 +1029,7 @@
         "wikiDataName":"MetLife",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q607131",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"insurance industry"
+        "industry":"financials"
     },
     {
         "companyName":"Target",
@@ -1037,7 +1037,7 @@
         "wikiDataName":"Target Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1046951",
         "headquarterCoordinates":"Point(-93.269166666 44.981944444)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"J.C. Penney",
@@ -1045,7 +1045,7 @@
         "wikiDataName":"J. C. Penney",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q920037",
         "headquarterCoordinates":"Point(-96.75 33.05)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"GTE",
@@ -1053,7 +1053,7 @@
         "wikiDataName":"GTE",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3759492",
         "headquarterCoordinates":"Point(-73.552222222 41.096666666)",
-        "industry":"telecommunication"
+        "industry":"communications"
     },
     {
         "companyName":"United Parcel Service",
@@ -1061,7 +1061,7 @@
         "wikiDataName":"United Parcel Service",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q155026",
         "headquarterCoordinates":"Point(-84.368611111 33.9375)",
-        "industry":"logistics"
+        "industry":"utilities"
     },
     {
         "companyName":"Fannie Mae",
@@ -1069,7 +1069,7 @@
         "wikiDataName":"Fannie Mae",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q621096",
         "headquarterCoordinates":"Point(-77.0521 38.9364)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Citigroup",
@@ -1077,7 +1077,7 @@
         "wikiDataName":"Citigroup",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q219508",
         "headquarterCoordinates":"Point(-74.011 40.7207)",
-        "industry":"bank"
+        "industry":"financials"
     },
     {
         "companyName":"Cigna",
@@ -1085,7 +1085,7 @@
         "wikiDataName":"The Cigna Group",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q642271",
         "headquarterCoordinates":"Point(-77.0365 38.8977)",
-        "industry":"managed care"
+        "industry":"health"
     },
     {
         "companyName":"American Stores",
@@ -1093,7 +1093,7 @@
         "wikiDataName":"American Stores",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q4745184",
         "headquarterCoordinates":"Point(-75.163611111 39.952777777)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Merrill Lynch",
@@ -1101,7 +1101,7 @@
         "wikiDataName":"Merrill",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q334122",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Aetna",
@@ -1109,7 +1109,7 @@
         "wikiDataName":"Aetna",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q26049",
         "headquarterCoordinates":"Point(-72.685 41.763333333)",
-        "industry":"insurance"
+        "industry":"financials"
     },
     {
         "companyName":"BellSouth",
@@ -1117,7 +1117,7 @@
         "wikiDataName":"BellSouth",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q815668",
         "headquarterCoordinates":"Point(-84.390277777 33.756944444)",
-        "industry":"telecommunications"
+        "industry":"communications"
     },
     {
         "companyName":"BankAmerica Corp.",
@@ -1125,7 +1125,7 @@
         "wikiDataName":"Bank of America",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q487907",
         "headquarterCoordinates":"Point(-80.843333333 35.226944444)",
-        "industry":"bank"
+        "industry":"financials"
     },
     {
         "companyName":"Costco Wholesale",
@@ -1133,7 +1133,7 @@
         "wikiDataName":"Costco",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q715583",
         "headquarterCoordinates":"Point(-122.043333333 47.535555555)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"AMR",
@@ -1141,7 +1141,7 @@
         "wikiDataName":"American Medical Response",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3614084",
         "headquarterCoordinates":"Point(-104.911388888 39.615833333)",
-        "industry":"health care"
+        "industry":"health"
     },
     {
         "companyName":"Supervalu",
@@ -1149,7 +1149,7 @@
         "wikiDataName":"SuperValu",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q682047",
         "headquarterCoordinates":"Point(-93.269166666 44.981944444)",
-        "industry":"retail"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Fleming",
@@ -1157,7 +1157,7 @@
         "wikiDataName":"Fleming Companies, Inc",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q18153172",
         "headquarterCoordinates":"Point(-97.523844 35.527998)",
-        "industry":null
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Safeway",
@@ -1165,7 +1165,7 @@
         "wikiDataName":"Safeway",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1508234",
         "headquarterCoordinates":"Point(-121.8825 37.6725)",
-        "industry":"retail"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"American Express",
@@ -1173,7 +1173,7 @@
         "wikiDataName":"American Express",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q194360",
         "headquarterCoordinates":"Point(-74.015277777 40.712777777)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Chase Manhattan Corp.",
@@ -1181,7 +1181,7 @@
         "wikiDataName":"Chase Bank",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q524629",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Allstate",
@@ -1189,7 +1189,7 @@
         "wikiDataName":"Allstate",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2645636",
         "headquarterCoordinates":"Point(-87.8408 42.1292)",
-        "industry":"insurance"
+        "industry":"financials"
     },
     {
         "companyName":"Intel",
@@ -1197,7 +1197,7 @@
         "wikiDataName":"Intel",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q248",
         "headquarterCoordinates":"Point(-121.966666666 37.35)",
-        "industry":"electrical industry"
+        "industry":"information_technology"
     },
     {
         "companyName":"Loews",
@@ -1205,7 +1205,7 @@
         "wikiDataName":"Loews Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q826526",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":null
+        "industry":"financials"
     },
     {
         "companyName":"Columbia\/HCA Healthcare",
@@ -1213,7 +1213,7 @@
         "wikiDataName":"HCA Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1630431",
         "headquarterCoordinates":"Point(-86.774444444 36.162222222)",
-        "industry":"health care"
+        "industry":"health"
     },
     {
         "companyName":"Home Depot",
@@ -1221,7 +1221,7 @@
         "wikiDataName":"The Home Depot",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q864407",
         "headquarterCoordinates":"Point(-84.390277777 33.756944444)",
-        "industry":"retail"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"Bank of America Corp.",
@@ -1229,7 +1229,7 @@
         "wikiDataName":"Bank of America",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q487907",
         "headquarterCoordinates":"Point(-80.843333333 35.226944444)",
-        "industry":"bank"
+        "industry":"financials"
     },
     {
         "companyName":"SBC Communications",
@@ -1237,7 +1237,7 @@
         "wikiDataName":"Southwestern Bell",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q3301294",
         "headquarterCoordinates":"Point(-96.808888888 32.779166666)",
-        "industry":"telecommunications"
+        "industry":"communications"
     },
     {
         "companyName":"Enron",
@@ -1245,7 +1245,7 @@
         "wikiDataName":"Enron",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q327646",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"energy industry"
+        "industry":"energy"
     },
     {
         "companyName":"Walt Disney",
@@ -1253,7 +1253,7 @@
         "wikiDataName":"The Walt Disney Company",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q7414",
         "headquarterCoordinates":"Point(-98.5795 39.828175)",
-        "industry":"animation"
+        "industry":"communications"
     },
     {
         "companyName":"TIAA-CREF",
@@ -1261,7 +1261,7 @@
         "wikiDataName":"TIAA",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q740999",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Verizon Communications",
@@ -1269,7 +1269,7 @@
         "wikiDataName":"Verizon Communications",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q467752",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"telecommunications"
+        "industry":"communications"
     },
     {
         "companyName":"Compaq Computer",
@@ -1277,7 +1277,7 @@
         "wikiDataName":"Compaq",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q324603",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"computer industry"
+        "industry":"information_technology"
     },
     {
         "companyName":"Lucent Technologies",
@@ -1285,7 +1285,7 @@
         "wikiDataName":"Lucent",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1873176",
         "headquarterCoordinates":"Point(-74.4011111 40.6953056)",
-        "industry":"communication device"
+        "industry":"information_technology"
     },
     {
         "companyName":"Albertson's",
@@ -1293,7 +1293,7 @@
         "wikiDataName":"Albertsons",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2831861",
         "headquarterCoordinates":"Point(-116.237777777 43.613611111)",
-        "industry":"retail"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"MCI WorldCom",
@@ -1301,7 +1301,7 @@
         "wikiDataName":"MCI Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1881291",
         "headquarterCoordinates":"Point(-77.4875 39.0436)",
-        "industry":"telecommunication"
+        "industry":"communications"
     },
     {
         "companyName":"Morgan Stanley",
@@ -1309,7 +1309,7 @@
         "wikiDataName":"Morgan Stanley",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q334204",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Bell Atlantic",
@@ -1317,7 +1317,7 @@
         "wikiDataName":"Verizon Communications",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q467752",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"telecommunications"
+        "industry":"communications"
     },
     {
         "companyName":"McKesson",
@@ -1325,7 +1325,7 @@
         "wikiDataName":"McKesson Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q570473",
         "headquarterCoordinates":"Point(-96.950833333 32.811666666)",
-        "industry":"product distribution"
+        "industry":"health"
     },
     {
         "companyName":"Bank One Corp.",
@@ -1333,7 +1333,7 @@
         "wikiDataName":"Bank One Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2882621",
         "headquarterCoordinates":"Point(-87.65005 41.85003)",
-        "industry":"bank"
+        "industry":"financials"
     },
     {
         "companyName":"Ingram Micro",
@@ -1341,7 +1341,7 @@
         "wikiDataName":"Ingram Micro",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q324616",
         "headquarterCoordinates":"Point(-117.7925 33.684166666)",
-        "industry":"information technology"
+        "industry":"information_technology"
     },
     {
         "companyName":"Time Warner",
@@ -1349,7 +1349,7 @@
         "wikiDataName":"Time Warner Cable",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1885099",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"telecommunication"
+        "industry":"communications"
     },
     {
         "companyName":"Prudential Financial",
@@ -1357,7 +1357,7 @@
         "wikiDataName":"Prudential Financial",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2114414",
         "headquarterCoordinates":"Point(-74.17106 40.7335)",
-        "industry":"life insurance"
+        "industry":"financials"
     },
     {
         "companyName":"Goldman Sachs Group",
@@ -1365,7 +1365,7 @@
         "wikiDataName":"Goldman Sachs",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q193326",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Duke Energy",
@@ -1373,7 +1373,7 @@
         "wikiDataName":"Duke Energy",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1264404",
         "headquarterCoordinates":"Point(-80.843333333 35.226944444)",
-        "industry":"electricity generation"
+        "industry":"utilities"
     },
     {
         "companyName":"Berkshire Hathaway",
@@ -1381,7 +1381,7 @@
         "wikiDataName":"Berkshire Hathaway",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q217583",
         "headquarterCoordinates":"Point(-95.9375 41.258611111)",
-        "industry":"insurance"
+        "industry":"financials"
     },
     {
         "companyName":"Dell",
@@ -1389,7 +1389,7 @@
         "wikiDataName":"Dell Inc.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q30873",
         "headquarterCoordinates":"Point(-97.6725 30.515)",
-        "industry":"computer hardware"
+        "industry":"information_technology"
     },
     {
         "companyName":"Freddie Mac",
@@ -1397,7 +1397,7 @@
         "wikiDataName":"Freddie Mac",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q935969",
         "headquarterCoordinates":"Point(-77.175277777 38.928333333)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Cardinal Health",
@@ -1405,7 +1405,7 @@
         "wikiDataName":"Cardinal Health",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q902397",
         "headquarterCoordinates":"Point(-83.1403 40.1092)",
-        "industry":"health care"
+        "industry":"health"
     },
     {
         "companyName":"Pfizer",
@@ -1413,7 +1413,7 @@
         "wikiDataName":"Pfizer",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q206921",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"pharmaceutical industry"
+        "industry":"health"
     },
     {
         "companyName":"Dynegy",
@@ -1421,7 +1421,7 @@
         "wikiDataName":"Dynegy",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1269170",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"energy industry"
+        "industry":"utilities"
     },
     {
         "companyName":"CenterPoint Energy",
@@ -1429,7 +1429,7 @@
         "wikiDataName":"CenterPoint Energy",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1053560",
         "headquarterCoordinates":"Point(-95.383055555 29.762777777)",
-        "industry":"electricity generation"
+        "industry":"utilities"
     },
     {
         "companyName":"American Electric Power",
@@ -1437,7 +1437,7 @@
         "wikiDataName":"American Electric Power",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q464092",
         "headquarterCoordinates":"Point(-83.000555555 39.962222222)",
-        "industry":"electricity generation"
+        "industry":"utilities"
     },
     {
         "companyName":"El Paso",
@@ -1445,7 +1445,7 @@
         "wikiDataName":"El Paso Corp.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1324451",
         "headquarterCoordinates":"Point(-95.370682 29.756648)",
-        "industry":null
+        "industry":"energy"
     },
     {
         "companyName":"Aquila",
@@ -1453,7 +1453,7 @@
         "wikiDataName":"Aquila, Inc.",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q623266",
         "headquarterCoordinates":"Point(-94.583333333 39.05)",
-        "industry":"energy supply"
+        "industry":"utilities"
     },
     {
         "companyName":"Mirant",
@@ -1461,7 +1461,7 @@
         "wikiDataName":"Mirant",
         "qid":"https:\/\/www.wikidata.org\/wiki\/Q6872878",
         "headquarterCoordinates":"Point(-84.344100 33.930459)",
-        "industry":null
+        "industry":"utilities"
     },
     {
         "companyName":"AmerisourceBergen",
@@ -1469,7 +1469,7 @@
         "wikiDataName":"Cencora",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q470156",
         "headquarterCoordinates":"Point(-75.455 40.074444444)",
-        "industry":"pharmaceutical industry"
+        "industry":"health"
     },
     {
         "companyName":"J.P. Morgan Chase & Co.",
@@ -1477,7 +1477,7 @@
         "wikiDataName":"J.P. Morgan & Co.",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2633403",
         "headquarterCoordinates":"Point(-74.0 40.7)",
-        "industry":"financial services"
+        "industry":"financials"
     },
     {
         "companyName":"Walgreen",
@@ -1485,7 +1485,7 @@
         "wikiDataName":"Walgreens",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1591889",
         "headquarterCoordinates":"Point(-87.851388888 42.168333333)",
-        "industry":"retail"
+        "industry":"consumer_defensive"
     },
     {
         "companyName":"Wells Fargo",
@@ -1493,7 +1493,7 @@
         "wikiDataName":"Wells Fargo",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q744149",
         "headquarterCoordinates":"Point(-122.416388888 37.7775)",
-        "industry":"economics of banking"
+        "industry":"financials"
     },
     {
         "companyName":"Microsoft",
@@ -1501,7 +1501,7 @@
         "wikiDataName":"Microsoft",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2283",
         "headquarterCoordinates":"Point(-122.123888888 47.669444444)",
-        "industry":"software development"
+        "industry":"information_technology"
     },
     {
         "companyName":"Delphi",
@@ -1509,7 +1509,7 @@
         "wikiDataName":"Delphi Technologies",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q48971221",
         "headquarterCoordinates":"Point(-83.1674 42.6022)",
-        "industry":"Computer Programming Services"
+        "industry":"information_technology"
     },
     {
         "companyName":"Sprint",
@@ -1517,7 +1517,7 @@
         "wikiDataName":"Sprint Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q301965",
         "headquarterCoordinates":"Point(-94.680697222 38.940072222)",
-        "industry":"telecommunications"
+        "industry":"communications"
     },
     {
         "companyName":"Valero Energy",
@@ -1525,7 +1525,7 @@
         "wikiDataName":"Valero Energy Corporation",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1283291",
         "headquarterCoordinates":"Point(-98.493888888 29.425)",
-        "industry":"petroleum industry"
+        "industry":"energy"
     },
     {
         "companyName":"Medco Health Solutions",
@@ -1533,7 +1533,7 @@
         "wikiDataName":"Medco Health Solutions",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1364494",
         "headquarterCoordinates":"Point(-74.207777777 41.006944444)",
-        "industry":"pharmacy benefits manager"
+        "industry":"health"
     },
     {
         "companyName":"Lowe's",
@@ -1541,7 +1541,7 @@
         "wikiDataName":"Lowe's",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q1373493",
         "headquarterCoordinates":"Point(-80.820277777 35.584444444)",
-        "industry":"hardware store"
+        "industry":"consumer_cyclical"
     },
     {
         "companyName":"UnitedHealth Group",
@@ -1549,7 +1549,7 @@
         "wikiDataName":"UnitedHealth Group",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q2103926",
         "headquarterCoordinates":"Point(-93.503333333 44.913333333)",
-        "industry":"health care"
+        "industry":"health"
     },
     {
         "companyName":"Northrop Grumman",
@@ -1557,7 +1557,7 @@
         "wikiDataName":"Northrop Grumman",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q329953",
         "headquarterCoordinates":"Point(-77.171111111 38.882222222)",
-        "industry":"arms industry"
+        "industry":"industrials"
     },
     {
         "companyName":"CVS",
@@ -1565,6 +1565,6 @@
         "wikiDataName":"CVS Health",
         "qid":"http:\/\/www.wikidata.org\/entity\/Q624375",
         "headquarterCoordinates":"Point(-71.5 41.7)",
-        "industry":"retail"
+        "industry":"health"
     }
 ]
