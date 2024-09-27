@@ -7,7 +7,7 @@ from queryIndustry import request_queryIndustry
 # todo check created list
 
 current_dir = os.path.dirname(__file__)
-file_path = os.path.join(current_dir, "uniqueCompaniesWithQidsAndWithIndustryData.json")
+file_path = os.path.join(current_dir, "./../uniqueCompaniesWithQidsAndWithLocationData.json")
 
 df = pd.read_json(file_path, orient='columns')
 df['industry'] = None
@@ -41,5 +41,5 @@ for qidLink in filtered_qids_WithoutIndustry:
 
 
 # updates json with query results
-df.to_json('./uniqueCompaniesWithQidsAndWithIndustryData.json', orient='records', indent=4)
+df.to_json('./uniqueCompaniesWithQidsAndWithIndustry.json', orient='records', indent=4)
 print('total number of no company qids found:', notFoundCountercounter, ' of ', len(filtered_qids_WithoutIndustry))

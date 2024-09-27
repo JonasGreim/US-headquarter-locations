@@ -35,4 +35,4 @@ def convert_to_geojson(input_file, output_file):
 
 
 # Example usage
-convert_to_geojson('./itemsRankingWithCoordinates.json', './fortune500Companies.geojson')
+convert_to_geojson('./itemsRankingWithCoordinates.json', 'oldData/fortune500Companies.geojson')

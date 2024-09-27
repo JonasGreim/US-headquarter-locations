@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the JSON data from the files
-unique_companies = pd.read_json('./uniqueCompaniesWithQidsAndWithLocationData.json')
+unique_companies = pd.read_json('oldData/uniqueCompaniesWithQidsAndWithLocationData.json')
 items = pd.read_json('./items.json')
 
 # Filter items to include only the top 55 based on rank

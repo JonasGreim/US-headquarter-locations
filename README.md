@@ -58,7 +58,13 @@ Problem:
 - -> trail and error -> 15  of  49 failed
 
 
+getAllIndustryDataThroughQIDList.py
 -> run industry sector search -> 1  of  49 failed -> ask chatgpt to our 10 sectors
+
+convert to geojson
+
+
+
 
 
 wikidata websearch is different then the api search (worse)
@@ -66,7 +72,12 @@ difficult names -> bad search (alphabet, apple) -> data also not right company n
 
 
 TODO:
-Alles ordnen, strukturieren -> folder data, foder helper methods, 
+- read me hübsch machen
+- Alles ordnen, strukturieren -> folder data, foder helper methods folder
+- alle files nochmal durchgehen, kommentare, input output fixen (wikidata)
+- anzahl von fails von fortune500 notieren
+- venv löschen
+- frontend übertragen -> anpassungen machen
 
 
 
