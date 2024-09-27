@@ -61,7 +61,8 @@ Problem:
 getAllIndustryDataThroughQIDList.py
 -> run industry sector search -> 1  of  49 failed -> ask chatgpt to our 10 sectors
 
-convert to geojson
+- map unique companies to ranking (mapUniqueCompaniesToRanking.py)
+- converte to geojson (createGeoJson.py)
 
 
 
@@ -69,6 +70,7 @@ convert to geojson
 
 wikidata websearch is different then the api search (worse)
 difficult names -> bad search (alphabet, apple) -> data also not right company names
+tried also with completly chatgpt -> wrong coordinates
 
 
 TODO:
