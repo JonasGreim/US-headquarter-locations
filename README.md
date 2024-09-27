@@ -17,6 +17,8 @@ install packages:
 - pip3 install json
 
 ### Run scraper (scrapy):
+The scraper only searches the existing annual SP500 and Fortune 500 rankings of the specified websites. There are no headquarters locations in the rankings.
+
 go into the scrapy folder:
 
 - cd topUsCompaniesLocationScraper
@@ -28,6 +30,7 @@ go into the scrapy folder:
   - scrapy crawl us-companies-sp500 
 
 ### apiWiki
+First try to preserve the headquarters locations of the companies with the offical wikipedia api.
 
 - pip3 install requests
 - pip3 install json
