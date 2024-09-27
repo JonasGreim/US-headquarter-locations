@@ -1,13 +1,13 @@
 import requests
 import json
 
-# TODO checkout https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates
+# also tried out -> but only a few have an entry there https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates
 # https://www.mediawiki.org/wiki/Special:ApiSandbox
 
 # search -> scrape -> city -> geosearch -> coordinates
 # search -> scrape -> geosearch (with python wrapper)
 
-# api explained
+# api explained (official documentation is not good and very confusing)
 # https://github.com/mudroljub/wikipedia-api-docs
 
 ## search

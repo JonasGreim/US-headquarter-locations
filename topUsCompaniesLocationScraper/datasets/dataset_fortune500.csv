@@ -1,0 +1,5101 @@
+company,profits,rank,revenues,year
+General Motors,847.4,1,"10,796.4",1957
+Exxon Mobil,808.5,2,"7,126.9",1957
+Ford Motor,236.6,3,"4,647.0",1957
+U.S. Steel,348.1,4,"4,228.9",1957
+General Electric,213.8,5,"4,090.0",1957
+Mobil,249.5,6,"2,750.3",1957
+Chrysler,20.0,7,"2,676.3",1957
+Esmark,14.0,8,"2,429.3",1957
+AT&T Technologies,81.0,9,"2,372.7",1957
+Gulf Oil,282.7,10,"2,339.7",1957
+Bethlehem Steel,161.4,11,"2,326.7",1957
+Texaco,302.3,12,"2,046.3",1957
+Armour,14.7,13,"2,011.4",1957
+Amoco,149.4,14,"1,890.2",1957
+DuPont,383.4,15,"1,888.4",1957
+Shell Oil,135.8,16,"1,635.4",1957
+CBS,3.5,17,"1,525.4",1957
+ChevronTexaco,267.9,18,"1,452.5",1957
+Goodyear Tire & Rubber,62.5,19,"1,358.8",1957
+Kraft,41.7,20,"1,352.9",1957
+Union Carbide,146.2,21,"1,324.5",1957
+Navistar International,49.6,22,"1,252.1",1957
+Republic Steel,90.4,23,"1,244.2",1957
+Sinclair Oil,95.9,24,"1,180.1",1957
+RCA,40.0,25,"1,121.1",1957
+General Motors,873.1,1,"11,233.1",1960
+Exxon Mobil,629.8,2,"7,910.7",1960
+General Motors,843.6,1,"10,989.8",1958
+General Motors,633.6,1,"9,522.0",1959
+General Motors,"1,189.5",1,"12,443.3",1956
+General Motors,806.0,1,"9,823.5",1955
+General Motors,"1,459.1",1,"14,640.2",1963
+Firestone Tire & Rubber,60.5,26,"1,115.2",1957
+Douglas Aircraft,33.2,27,"1,073.5",1957
+General Dynamics,31.9,28,"1,047.8",1957
+Procter & Gamble,59.3,29,"1,038.3",1957
+ConocoPhillips,95.2,30,"1,033.4",1957
+Continental Group,43.1,31,"1,010.3",1957
+Boeing,32.1,32,"1,006.4",1957
+Citgo Petroleum,62.2,33,973.7,1957
+Ford Motor,451.4,3,"5,356.9",1960
+General Electric,280.2,4,"4,349.5",1960
+U.S. Steel,254.6,5,"3,643.0",1960
+Mobil,164.0,6,"3,092.9",1960
+Gulf Oil,290.5,7,"2,713.0",1960
+Texaco,354.3,8,"2,678.0",1960
+Chrysler,-5.4,9,"2,643.0",1960
+Exxon Mobil,805.2,2,"7,830.2",1958
+Ford Motor,282.8,3,"5,771.3",1958
+U.S. Steel,419.4,4,"4,413.8",1958
+General Electric,247.9,5,"4,335.7",1958
+Chrysler,120.0,6,"3,565.0",1958
+Mobil,220.4,7,"2,976.1",1958
+Gulf Oil,354.3,8,"2,730.1",1958
+Bethlehem Steel,191.0,9,"2,603.7",1958
+Exxon Mobil,562.5,2,"7,543.6",1959
+Ford Motor,95.7,3,"4,130.3",1959
+General Electric,242.9,4,"4,120.8",1959
+U.S. Steel,301.6,5,"3,472.2",1959
+Mobil,156.8,6,"2,885.7",1959
+Gulf Oil,329.5,7,"2,769.4",1959
+Esmark,10.0,8,"2,645.4",1959
+Texaco,310.2,9,"2,327.9",1959
+Exxon Mobil,709.3,2,"6,272.4",1956
+Ford Motor,437.0,3,"5,594.0",1956
+U.S. Steel,370.1,4,"4,097.7",1956
+Chrysler,100.1,5,"3,466.2",1956
+General Electric,200.9,6,"3,095.4",1956
+Esmark,22.9,7,"2,404.1",1956
+Bethlehem Steel,180.2,8,"2,096.6",1956
+Armour,10.1,9,"1,967.7",1956
+Exxon Mobil,584.8,2,"5,661.4",1955
+U.S. Steel,195.4,3,"3,250.4",1955
+General Electric,212.6,4,"2,959.1",1955
+Esmark,19.1,5,"2,510.8",1955
+Chrysler,18.5,6,"2,071.6",1955
+Armour,1.6,7,"2,056.1",1955
+Gulf Oil,182.8,8,"1,705.3",1955
+Exxon Mobil,840.9,2,"9,536.9",1963
+Ford Motor,480.7,3,"8,089.6",1963
+General Electric,265.8,4,"4,792.7",1963
+Mobil,242.3,5,"3,933.3",1963
+U.S. Steel,163.7,6,"3,468.8",1963
+Texaco,481.7,7,"3,272.1",1963
+General Motors,892.8,1,"11,395.9",1962
+General Motors,959.0,1,"12,736.0",1961
+Exxon Mobil,688.6,2,"8,034.7",1961
+International Paper,86.6,34,969.6,1957
+United Technologies,37.1,35,952.9,1957
+General Foods,39.0,36,931.1,1957
+Rockwell Automation,28.8,37,914.0,1957
+Uniroyal,31.9,38,901.3,1957
+Borden Chemical,23.6,39,877.0,1957
+Alcoa,89.6,40,864.4,1957
+Sperry,47.4,41,815.8,1957
+American Can,34.8,42,771.6,1957
+ARMCO,65.6,43,761.8,1957
+Eastman Kodak,94.2,44,761.7,1957
+Anaconda,111.5,45,749.4,1957
+Esmark,19.1,10,"2,475.5",1960
+AT&T Technologies,102.2,11,"2,314.9",1960
+DuPont,418.7,12,"2,114.3",1960
+Bethlehem Steel,117.2,13,"2,055.7",1960
+Amoco,139.6,14,"1,956.8",1960
+CBS,85.9,15,"1,910.7",1960
+Armour,14.1,16,"1,869.8",1960
+General Dynamics,31.1,17,"1,811.9",1960
+Shell Oil,147.4,18,"1,810.0",1960
+Boeing,12.4,19,"1,612.2",1960
+Kraft,49.4,20,"1,605.7",1960
+Esmark,13.5,10,"2,542.2",1958
+AT&T Technologies,84.6,11,"2,480.1",1958
+Texaco,332.3,12,"2,344.2",1958
+Amoco,151.5,13,"2,010.1",1958
+CBS,72.7,14,"2,009.0",1958
+DuPont,396.6,15,"1,964.3",1958
+Armour,3.4,16,"1,935.7",1958
+Shell Oil,135.1,17,"1,764.6",1958
+ChevronTexaco,288.2,18,"1,650.8",1958
+AT&T Technologies,85.9,10,"2,173.4",1959
+Chrysler,-33.8,11,"2,165.4",1959
+Bethlehem Steel,137.7,12,"2,005.9",1959
+CBS,74.8,13,"1,895.7",1959
+Amoco,117.8,14,"1,864.0",1959
+Armour,5.6,15,"1,850.4",1959
+DuPont,341.2,16,"1,829.2",1959
+Boeing,29.4,17,"1,711.9",1959
+Shell Oil,116.6,18,"1,666.0",1959
+ChevronTexaco,257.8,19,"1,559.2",1959
+General Dynamics,36.7,20,"1,511.5",1959
+Kraft,45.5,21,"1,451.2",1959
+Goodyear Tire & Rubber,65.7,22,"1,367.6",1959
+DuPont,431.6,10,"1,909.2",1956
+Gulf Oil,218.1,11,"1,895.7",1956
+AT&T Technologies,63.3,12,"1,853.3",1956
+Mobil,207.4,13,"1,839.3",1956
+Amoco,157.1,14,"1,781.3",1956
+Texaco,262.7,15,"1,767.3",1956
+Shell Oil,125.5,16,"1,484.1",1956
+CBS,42.8,17,"1,441.0",1956
+Goodyear Tire & Rubber,59.7,18,"1,372.2",1956
+ChevronTexaco,231.1,19,"1,277.8",1956
+Kraft,40.3,20,"1,260.2",1956
+Mobil,183.8,9,"1,703.6",1955
+DuPont,344.4,10,"1,687.7",1955
+Amoco,132.8,11,"1,667.4",1955
+Bethlehem Steel,117.2,12,"1,660.3",1955
+CBS,84.6,13,"1,631.0",1955
+Texaco,226.1,14,"1,574.4",1955
+AT&T Technologies,55.8,15,"1,526.2",1955
+Shell Oil,121.1,16,"1,312.1",1955
+Kraft,37.4,17,"1,210.3",1955
+ChevronTexaco,211.9,18,"1,113.3",1955
+Gulf Oil,340.1,8,"2,836.3",1963
+AT&T Technologies,135.2,9,"2,761.6",1963
+Esmark,16.3,10,"2,494.6",1963
+DuPont,451.6,11,"2,436.4",1963
+Chrysler,65.4,12,"2,377.6",1963
+ChevronTexaco,313.8,13,"2,150.9",1963
+Amoco,162.4,14,"2,147.8",1963
+Bethlehem Steel,88.7,15,"2,072.1",1963
+Shell Oil,157.7,16,"1,960.7",1963
+CBS,57.1,17,"1,954.5",1963
+Exxon Mobil,758.1,2,"8,437.7",1962
+Ford Motor,409.6,3,"6,709.4",1962
+General Electric,242.1,4,"4,456.8",1962
+Mobil,211.3,5,"3,321.2",1962
+U.S. Steel,190.2,6,"3,301.7",1962
+Texaco,430.1,7,"3,042.3",1962
+Gulf Oil,338.5,8,"2,744.8",1962
+AT&T Technologies,122.2,9,"2,607.3",1962
+Esmark,12.1,10,"2,489.0",1962
+Ford Motor,427.9,3,"5,237.9",1961
+General Electric,200.1,4,"4,197.5",1961
+U.S. Steel,304.2,5,"3,698.5",1961
+Mobil,182.6,6,"3,178.1",1961
+Chrysler,32.2,7,"3,007.0",1961
+Texaco,391.8,8,"2,980.3",1961
+Gulf Oil,330.3,9,"2,720.8",1961
+AT&T Technologies,124.5,10,"2,640.4",1961
+General Motors,609.1,1,"18,752.4",1971
+Exxon Mobil,"1,309.5",2,"16,554.2",1971
+General Motors,"2,125.6",1,"20,734.0",1966
+Ford Motor,703.0,2,"11,536.8",1966
+General Motors,"1,793.4",1,"20,208.5",1967
+Ford Motor,621.0,2,"12,240.0",1967
+Jones & Laughlin Steel,45.1,46,742.6,1957
+Lockheed Martin,13.9,47,742.6,1957
+Intl. Business Machines,68.8,48,734.3,1957
+Sunoco,56.2,49,731.4,1957
+Ryerson Tull,53.0,50,727.2,1957
+Goodrich,43.8,51,724.2,1957
+Caterpillar,55.4,52,685.9,1957
+Youngstown Sheet & Tube,43.2,53,676.3,1957
+Honeywell Intl.,47.0,54,668.9,1957
+AMAX,23.9,55,667.3,1957
+National Intergroup,52.5,56,664.3,1957
+Goodyear Tire & Rubber,76.0,21,"1,579.3",1960
+ChevronTexaco,253.6,22,"1,564.8",1960
+Union Carbide,171.6,23,"1,531.3",1960
+RCA,40.1,24,"1,388.4",1960
+Procter & Gamble,81.7,25,"1,368.5",1960
+Navistar International,76.4,26,"1,363.2",1960
+Intl. Business Machines,145.6,27,"1,309.8",1960
+Lockheed Martin,8.7,28,"1,301.6",1960
+Sinclair Oil,45.5,29,"1,232.2",1960
+Boeing,38.2,19,"1,596.5",1958
+General Dynamics,44.3,20,"1,562.5",1958
+Kraft,44.1,21,"1,432.3",1958
+Goodyear Tire & Rubber,64.8,22,"1,421.8",1958
+Union Carbide,133.7,23,"1,395.0",1958
+Sinclair Oil,79.3,24,"1,251.1",1958
+Rockwell Automation,33.9,25,"1,243.8",1958
+United Technologies,51.4,26,"1,232.9",1958
+Republic Steel,85.0,27,"1,227.3",1958
+Navistar International,45.6,28,"1,171.4",1958
+Union Carbide,124.9,23,"1,296.5",1959
+Procter & Gamble,73.2,24,"1,295.2",1959
+Douglas Aircraft,16.8,25,"1,209.9",1959
+United Technologies,42.3,26,"1,200.4",1959
+Sinclair Oil,49.5,27,"1,190.4",1959
+Intl. Business Machines,126.2,28,"1,171.8",1959
+RCA,30.9,29,"1,170.7",1959
+Navistar International,43.0,30,"1,098.4",1959
+Continental Group,41.4,31,"1,080.4",1959
+ConocoPhillips,84.2,32,"1,066.6",1959
+Firestone Tire & Rubber,53.8,33,"1,061.6",1959
+Republic Steel,86.3,21,"1,188.6",1956
+Union Carbide,140.8,22,"1,187.2",1956
+Navistar International,55.5,23,"1,165.8",1956
+Firestone Tire & Rubber,55.4,24,"1,114.9",1956
+Sinclair Oil,80.7,25,"1,110.1",1956
+RCA,47.5,26,"1,055.3",1956
+Procter & Gamble,57.5,27,965.8,1956
+Uniroyal,33.6,28,925.5,1956
+Citgo Petroleum,49.3,29,923.2,1956
+Goodyear Tire & Rubber,48.1,19,"1,090.1",1955
+Boeing,37.0,20,"1,033.2",1955
+Sinclair Oil,91.6,21,"1,021.5",1955
+Navistar International,36.3,22,994.1,1955
+RCA,40.5,23,941.0,1955
+Union Carbide,89.8,24,923.7,1955
+Firestone Tire & Rubber,40.5,25,916.0,1955
+Douglas Aircraft,36.2,26,915.2,1955
+Procter & Gamble,52.3,27,911.0,1955
+Republic Steel,52.9,28,846.3,1955
+Citgo Petroleum,43.7,29,813.2,1955
+Intl. Business Machines,241.4,18,"1,925.2",1963
+General Dynamics,52.9,19,"1,898.5",1963
+Armour,14.8,20,"1,859.4",1963
+Navistar International,60.2,21,"1,837.5",1963
+Kraft,51.3,22,"1,820.5",1963
+Boeing,27.2,23,"1,768.5",1963
+Lockheed Martin,50.3,24,"1,753.1",1963
+RCA,58.5,25,"1,742.7",1963
+Rockwell Automation,34.6,26,"1,633.7",1963
+Union Carbide,159.8,27,"1,630.7",1963
+DuPont,418.2,11,"2,222.7",1962
+Chrysler,11.1,12,"2,127.3",1962
+General Dynamics,-143.2,13,"2,062.4",1962
+ChevronTexaco,294.4,14,"2,046.5",1962
+Bethlehem Steel,122.4,15,"2,033.9",1962
+Amoco,153.8,16,"2,032.6",1962
+CBS,45.4,17,"1,913.8",1962
+Shell Oil,140.4,18,"1,881.3",1962
+Boeing,35.7,19,"1,800.9",1962
+Kraft,50.2,20,"1,790.8",1962
+Armour,13.1,21,"1,749.0",1962
+Esmark,18.4,11,"2,442.5",1961
+Bethlehem Steel,121.2,12,"2,178.1",1961
+DuPont,381.4,13,"2,142.6",1961
+Amoco,144.8,14,"2,005.8",1961
+General Dynamics,-27.1,15,"1,987.7",1961
+CBS,79.1,16,"1,955.7",1961
+Shell Oil,144.6,17,"1,827.8",1961
+Armour,16.2,18,"1,735.6",1961
+Navistar International,53.7,19,"1,683.3",1961
+Kraft,50.7,20,"1,667.2",1961
+Ford Motor,515.7,3,"14,979.9",1971
+General Electric,328.5,4,"8,726.7",1971
+Intl. Business Machines,"1,017.5",5,"7,504.0",1971
+Mobil,482.7,6,"7,260.5",1971
+Chrysler,-7.6,7,"6,999.7",1971
+ITT Industries,353.3,8,"6,364.5",1971
+Texaco,822.0,9,"6,349.8",1971
+Exxon Mobil,"1,035.7",3,"11,471.5",1966
+General Electric,355.1,4,"6,213.6",1966
+Chrysler,233.4,5,"5,299.9",1966
+Mobil,320.1,6,"4,907.5",1966
+U.S. Steel,275.5,7,"4,399.6",1966
+Texaco,636.7,8,"3,779.4",1966
+Intl. Business Machines,476.9,9,"3,572.8",1966
+Gulf Oil,427.2,10,"3,384.7",1966
+AT&T Technologies,168.3,11,"3,362.1",1966
+DuPont,407.2,12,"3,020.8",1966
+Exxon Mobil,"1,090.9",3,"12,191.4",1967
+General Electric,338.9,4,"7,177.3",1967
+Chrysler,189.2,5,"5,649.5",1967
+Mobil,356.1,6,"5,253.9",1967
+Texaco,709.9,7,"4,427.3",1967
+U.S. Steel,249.2,8,"4,355.4",1967
+Intl. Business Machines,526.1,9,"4,247.7",1967
+Gulf Oil,504.8,10,"3,781.8",1967
+AT&T Technologies,173.1,11,"3,623.6",1967
+DuPont,389.1,12,"3,185.1",1967
+General Motors,"1,591.8",1,"16,494.8",1964
+Exxon Mobil,"1,019.5",2,"10,264.3",1964
+General Motors,"1,731.9",1,"22,755.4",1969
+Exxon Mobil,"1,276.7",2,"14,091.3",1969
+General Motors,"1,734.8",1,"16,997.0",1965
+General Motors,"1,627.3",1,"20,026.3",1968
+Exxon Mobil,"1,232.3",2,"13,266.0",1968
+General Motors,"1,710.7",1,"24,295.1",1970
+General Motors,"1,935.7",1,"28,263.9",1972
+General Motors,"2,162.8",1,"30,435.2",1973
+Exxon Mobil,"1,531.8",2,"20,309.8",1973
+General Motors,"2,398.1",1,"35,798.3",1974
+Exxon Mobil,"3,142.2",1,"42,061.3",1975
+General Motors,950.1,2,"31,549.5",1975
+Exxon Mobil,"2,503.0",1,"44,864.8",1976
+General Motors,"1,253.1",2,"35,724.9",1976
+Exxon Mobil,"2,641.0",1,"48,630.8",1977
+General Motors,"2,902.8",2,"47,181.0",1977
+Ford Motor,983.1,3,"28,839.6",1977
+Burlington Industries Equity,20.8,57,636.4,1957
+Wilson,7.1,58,609.0,1957
+BorgWarner,35.8,59,598.7,1957
+Ogden,6.7,60,597.7,1957
+Olin,44.8,61,596.7,1957
+PPG Industries,55.4,62,596.6,1957
+Asarco,39.8,63,592.9,1957
+Fortune Brands,52.0,64,585.2,1957
+Bendix,24.3,65,581.4,1957
+NL Industries,63.2,66,576.3,1957
+Conoco,51.8,67,576.3,1957
+Firestone Tire & Rubber,64.6,30,"1,187.8",1960
+ConocoPhillips,104.6,31,"1,163.0",1960
+Continental Group,40.0,32,"1,146.5",1960
+American Can,40.9,33,"1,107.4",1960
+General Telephone & Electronics,72.3,34,"1,081.1",1960
+United Technologies,28.6,35,"1,081.0",1960
+Republic Steel,53.9,36,"1,076.8",1960
+General Foods,54.1,37,"1,053.0",1960
+Rockwell Automation,30.7,38,"1,044.9",1960
+International Paper,83.6,39,"1,030.2",1960
+ARMCO,77.1,40,"1,022.4",1960
+RCA,38.5,29,"1,170.9",1958
+Firestone Tire & Rubber,61.7,30,"1,158.9",1958
+Procter & Gamble,67.8,31,"1,156.4",1958
+ConocoPhillips,96.2,32,"1,131.8",1958
+Douglas Aircraft,30.7,33,"1,091.4",1958
+Citgo Petroleum,59.2,34,"1,046.4",1958
+Continental Group,41.0,35,"1,046.3",1958
+American Can,45.4,36,"1,006.3",1958
+Intl. Business Machines,89.3,37,"1,000.4",1958
+General Foods,42.4,38,971.3,1958
+International Paper,78.4,39,940.4,1958
+American Can,46.4,34,"1,037.0",1959
+Citgo Petroleum,44.9,35,"1,015.3",1959
+General Foods,48.4,36,"1,008.9",1959
+Lockheed Martin,18.6,37,962.7,1959
+International Paper,72.0,38,915.1,1959
+Borden Chemical,24.6,39,915.0,1959
+Republic Steel,61.9,40,910.4,1959
+Rockwell Automation,26.8,41,904.0,1959
+Uniroyal,22.7,42,870.6,1959
+ConocoPhillips,95.2,30,910.8,1956
+Douglas Aircraft,28.2,31,867.5,1956
+Boeing,30.4,32,853.8,1956
+Alcoa,87.6,33,845.0,1956
+General Foods,31.7,34,824.8,1956
+Rockwell Automation,32.3,35,816.7,1956
+Borden Chemical,21.7,36,810.1,1956
+International Paper,83.1,37,796.4,1956
+ConocoPhillips,76.2,30,794.6,1955
+General Foods,27.9,31,783.0,1955
+Uniroyal,28.0,32,782.6,1955
+Borden Chemical,22.7,33,776.8,1955
+Lockheed Martin,22.4,34,732.9,1955
+Alcoa,46.5,35,708.3,1955
+International Paper,73.5,36,681.2,1955
+Wilson,3.1,37,680.5,1955
+Sunoco,40.3,38,659.5,1955
+United Technologies,26.0,39,654.2,1955
+Procter & Gamble,109.4,28,"1,619.4",1963
+Goodyear Tire & Rubber,71.1,29,"1,592.5",1963
+General Telephone & Electronics,86.3,30,"1,327.9",1963
+Firestone Tire & Rubber,60.0,31,"1,277.7",1963
+ConocoPhillips,107.0,32,"1,244.6",1963
+Martin Marietta,45.4,33,"1,195.3",1963
+General Foods,72.2,34,"1,189.5",1963
+Sinclair Oil,47.4,35,"1,184.6",1963
+Continental Group,41.0,36,"1,182.9",1963
+Sperry,24.4,37,"1,182.6",1963
+American Can,48.7,38,"1,180.5",1963
+Intl. Business Machines,207.2,22,"1,694.3",1962
+Navistar International,48.4,23,"1,612.1",1962
+Union Carbide,142.3,24,"1,563.4",1962
+Procter & Gamble,106.6,25,"1,541.9",1962
+RCA,35.5,26,"1,537.9",1962
+Goodyear Tire & Rubber,76.2,27,"1,473.4",1962
+Lockheed Martin,26.1,28,"1,444.5",1962
+Rockwell Automation,27.8,29,"1,262.3",1962
+ChevronTexaco,266.1,21,"1,663.4",1961
+Boeing,24.5,22,"1,554.6",1961
+Goodyear Tire & Rubber,71.0,23,"1,550.9",1961
+Union Carbide,158.0,24,"1,548.2",1961
+RCA,35.1,25,"1,486.2",1961
+Procter & Gamble,98.1,26,"1,441.5",1961
+Intl. Business Machines,168.2,27,"1,436.1",1961
+Lockheed Martin,-42.9,28,"1,332.3",1961
+AT&T Technologies,253.4,10,"5,856.2",1971
+Gulf Oil,550.4,11,"5,396.2",1971
+U.S. Steel,147.5,12,"4,814.4",1971
+CBS,127.0,13,"4,313.4",1971
+ChevronTexaco,454.8,14,"4,187.8",1971
+LTV,-69.6,15,"3,771.7",1971
+Amoco,314.0,16,"3,732.8",1971
+Boeing,22.1,17,"3,677.1",1971
+DuPont,328.7,18,"3,618.4",1971
+Shell Oil,237.2,19,"3,589.5",1971
+General Telephone & Electronics,208.2,20,"3,439.2",1971
+RCA,91.7,21,"3,291.9",1971
+Esmark,16.4,13,"2,751.0",1966
+Bethlehem Steel,150.0,14,"2,579.4",1966
+Shell Oil,234.0,15,"2,562.2",1966
+Amoco,219.3,16,"2,472.0",1966
+ChevronTexaco,391.2,17,"2,442.5",1966
+CBS,106.9,18,"2,389.9",1966
+Navistar International,100.6,19,"2,336.7",1966
+Goodyear Tire & Rubber,109.2,20,"2,226.3",1966
+Union Carbide,226.9,21,"2,063.9",1966
+Armour,18.2,22,"2,061.7",1966
+Procter & Gamble,133.2,23,"2,058.6",1966
+RCA,101.2,24,"2,042.0",1966
+Esmark,4.8,13,"2,970.5",1967
+Shell Oil,255.2,14,"2,789.8",1967
+Amoco,255.9,15,"2,708.5",1967
+ChevronTexaco,424.0,16,"2,698.3",1967
+Bethlehem Steel,170.9,17,"2,669.4",1967
+Navistar International,109.7,18,"2,583.0",1967
+CBS,119.7,19,"2,581.4",1967
+RCA,132.4,20,"2,548.8",1967
+Goodyear Tire & Rubber,118.5,21,"2,475.7",1967
+Ford Motor,488.5,3,"8,742.5",1964
+General Electric,270.6,4,"4,918.7",1964
+Mobil,271.9,5,"4,352.1",1964
+U.S. Steel,203.5,6,"3,599.3",1964
+Chrysler,161.6,7,"3,505.3",1964
+Texaco,545.7,8,"3,415.7",1964
+Gulf Oil,371.4,9,"2,977.9",1964
+AT&T Technologies,140.5,10,"2,833.0",1964
+DuPont,472.3,11,"2,584.6",1964
+Esmark,17.1,12,"2,473.4",1964
+Ford Motor,626.6,3,"14,075.1",1969
+General Electric,357.1,4,"8,381.6",1969
+Chrysler,290.7,5,"7,445.3",1969
+Intl. Business Machines,871.5,6,"6,888.5",1969
+Mobil,428.2,7,"6,221.0",1969
+Texaco,835.5,8,"5,459.8",1969
+Gulf Oil,626.3,9,"4,558.5",1969
+U.S. Steel,253.7,10,"4,536.7",1969
+ITT Industries,192.4,11,"4,066.5",1969
+AT&T Technologies,192.1,12,"4,031.9",1969
+ChevronTexaco,451.8,13,"3,634.8",1969
+Exxon Mobil,"1,050.6",2,"10,814.7",1965
+Ford Motor,505.6,3,"9,670.8",1965
+General Electric,237.3,4,"4,941.4",1965
+Mobil,294.2,5,"4,499.4",1965
+Chrysler,213.8,6,"4,287.3",1965
+U.S. Steel,236.8,7,"4,077.5",1965
+Texaco,577.4,8,"3,573.8",1965
+Intl. Business Machines,431.2,9,"3,239.4",1965
+Gulf Oil,395.1,10,"3,174.3",1965
+AT&T Technologies,152.8,11,"3,117.2",1965
+DuPont,471.4,12,"2,786.5",1965
+Ford Motor,84.1,3,"10,515.7",1968
+General Electric,361.4,4,"7,741.2",1968
+Chrysler,200.4,5,"6,213.4",1968
+Mobil,385.4,6,"5,771.8",1968
+Intl. Business Machines,651.5,7,"5,345.3",1968
+Texaco,754.4,8,"5,121.4",1968
+Gulf Oil,578.3,9,"4,202.1",1968
+U.S. Steel,172.5,10,"4,005.5",1968
+AT&T Technologies,153.0,11,"3,717.5",1968
+ChevronTexaco,421.7,12,"3,297.8",1968
+Exxon Mobil,"1,047.6",2,"14,929.8",1970
+Ford Motor,546.5,3,"14,755.6",1970
+General Electric,278.0,4,"8,448.0",1970
+Intl. Business Machines,933.9,5,"7,197.3",1970
+Chrysler,88.8,6,"7,052.2",1970
+Mobil,434.5,7,"6,621.4",1970
+Texaco,769.8,8,"5,867.9",1970
+ITT Industries,234.0,9,"5,474.7",1970
+Gulf Oil,610.6,10,"4,953.3",1970
+AT&T Technologies,227.0,11,"4,883.2",1970
+U.S. Steel,217.2,12,"4,754.1",1970
+Exxon Mobil,"1,461.6",2,"18,700.6",1972
+Ford Motor,656.7,3,"16,433.0",1972
+General Electric,471.8,4,"9,425.3",1972
+Intl. Business Machines,"1,078.8",5,"8,273.6",1972
+Mobil,540.8,6,"8,243.0",1972
+Chrysler,83.7,7,"7,999.3",1972
+Texaco,903.9,8,"7,529.1",1972
+ITT Industries,336.8,9,"7,345.8",1972
+AT&T Technologies,258.4,10,"6,045.2",1972
+Gulf Oil,561.4,11,"5,940.0",1972
+ChevronTexaco,511.1,12,"5,143.3",1972
+Ford Motor,870.0,3,"20,194.4",1973
+General Electric,530.0,4,"10,239.5",1973
+Chrysler,220.5,5,"9,759.1",1973
+Intl. Business Machines,"1,279.3",6,"9,532.6",1973
+Mobil,574.2,7,"9,166.3",1973
+Texaco,889.0,8,"8,693.0",1973
+ITT Industries,483.3,9,"8,556.8",1973
+AT&T Technologies,282.9,10,"6,551.2",1973
+Gulf Oil,197.0,11,"6,243.0",1973
+Exxon Mobil,"2,443.3",2,"25,724.3",1974
+Ford Motor,906.5,3,"23,015.1",1974
+Chrysler,255.4,4,"11,774.4",1974
+General Electric,585.1,5,"11,575.3",1974
+Texaco,"1,292.4",6,"11,406.9",1974
+Mobil,849.3,7,"11,390.1",1974
+Intl. Business Machines,"1,575.5",8,"10,993.2",1974
+ITT Industries,527.8,9,"10,183.0",1974
+Gulf Oil,800.0,10,"8,417.0",1974
+Ford Motor,360.9,3,"23,620.6",1975
+Texaco,"1,586.4",4,"23,255.5",1975
+Mobil,"1,047.4",5,"18,929.0",1975
+ChevronTexaco,970.0,6,"17,191.2",1975
+Gulf Oil,"1,065.0",7,"16,458.0",1975
+General Electric,608.1,8,"13,413.1",1975
+Intl. Business Machines,"1,837.6",9,"12,675.3",1975
+ITT Industries,451.1,10,"11,154.4",1975
+Chrysler,-52.1,11,"10,971.4",1975
+U.S. Steel,634.9,12,"9,186.4",1975
+Amoco,970.3,13,"9,085.4",1975
+Texaco,830.6,3,"24,507.5",1976
+Ford Motor,322.7,4,"24,009.1",1976
+Mobil,809.9,5,"20,620.4",1976
+ChevronTexaco,772.5,6,"16,822.1",1976
+Intl. Business Machines,"1,989.9",7,"14,436.5",1976
+Gulf Oil,700.0,8,"14,268.0",1976
+Texaco,869.7,4,"26,451.9",1977
+Mobil,942.5,5,"26,062.6",1977
+ChevronTexaco,880.1,6,"19,434.1",1977
+Gulf Oil,816.0,7,"16,451.0",1977
+Intl. Business Machines,"2,398.1",8,"16,304.3",1977
+General Electric,930.6,9,"15,697.3",1977
+Chrysler,422.6,10,"15,537.8",1977
+ITT Industries,494.5,11,"11,764.1",1977
+Amoco,893.0,12,"11,532.0",1977
+General Motors,"3,508.0",1,"63,221.1",1979
+General Motors,"3,337.5",1,"54,961.3",1978
+Curtiss-Wright,43.2,68,571.1,1957
+Kennecott,143.2,69,567.0,1957
+Dow Chemical,59.7,70,565.3,1957
+Allis-Chalmers,20.4,71,547.4,1957
+Atlantic Richfield,47.2,72,544.9,1957
+ITT Industries,28.1,73,544.8,1957
+Citgo Petroleum,42.4,41,994.9,1960
+Sperry,27.6,42,989.6,1960
+Uniroyal,35.6,43,976.8,1960
+Borden Chemical,25.5,44,941.3,1960
+Eastman Kodak,124.7,45,914.1,1960
+Douglas Aircraft,-33.8,46,883.9,1960
+American Motors,60.3,47,869.9,1960
+Borden Chemical,24.0,40,931.2,1958
+Uniroyal,29.7,41,873.6,1958
+Sperry,49.6,42,871.0,1958
+Alcoa,75.6,43,869.4,1958
+Lockheed Martin,16.3,44,868.3,1958
+Jones & Laughlin Steel,45.5,45,837.6,1958
+ARMCO,57.5,43,867.4,1959
+Sperry,27.5,44,864.3,1959
+Eastman Kodak,98.9,45,828.8,1959
+Alcoa,42.9,46,753.1,1959
+Sunoco,32.1,47,721.8,1959
+Goodrich,46.7,38,755.0,1956
+American Can,36.0,39,714.8,1956
+Eastman Kodak,85.6,40,714.4,1956
+United Technologies,31.1,41,697.9,1956
+Jones & Laughlin Steel,50.1,42,696.5,1956
+ARMCO,64.4,43,692.7,1956
+American Can,30.4,40,652.4,1955
+General Dynamics,20.8,41,648.6,1955
+Rockwell Automation,22.2,42,645.8,1955
+Eastman Kodak,69.8,43,633.5,1955
+Goodrich,38.8,44,630.7,1955
+Continental Group,20.7,45,616.2,1955
+Bendix,25.5,46,607.7,1955
+Atlantic Richfield,36.8,47,596.2,1955
+Fortune Brands,41.3,48,533.1,1955
+United Technologies,18.1,39,"1,160.5",1963
+International Paper,67.1,40,"1,095.7",1963
+ITT Industries,40.7,41,"1,090.2",1963
+Citgo Petroleum,60.2,42,"1,083.4",1963
+Monsanto,78.4,43,"1,063.2",1963
+American Motors,34.2,44,"1,056.4",1963
+Eastman Kodak,140.3,45,"1,056.1",1963
+Republic Steel,40.0,46,"1,049.6",1963
+General Telephone & Electronics,73.8,30,"1,226.6",1962
+ConocoPhillips,113.8,31,"1,220.6",1962
+Martin Marietta,44.8,32,"1,213.2",1962
+Sinclair Oil,35.9,33,"1,207.3",1962
+Firestone Tire & Rubber,63.6,34,"1,182.7",1962
+Sperry,27.8,35,"1,177.0",1962
+General Foods,66.8,36,"1,160.2",1962
+Continental Group,36.1,37,"1,153.3",1962
+Sinclair Oil,52.5,29,"1,222.4",1961
+Firestone Tire & Rubber,65.0,30,"1,207.2",1961
+ConocoPhillips,112.9,31,"1,200.2",1961
+General Telephone & Electronics,72.4,32,"1,178.5",1961
+Douglas Aircraft,-19.4,33,"1,174.0",1961
+Sperry,37.2,34,"1,173.1",1961
+Continental Group,27.8,35,"1,117.0",1961
+General Foods,61.1,36,"1,087.1",1961
+American Can,35.4,37,"1,059.0",1961
+Goodyear Tire & Rubber,129.2,22,"3,194.6",1971
+Esmark,29.0,23,"3,076.4",1971
+Union Carbide,157.3,24,"3,026.3",1971
+Procter & Gamble,211.9,25,"2,978.8",1971
+Bethlehem Steel,90.1,26,"2,935.4",1971
+Eastman Kodak,403.7,27,"2,784.6",1971
+Kraft,82.0,28,"2,751.1",1971
+Greyhound,55.5,29,"2,740.0",1971
+Atlantic Richfield,205.6,30,"2,738.5",1971
+Conoco,160.5,31,"2,711.8",1971
+General Telephone & Electronics,166.8,25,"2,035.6",1966
+Boeing,78.3,26,"2,023.0",1966
+Kraft,69.9,27,"2,017.3",1966
+Rockwell Automation,45.8,28,"2,010.5",1966
+Lockheed Martin,53.7,29,"1,814.1",1966
+ITT Industries,76.1,30,"1,782.9",1966
+Firestone Tire & Rubber,86.7,31,"1,609.8",1966
+General Telephone & Electronics,205.1,22,"2,390.5",1967
+Boeing,76.1,23,"2,356.6",1967
+Armour,2.2,24,"2,280.3",1967
+Kraft,73.5,25,"2,251.7",1967
+Procter & Gamble,149.4,26,"2,243.2",1967
+Union Carbide,231.0,27,"2,224.0",1967
+ITT Industries,89.9,28,"2,121.3",1967
+Lockheed Martin,58.9,29,"2,084.8",1967
+Amoco,183.1,13,"2,226.9",1964
+McDonnell Douglas,94.7,14,"3,609.3",1969
+DuPont,371.9,15,"3,481.2",1969
+Shell Oil,312.1,16,"3,317.1",1969
+CBS,135.0,17,"3,296.1",1969
+Boeing,83.0,18,"3,274.0",1969
+Amoco,309.5,19,"3,213.7",1969
+RCA,154.0,20,"3,106.2",1969
+General Telephone & Electronics,277.8,21,"2,927.1",1969
+Goodyear Tire & Rubber,148.3,22,"2,925.7",1969
+Esmark,25.1,13,"2,610.1",1965
+Shell Oil,198.2,14,"2,331.9",1965
+Amoco,194.9,15,"2,317.6",1965
+ChevronTexaco,345.3,16,"2,285.7",1965
+CBS,76.7,17,"2,271.2",1965
+Bethlehem Steel,147.9,18,"2,240.7",1965
+Navistar International,98.7,19,"2,190.4",1965
+Rockwell Automation,49.3,20,"2,187.2",1965
+Goodyear Tire & Rubber,100.2,21,"2,010.6",1965
+Boeing,45.3,22,"1,969.5",1965
+DuPont,313.9,13,"3,102.0",1968
+Shell Oil,284.8,14,"3,073.2",1968
+RCA,147.5,15,"3,014.1",1968
+McDonnell Douglas,0.9,16,"2,933.8",1968
+Amoco,282.2,17,"2,918.1",1968
+CBS,122.5,18,"2,900.7",1968
+Boeing,83.9,19,"2,879.7",1968
+Esmark,26.7,20,"2,834.7",1968
+ChevronTexaco,453.8,13,"3,825.0",1970
+LTV,-38.3,14,"3,750.3",1970
+DuPont,356.2,15,"3,655.3",1970
+Shell Oil,291.2,16,"3,537.1",1970
+CBS,149.9,17,"3,509.2",1970
+Amoco,321.0,18,"3,469.1",1970
+General Telephone & Electronics,237.4,19,"3,262.0",1970
+Goodyear Tire & Rubber,158.2,20,"3,215.3",1970
+RCA,151.3,21,"3,187.9",1970
+Esmark,21.9,22,"3,107.6",1970
+McDonnell Douglas,117.6,23,"3,023.8",1970
+U.S. Steel,154.5,13,"4,928.2",1972
+CBS,175.3,14,"4,630.5",1972
+Amoco,341.7,15,"4,054.3",1972
+Shell Oil,244.5,16,"3,892.4",1972
+DuPont,356.5,17,"3,848.2",1972
+RCA,-155.8,18,"3,711.8",1972
+Goodyear Tire & Rubber,170.2,19,"3,601.6",1972
+LTV,-57.4,20,"3,358.8",1972
+Procter & Gamble,237.6,21,"3,178.1",1972
+Atlantic Richfield,198.7,22,"3,134.9",1972
+Conoco,109.4,23,"3,051.1",1972
+ChevronTexaco,547.1,12,"5,829.5",1973
+U.S. Steel,157.0,13,"5,401.8",1973
+CBS,198.7,14,"5,086.6",1973
+Amoco,374.7,15,"4,503.4",1973
+DuPont,414.5,16,"4,365.9",1973
+Shell Oil,260.5,17,"4,075.9",1973
+Goodyear Tire & Rubber,193.2,18,"4,071.5",1973
+RCA,158.1,19,"3,838.2",1973
+Procter & Gamble,276.3,20,"3,514.4",1973
+LTV,8.8,21,"3,514.2",1973
+Navistar International,86.6,22,"3,493.3",1973
+ChevronTexaco,843.6,11,"7,761.8",1974
+AT&T Technologies,315.3,12,"7,037.3",1974
+U.S. Steel,325.8,13,"6,951.9",1974
+CBS,161.9,14,"5,702.3",1974
+Amoco,511.2,15,"5,416.0",1974
+DuPont,585.6,16,"5,275.6",1974
+General Telephone & Electronics,352.1,17,"5,105.3",1974
+Shell Oil,332.7,18,"4,883.8",1974
+Goodyear Tire & Rubber,184.8,19,"4,675.3",1974
+RCA,183.7,20,"4,246.8",1974
+Conoco,242.7,21,"4,224.0",1974
+Navistar International,114.3,22,"4,192.5",1974
+Shell Oil,620.5,14,"7,633.5",1975
+AT&T Technologies,310.6,15,"7,381.7",1975
+Conoco,327.6,16,"7,041.4",1975
+DuPont,403.5,17,"6,910.1",1975
+Atlantic Richfield,474.6,18,"6,739.7",1975
+CBS,28.1,19,"6,466.1",1975
+Occidental Petroleum,280.7,20,"5,719.4",1975
+Bethlehem Steel,342.0,21,"5,381.0",1975
+Union Carbide,530.1,22,"5,320.1",1975
+Goodyear Tire & Rubber,157.5,23,"5,256.2",1975
+General Electric,580.8,9,"13,399.1",1976
+Chrysler,-259.5,10,"11,699.3",1976
+ITT Industries,398.2,11,"11,367.6",1976
+Amoco,787.0,12,"9,955.2",1976
+U.S. Steel,559.6,13,"8,167.3",1976
+Shell Oil,514.8,14,"8,143.4",1976
+Atlantic Richfield,350.4,15,"7,307.9",1976
+Conoco,330.9,16,"7,253.8",1976
+DuPont,271.8,17,"7,221.5",1976
+AT&T Technologies,107.3,18,"6,590.1",1976
+Procter & Gamble,333.9,19,"6,081.7",1976
+CBS,165.2,20,"5,862.7",1976
+Shell Oil,705.8,13,"9,230.0",1977
+U.S. Steel,410.3,14,"8,604.2",1977
+Atlantic Richfield,575.2,15,"8,462.5",1977
+DuPont,459.3,16,"8,361.0",1977
+Conoco,460.0,17,"7,957.6",1977
+AT&T Technologies,217.4,18,"6,930.9",1977
+Procter & Gamble,401.1,19,"6,512.7",1977
+Tenneco Automotive,383.5,20,"6,389.2",1977
+Union Carbide,441.2,21,"6,345.7",1977
+CBS,223.2,22,"6,145.2",1977
+Goodyear Tire & Rubber,122.0,23,"5,791.5",1977
+Exxon Mobil,"2,763.0",2,"60,334.5",1979
+Ford Motor,"1,588.9",3,"42,784.1",1979
+Mobil,"1,125.6",4,"34,736.0",1979
+Texaco,852.5,5,"28,607.5",1979
+ChevronTexaco,"1,105.9",6,"23,232.4",1979
+Intl. Business Machines,"3,110.6",7,"21,076.1",1979
+General Electric,"1,229.7",8,"19,653.8",1979
+Gulf Oil,791.0,9,"18,069.0",1979
+Chrysler,-204.6,10,"16,340.7",1979
+ITT Industries,661.8,11,"15,261.2",1979
+Amoco,"1,076.4",12,"14,961.5",1979
+Atlantic Richfield,804.3,13,"12,298.4",1979
+Exxon Mobil,"2,423.0",2,"54,126.2",1978
+Ford Motor,"1,672.8",3,"37,841.5",1978
+Mobil,"1,004.7",4,"32,125.8",1978
+Texaco,930.8,5,"27,920.5",1978
+ChevronTexaco,"1,016.4",6,"20,917.3",1978
+Intl. Business Machines,"2,719.4",7,"18,133.2",1978
+Gulf Oil,752.0,8,"17,840.0",1978
+General Electric,"1,088.2",9,"17,518.6",1978
+Chrysler,163.2,10,"16,708.3",1978
+ITT Industries,550.7,11,"13,145.7",1978
+Amoco,"1,011.6",12,"13,019.9",1978
+Atlantic Richfield,701.5,13,"10,969.1",1978
+Exxon Mobil,"4,295.2",1,"79,106.5",1980
+General Motors,"2,892.7",2,"66,311.2",1980
+Monsanto,38.6,74,541.9,1957
+Tidewater Oil,38.0,75,522.6,1957
+Nabisco Group Holdings,61.9,76,518.3,1957
+General Mills,14.1,77,516.1,1957
+American Cyanamid,55.4,78,500.7,1957
+Owens-Illinois,35.3,79,496.0,1957
+Pure Oil,36.6,80,486.2,1957
+Standard Brands,12.1,81,473.2,1957
+Crown Zellerbach,73.7,82,462.4,1957
+Alcoa,55.6,48,858.5,1960
+Burlington Industries Equity,27.6,49,805.5,1960
+Goodrich,37.6,50,771.6,1960
+Jones & Laughlin Steel,29.5,51,765.7,1960
+ITT Industries,29.0,52,765.6,1960
+Caterpillar,46.5,53,742.3,1960
+National Intergroup,54.9,54,737.0,1960
+Sunoco,42.8,55,735.7,1960
+Nabisco Group Holdings,90.4,56,723.7,1960
+Honeywell Intl.,50.0,57,719.7,1960
+Dow Chemical,62.9,58,705.4,1960
+Ryerson Tull,48.4,59,705.1,1960
+Eastman Kodak,98.1,46,798.3,1958
+ARMCO,55.0,47,776.7,1958
+Sunoco,47.5,48,771.6,1958
+Ryerson Tull,58.9,49,764.0,1958
+Goodrich,39.4,50,734.7,1958
+Bendix,27.5,51,707.0,1958
+Honeywell Intl.,51.2,52,683.1,1958
+Youngstown Sheet & Tube,42.5,53,679.9,1958
+Burlington Industries Equity,16.0,54,671.2,1958
+Caterpillar,38.8,55,649.9,1958
+Wilson,5.7,56,641.0,1958
+National Intergroup,45.5,57,641.0,1958
+Goodrich,35.5,48,697.3,1959
+ITT Industries,26.6,49,687.5,1959
+Wilson,7.8,50,683.7,1959
+Ryerson Tull,47.9,51,656.0,1959
+Jones & Laughlin Steel,23.2,52,654.1,1959
+Burlington Industries Equity,11.7,53,651.5,1959
+Nabisco Group Holdings,78.3,54,640.5,1959
+Fortune Brands,58.8,55,637.2,1959
+Dow Chemical,46.1,56,636.2,1959
+Honeywell Intl.,34.2,57,635.5,1959
+Bendix,21.2,58,619.1,1959
+Sperry,44.0,44,688.0,1956
+General Dynamics,21.3,45,687.3,1956
+Lockheed Martin,17.3,46,673.6,1956
+Continental Group,24.2,47,666.3,1956
+Sunoco,48.3,48,660.3,1956
+AMAX,19.8,49,660.2,1956
+Ryerson Tull,52.5,50,659.7,1956
+Wilson,4.6,51,650.5,1956
+Anaconda,65.3,52,636.2,1956
+Honeywell Intl.,52.1,53,628.5,1956
+National Intergroup,48.3,54,622.0,1956
+Ryerson Tull,41.1,49,532.0,1955
+ARMCO,43.1,50,530.8,1955
+Honeywell Intl.,10.8,51,519.7,1955
+AMAX,43.1,52,509.5,1955
+Conoco,41.7,53,500.1,1955
+Allis-Chalmers,26.1,54,492.9,1955
+Jones & Laughlin Steel,25.0,55,492.9,1955
+General Mills,11.2,56,487.6,1955
+National Intergroup,30.3,57,484.1,1955
+Curtiss-Wright,19.4,58,475.1,1955
+Olin,34.3,59,470.1,1955
+Asarco,21.5,60,466.8,1955
+Borden Chemical,32.4,47,"1,047.9",1963
+Burlington Industries Equity,37.5,48,"1,010.0",1963
+Uniroyal,25.7,49,"1,006.8",1963
+GenCorp,26.7,50,959.8,1963
+Alcoa,64.3,51,938.7,1963
+Dow Chemical,72.9,52,926.2,1963
+ARMCO,45.9,53,918.6,1963
+Nabisco Group Holdings,119.8,54,900.0,1963
+Conoco,69.1,55,880.1,1963
+Honeywell Intl.,58.0,56,869.1,1963
+United Technologies,10.0,38,"1,094.8",1962
+American Can,45.0,39,"1,093.3",1962
+International Paper,72.0,40,"1,044.8",1962
+Borden Chemical,30.1,41,"1,009.7",1962
+Eastman Kodak,130.2,42,989.2,1962
+Citgo Petroleum,46.5,43,985.4,1962
+Republic Steel,57.0,44,965.9,1962
+Uniroyal,27.1,45,940.4,1962
+Monsanto,68.7,46,932.9,1962
+American Motors,48.2,38,"1,057.7",1961
+Republic Steel,52.8,39,"1,053.9",1961
+International Paper,71.7,40,"1,012.6",1961
+United Technologies,13.9,41,987.9,1961
+Citgo Petroleum,41.3,42,980.6,1961
+Uniroyal,30.7,43,966.8,1961
+Rockwell Automation,23.4,44,964.2,1961
+Borden Chemical,26.9,45,956.0,1961
+Navistar International,52.4,32,"2,711.5",1971
+Lockheed Martin,N.A.,33,"2,535.0",1971
+Tenneco Automotive,157.8,34,"2,524.7",1971
+Rockwell Automation,64.7,35,"2,410.8",1971
+Litton Industries,68.8,36,"2,404.3",1971
+United Technologies,45.3,37,"2,348.9",1971
+Firestone Tire & Rubber,92.8,38,"2,334.7",1971
+ConocoPhillips,117.2,39,"2,273.1",1971
+Occidental Petroleum,175.2,40,"2,240.2",1971
+General Dynamics,-6.5,41,"2,223.6",1971
+Caterpillar,143.8,42,"2,127.8",1971
+General Foods,86.3,32,"1,478.1",1966
+General Dynamics,49.3,33,"1,472.8",1966
+Monsanto,123.0,34,"1,468.1",1966
+Eastman Kodak,247.6,35,"1,463.5",1966
+ConocoPhillips,127.7,36,"1,450.7",1966
+Conoco,96.2,37,"1,449.7",1966
+United Technologies,49.0,38,"1,429.7",1966
+Caterpillar,158.5,39,"1,405.3",1966
+Borden Chemical,50.9,40,"1,385.5",1966
+Republic Steel,77.3,41,"1,374.5",1966
+Burlington Industries Equity,68.6,42,"1,313.3",1966
+International Paper,88.5,43,"1,303.7",1966
+Rockwell Automation,48.6,30,"2,023.8",1967
+Firestone Tire & Rubber,101.8,31,"1,814.6",1967
+General Dynamics,58.4,32,"1,797.0",1967
+Conoco,156.9,33,"1,749.1",1967
+Eastman Kodak,318.2,34,"1,741.7",1967
+ConocoPhillips,151.6,35,"1,686.0",1967
+United Technologies,46.5,36,"1,663.2",1967
+Monsanto,112.3,37,"1,611.9",1967
+General Foods,93.9,38,"1,554.7",1967
+Borden Chemical,57.7,39,"1,545.5",1967
+ChevronTexaco,322.1,14,"2,202.5",1964
+Shell Oil,179.9,15,"2,128.6",1964
+CBS,47.8,16,"2,127.3",1964
+Bethlehem Steel,102.5,17,"2,095.8",1964
+Intl. Business Machines,290.5,18,"2,059.6",1964
+Navistar International,68.3,19,"1,957.4",1964
+Lockheed Martin,43.3,20,"1,930.5",1964
+Rockwell Automation,41.2,21,"1,867.1",1964
+Kraft,54.0,22,"1,839.0",1964
+Armour,16.3,23,"1,810.6",1964
+RCA,66.0,24,"1,779.1",1964
+Boeing,21.7,25,"1,771.4",1964
+Goodyear Tire & Rubber,81.1,26,"1,731.1",1964
+Bethlehem Steel,160.5,23,"2,862.7",1969
+Esmark,-41.6,24,"2,827.1",1969
+LTV,36.3,25,"2,769.7",1969
+Union Carbide,157.0,26,"2,685.9",1969
+General Dynamics,38.7,27,"2,662.2",1969
+Eastman Kodak,375.4,28,"2,644.1",1969
+Rockwell Automation,73.8,29,"2,639.8",1969
+Procter & Gamble,202.0,30,"2,542.6",1969
+Navistar International,75.4,31,"2,540.0",1969
+Kraft,76.2,32,"2,428.1",1969
+United Technologies,61.4,33,"2,408.3",1969
+Kraft,63.8,23,"1,919.9",1965
+Procter & Gamble,130.8,24,"1,913.7",1965
+Armour,22.8,25,"1,887.0",1965
+Union Carbide,221.7,26,"1,878.9",1965
+RCA,82.5,27,"1,797.0",1965
+General Telephone & Electronics,136.5,28,"1,773.6",1965
+Lockheed Martin,45.1,29,"1,601.0",1965
+General Dynamics,42.6,30,"1,579.9",1965
+ITT Industries,63.2,31,"1,542.1",1965
+Firestone Tire & Rubber,79.0,32,"1,448.8",1965
+Monsanto,114.9,33,"1,358.7",1965
+ConocoPhillips,115.0,34,"1,341.5",1965
+ITT Industries,122.8,21,"2,760.6",1968
+Goodyear Tire & Rubber,127.1,22,"2,637.7",1968
+General Telephone & Electronics,222.0,23,"2,622.2",1968
+Bethlehem Steel,130.4,24,"2,594.1",1968
+Union Carbide,170.7,25,"2,545.6",1968
+Navistar International,93.0,26,"2,541.9",1968
+Procter & Gamble,174.1,27,"2,438.7",1968
+Rockwell Automation,68.3,28,"2,438.5",1968
+Eastman Kodak,352.3,29,"2,391.5",1968
+Lockheed Martin,54.4,30,"2,335.5",1968
+Union Carbide,186.2,24,"2,933.0",1970
+Bethlehem Steel,156.5,25,"2,927.7",1970
+Boeing,10.2,26,"2,834.6",1970
+Eastman Kodak,401.1,27,"2,747.2",1970
+Procter & Gamble,187.4,28,"2,707.6",1970
+Atlantic Richfield,227.2,29,"2,691.2",1970
+Rockwell Automation,64.9,30,"2,667.3",1970
+Navistar International,63.8,31,"2,652.8",1970
+Kraft,75.6,32,"2,580.9",1970
+General Dynamics,2.5,33,"2,508.8",1970
+Tenneco Automotive,165.5,34,"2,450.6",1970
+Conoco,157.1,35,"2,395.6",1970
+Boeing,42.2,24,"3,039.8",1972
+Union Carbide,157.8,25,"3,037.5",1972
+Navistar International,45.2,26,"3,016.3",1972
+Esmark,34.1,27,"2,996.2",1972
+Eastman Kodak,419.3,28,"2,975.9",1972
+Bethlehem Steel,139.2,29,"2,963.6",1972
+Kraft,91.3,30,"2,959.6",1972
+Lockheed Martin,15.4,31,"2,852.4",1972
+Tenneco Automotive,184.0,32,"2,840.6",1972
+Greyhound,70.5,33,"2,616.1",1972
+Eastman Kodak,546.2,23,"3,477.8",1973
+Conoco,170.2,24,"3,415.0",1973
+Atlantic Richfield,195.6,25,"3,320.8",1973
+Tenneco Automotive,203.0,26,"3,275.4",1973
+Union Carbide,205.2,27,"3,261.3",1973
+Esmark,37.0,28,"3,240.9",1973
+Kraft,88.3,29,"3,196.8",1973
+Bethlehem Steel,134.6,30,"3,113.6",1973
+Greyhound,66.8,31,"2,903.6",1973
+McDonnell Douglas,111.7,32,"2,725.7",1973
+Firestone Tire & Rubber,135.8,33,"2,691.0",1973
+Caterpillar,206.4,34,"2,602.2",1973
+LTV,49.9,23,"4,177.1",1974
+Bethlehem Steel,206.6,24,"4,137.6",1974
+Eastman Kodak,653.5,25,"4,035.5",1974
+Atlantic Richfield,270.2,26,"3,982.6",1974
+Esmark,48.8,27,"3,951.0",1974
+Union Carbide,290.9,28,"3,938.8",1974
+Tenneco Automotive,230.2,29,"3,910.5",1974
+Procter & Gamble,302.1,30,"3,906.7",1974
+Tenneco Automotive,321.5,24,"5,001.5",1975
+ConocoPhillips,402.1,25,"4,980.7",1975
+Navistar International,124.1,26,"4,965.9",1975
+Dow Chemical,557.5,27,"4,938.5",1975
+Procter & Gamble,316.7,28,"4,912.3",1975
+LTV,111.7,29,"4,768.0",1975
+Esmark,68.1,30,"4,615.7",1975
+RCA,113.3,31,"4,594.3",1975
+Eastman Kodak,629.5,32,"4,583.6",1975
+Kraft,94.6,33,"4,471.4",1975
+Union Carbide,381.7,21,"5,665.0",1976
+Tenneco Automotive,342.9,22,"5,599.7",1976
+Goodyear Tire & Rubber,161.6,23,"5,452.5",1976
+Navistar International,79.4,24,"5,335.4",1976
+Occidental Petroleum,172.0,25,"5,333.9",1976
+ConocoPhillips,342.6,26,"5,133.6",1976
+Unocal,232.8,27,"5,086.4",1976
+Bethlehem Steel,242.0,28,"4,977.2",1976
+Caterpillar,398.7,29,"4,963.7",1976
+Eastman Kodak,613.7,30,"4,958.5",1976
+Rockwell Automation,101.6,31,"4,943.4",1976
+ConocoPhillips,411.7,24,"5,697.5",1977
+Dow Chemical,612.8,25,"5,652.1",1977
+Occidental Petroleum,183.7,26,"5,525.5",1977
+Navistar International,174.1,27,"5,488.1",1977
+Eastman Kodak,650.6,28,"5,438.2",1977
+Sunoco,356.2,29,"5,387.1",1977
+Unocal,268.8,30,"5,350.7",1977
+RCA,177.4,31,"5,328.5",1977
+Esmark,82.5,32,"5,300.6",1977
+Bethlehem Steel,168.0,33,"5,248.0",1977
+Shell Oil,813.6,14,"11,062.9",1979
+U.S. Steel,242.0,15,"11,049.5",1979
+DuPont,787.0,16,"10,584.2",1979
+AT&T Technologies,561.2,17,"9,521.8",1979
+Conoco,451.3,18,"9,455.2",1979
+Tenneco Automotive,466.0,19,"8,762.0",1979
+Procter & Gamble,511.7,20,"8,099.7",1979
+Union Carbide,394.3,21,"7,869.7",1979
+Goodyear Tire & Rubber,226.1,22,"7,489.1",1979
+Sunoco,365.4,23,"7,428.2",1979
+Caterpillar,566.3,24,"7,219.2",1979
+Eastman Kodak,902.3,25,"7,012.9",1979
+Shell Oil,735.1,14,"10,112.1",1978
+U.S. Steel,137.9,15,"9,609.9",1978
+DuPont,545.1,16,"9,434.8",1978
+Conoco,380.6,17,"8,700.3",1978
+AT&T Technologies,490.1,18,"8,134.6",1978
+Tenneco Automotive,426.9,19,"7,440.3",1978
+Procter & Gamble,461.5,20,"7,284.3",1978
+Union Carbide,385.1,21,"7,036.1",1978
+Goodyear Tire & Rubber,205.8,22,"6,627.8",1978
+Sunoco,361.9,23,"6,418.1",1978
+ConocoPhillips,516.9,24,"6,284.2",1978
+Dow Chemical,555.7,25,"6,234.3",1978
+CBS,250.8,26,"6,137.7",1978
+Mobil,"2,007.2",3,"44,720.9",1980
+Ford Motor,"1,169.3",4,"43,513.7",1980
+Texaco,"1,759.1",5,"38,350.4",1980
+ChevronTexaco,"1,784.7",6,"29,947.6",1980
+Gulf Oil,"1,322.0",7,"23,910.0",1980
+Intl. Business Machines,"3,011.3",8,"22,862.8",1980
+General Electric,"1,408.8",9,"22,460.6",1980
+Amoco,"1,506.6",10,"18,610.3",1980
+ITT Industries,380.7,11,"17,197.4",1980
+Atlantic Richfield,"1,165.9",12,"16,234.0",1980
+Shell Oil,"1,125.6",13,"14,431.2",1980
+U.S. Steel,-293.0,14,"12,929.1",1980
+Exxon Mobil,"5,650.1",1,"103,142.8",1981
+Sealed Air,19.8,83,438.1,1957
+Campbell Soup,29.2,84,429.8,1957
+Phelps Dodge,87.0,85,418.8,1957
+Nabisco Brands,20.3,86,410.5,1957
+American Motors,-19.7,87,408.4,1957
+Reynolds Metals,41.2,88,405.2,1957
+American Standard,19.6,89,401.3,1957
+Unocal,34.2,90,396.4,1957
+Ralston Purina,14.3,91,393.7,1957
+BP America,26.6,92,392.5,1957
+GenCorp,10.9,93,390.5,1957
+Foremost Dairies,10.2,94,384.0,1957
+Crane,10.9,95,375.2,1957
+Olin,37.4,60,702.0,1960
+Conoco,60.3,61,685.8,1960
+Bendix,27.4,62,683.8,1960
+Fortune Brands,63.2,63,681.2,1960
+GenCorp,26.6,64,676.9,1960
+Bestfoods,33.2,65,671.3,1960
+AMAX,30.8,66,668.5,1960
+Wilson,9.6,67,655.5,1960
+BorgWarner,39.3,68,649.9,1960
+Anaconda,59.2,69,632.7,1960
+ITT Industries,22.4,58,638.7,1958
+Dow Chemical,53.1,59,627.8,1958
+Fortune Brands,57.1,60,621.3,1958
+PPG Industries,58.0,61,620.8,1958
+Conoco,46.7,62,608.9,1958
+BorgWarner,34.1,63,608.5,1958
+Curtiss-Wright,40.1,64,598.6,1958
+Tidewater Oil,34.9,65,596.3,1958
+Olin,36.4,66,592.9,1958
+Nabisco Group Holdings,64.2,67,582.6,1958
+AMAX,27.9,68,577.2,1958
+Olin,9.4,59,601.4,1959
+Conoco,47.5,60,596.5,1959
+Caterpillar,32.2,61,585.2,1959
+Tidewater Oil,2.6,62,552.9,1959
+Monsanto,34.5,63,548.0,1959
+National Intergroup,35.8,64,540.0,1959
+Atlantic Richfield,33.8,65,538.1,1959
+AMAX,18.2,66,534.3,1959
+Colgate-Palmolive,21.2,67,534.0,1959
+BorgWarner,21.1,68,533.0,1959
+Allis-Chalmers,19.7,69,532.0,1959
+General Mills,14.7,70,529.8,1959
+Youngstown Sheet & Tube,41.7,55,617.4,1956
+Fortune Brands,51.7,56,585.9,1956
+PPG Industries,61.4,57,582.0,1956
+Bendix,25.9,58,567.2,1956
+Intl. Business Machines,55.9,59,563.5,1956
+Olin,44.6,60,560.5,1956
+BorgWarner,41.1,61,552.2,1956
+Kennecott,125.5,62,548.3,1956
+Republic Aviation,14.7,63,547.4,1956
+Asarco,33.5,64,540.5,1956
+Allis-Chalmers,24.8,65,535.1,1956
+NL Industries,47.9,66,533.7,1956
+Intl. Business Machines,46.5,61,461.4,1955
+Anaconda,26.7,62,461.1,1955
+Tidewater Oil,34.5,63,459.0,1955
+Cudahy,-7.2,64,454.8,1955
+Briggs Manufacturing,0.8,65,440.9,1955
+Sperry,28.5,66,440.9,1955
+Nabisco Group Holdings,44.8,67,438.3,1955
+PPG Industries,38.6,68,431.0,1955
+Dow Chemical,33.4,69,428.3,1955
+Youngstown Sheet & Tube,20.2,70,428.2,1955
+Kennecott,77.9,71,423.6,1955
+Caterpillar,62.0,57,827.0,1963
+Goodrich,26.3,58,812.0,1963
+Bestfoods,46.2,59,803.3,1963
+Bendix,22.5,60,794.2,1963
+Sunoco,53.2,61,794.0,1963
+Jones & Laughlin Steel,25.2,62,790.8,1963
+Ryerson Tull,52.5,63,760.1,1963
+Douglas Aircraft,10.2,64,749.9,1963
+National Intergroup,35.5,65,744.6,1963
+Olin,34.1,66,729.7,1963
+Wilson,7.6,67,711.5,1963
+Anaconda,48.8,68,691.3,1963
+3M,83.7,69,687.1,1963
+ITT Industries,43.7,47,930.5,1962
+ARMCO,57.5,48,888.0,1962
+American Motors,23.6,49,875.7,1962
+Burlington Industries Equity,23.3,50,866.0,1962
+Nabisco Group Holdings,117.2,51,859.2,1962
+Alcoa,43.0,52,853.3,1962
+Dow Chemical,64.4,53,817.5,1962
+Conoco,64.5,54,809.8,1962
+GenCorp,27.3,55,809.0,1962
+Douglas Aircraft,6.0,56,791.3,1962
+Fortune Brands,68.7,57,781.9,1962
+Sunoco,49.8,58,775.6,1962
+Bendix,24.0,59,758.0,1962
+Eastman Kodak,127.1,46,944.8,1961
+ARMCO,70.5,47,938.0,1961
+Burlington Industries Equity,35.4,48,913.0,1961
+Monsanto,67.8,49,890.1,1961
+Alcoa,40.0,50,861.2,1961
+ITT Industries,38.5,51,811.4,1961
+Nabisco Group Holdings,105.3,52,795.8,1961
+Bendix,26.2,53,787.0,1961
+Dow Chemical,82.4,54,781.4,1961
+Jones & Laughlin Steel,33.2,55,778.8,1961
+Honeywell Intl.,51.3,56,765.8,1961
+Goodrich,30.0,57,764.7,1961
+GenCorp,22.8,58,753.9,1961
+Singer,75.1,43,"2,125.1",1971
+McDonnell Douglas,92.6,44,"2,088.2",1971
+General Foods,99.3,45,"2,045.4",1971
+Continental Group,76.4,46,"2,036.5",1971
+Monsanto,66.5,47,"1,971.6",1971
+Sunoco,139.1,48,"1,941.9",1971
+Honeywell,61.6,49,"1,921.2",1971
+Sealed Air,30.2,50,"1,917.6",1971
+Dow Chemical,103.4,51,"1,911.1",1971
+International Paper,42.9,52,"1,840.8",1971
+American Can,65.9,53,"1,838.1",1971
+Borden Chemical,53.0,54,"1,827.3",1971
+Sinclair Oil,76.7,44,"1,275.5",1966
+American Can,62.1,45,"1,265.1",1966
+Sperry,22.0,46,"1,247.6",1966
+Unocal,119.2,47,"1,234.0",1966
+Continental Group,59.2,48,"1,225.6",1966
+Uniroyal,37.2,49,"1,225.5",1966
+Citgo Petroleum,104.1,50,"1,200.8",1966
+ARMCO,93.5,51,"1,188.5",1966
+Dow Chemical,108.1,52,"1,176.2",1966
+Alcoa,75.6,53,"1,165.6",1966
+Honeywell Intl.,84.3,54,"1,121.3",1966
+Caterpillar,150.1,40,"1,524.0",1967
+International Paper,105.2,41,"1,450.1",1967
+Sinclair Oil,94.3,42,"1,377.1",1967
+Alcoa,106.1,43,"1,373.0",1967
+Burlington Industries Equity,77.1,44,"1,371.6",1967
+American Can,71.6,45,"1,369.7",1967
+Unocal,142.2,46,"1,364.5",1967
+Republic Steel,93.7,47,"1,359.8",1967
+Continental Group,70.9,48,"1,339.2",1967
+Uniroyal,45.3,49,"1,320.8",1967
+Dow Chemical,121.7,50,"1,309.7",1967
+Citgo Petroleum,141.8,51,"1,296.0",1967
+Sperry,31.9,52,"1,279.8",1967
+Union Carbide,160.2,27,"1,668.2",1964
+Procter & Gamble,115.8,28,"1,654.5",1964
+General Telephone & Electronics,105.1,29,"1,443.4",1964
+General Dynamics,82.7,30,"1,415.1",1964
+ITT Industries,52.4,31,"1,414.1",1964
+Firestone Tire & Rubber,63.4,32,"1,382.0",1964
+United Technologies,21.4,33,"1,281.1",1964
+ConocoPhillips,113.9,34,"1,274.7",1964
+Sperry,13.8,35,"1,227.1",1964
+General Foods,78.6,36,"1,216.2",1964
+Citgo Petroleum,77.5,37,"1,213.9",1964
+Conoco,150.0,34,"2,251.6",1969
+Lockheed Martin,44.5,35,"2,217.4",1969
+Firestone Tire & Rubber,127.0,36,"2,131.4",1969
+ConocoPhillips,136.8,37,"2,106.9",1969
+Armour,12.0,38,"2,096.4",1969
+Tenneco Automotive,166.9,39,"2,063.5",1969
+Litton Industries,58.5,40,"1,855.0",1969
+Monsanto,108.8,41,"1,792.9",1969
+Sunoco,164.4,42,"1,778.2",1969
+Singer,69.4,43,"1,754.6",1969
+General Foods,83.5,35,"1,338.0",1965
+Borden Chemical,45.5,36,"1,293.4",1965
+Sperry,28.2,37,"1,278.6",1965
+Republic Steel,72.3,38,"1,272.7",1965
+Conoco,100.1,39,"1,267.6",1965
+International Paper,81.3,40,"1,245.9",1965
+Eastman Kodak,187.2,41,"1,237.2",1965
+United Technologies,29.1,42,"1,235.9",1965
+American Can,46.9,43,"1,225.8",1965
+Burlington Industries Equity,50.9,44,"1,206.4",1965
+Continental Group,48.9,45,"1,198.1",1965
+Kraft,76.1,31,"2,318.6",1968
+General Dynamics,57.0,32,"2,253.3",1968
+United Technologies,57.3,33,"2,212.3",1968
+Armour,22.3,34,"2,156.7",1968
+Conoco,149.0,35,"2,082.8",1968
+ConocoPhillips,164.0,36,"1,981.6",1968
+Firestone Tire & Rubber,102.3,37,"1,875.4",1968
+LTV,34.0,38,"1,833.3",1968
+Tenneco Automotive,138.5,39,"1,777.7",1968
+General Foods,98.8,40,"1,651.6",1968
+Monsanto,104.4,41,"1,632.4",1968
+Borden Chemical,55.3,42,"1,588.4",1968
+Sealed Air,51.5,43,"1,576.3",1968
+United Technologies,50.9,36,"2,350.4",1970
+Firestone Tire & Rubber,116.7,37,"2,278.9",1970
+ConocoPhillips,134.3,38,"2,202.0",1970
+Litton Industries,82.3,39,"2,176.6",1970
+Armour,18.1,40,"2,153.4",1970
+Lockheed Martin,-32.6,41,"2,074.6",1970
+Caterpillar,142.5,42,"2,001.6",1970
+Monsanto,116.1,43,"1,938.8",1970
+Occidental Petroleum,174.8,44,"1,937.6",1970
+Singer,77.7,45,"1,902.1",1970
+Firestone Tire & Rubber,120.3,34,"2,483.6",1972
+Litton Industries,50.0,35,"2,466.1",1972
+Occidental Petroleum,-67.0,36,"2,400.0",1972
+ConocoPhillips,132.3,37,"2,363.2",1972
+General Foods,118.7,38,"2,281.9",1972
+Rockwell Automation,68.6,39,"2,210.7",1972
+Caterpillar,128.3,40,"2,175.2",1972
+Singer,70.8,41,"2,099.5",1972
+Monsanto,93.7,42,"2,087.1",1972
+Continental Group,72.9,43,"2,081.6",1972
+Borden Chemical,60.5,44,"2,069.7",1972
+McDonnell Douglas,80.9,45,"2,069.1",1972
+Dow Chemical,154.7,46,"2,052.7",1972
+Litton Industries,1.1,35,"2,558.5",1973
+ConocoPhillips,148.4,36,"2,512.7",1973
+Occidental Petroleum,10.4,37,"2,487.2",1973
+Lockheed Martin,16.2,38,"2,472.7",1973
+General Foods,66.2,39,"2,423.8",1973
+Xerox,249.5,40,"2,419.1",1973
+Dow Chemical,189.2,41,"2,403.7",1973
+Beatrice,77.9,42,"2,384.4",1973
+Kraft,103.4,31,"3,601.5",1974
+Greyhound,76.4,32,"3,408.7",1974
+Boeing,51.2,33,"3,335.2",1974
+Caterpillar,246.8,34,"3,182.4",1974
+Rockwell Automation,131.0,35,"3,179.0",1974
+Occidental Petroleum,79.8,36,"3,178.3",1974
+Firestone Tire & Rubber,164.9,37,"3,154.9",1974
+Dow Chemical,275.6,38,"3,067.9",1974
+Unocal,288.0,34,"4,419.0",1975
+Rockwell Automation,130.3,35,"4,408.5",1975
+Caterpillar,229.2,36,"4,082.1",1975
+Sunoco,377.7,37,"3,799.6",1975
+Amerada Hess,201.9,38,"3,744.5",1975
+Boeing,72.4,39,"3,730.7",1975
+Firestone Tire & Rubber,154.0,40,"3,674.9",1975
+Dow Chemical,615.7,32,"4,888.1",1976
+Kraft,139.6,33,"4,857.4",1976
+RCA,110.0,34,"4,789.5",1976
+Esmark,79.7,35,"4,730.7",1976
+Sunoco,220.1,36,"4,389.1",1976
+LTV,13.1,37,"4,312.5",1976
+Rockwell Automation,123.4,34,"5,220.1",1977
+United Technologies,157.4,35,"5,166.3",1977
+Caterpillar,383.2,36,"5,042.3",1977
+Kraft,135.7,37,"4,976.6",1977
+Beatrice,153.1,38,"4,690.6",1977
+LTV,30.7,39,"4,496.9",1977
+Xerox,358.9,40,"4,403.9",1977
+Nabisco Group Holdings,353.9,41,"4,291.1",1977
+Monsanto,366.3,42,"4,270.2",1977
+Ashland,136.0,43,"4,086.8",1977
+ConocoPhillips,710.5,26,"6,997.8",1979
+Dow Chemical,575.2,27,"6,887.6",1979
+Navistar International,186.7,28,"6,664.3",1979
+CBS,243.4,29,"6,663.3",1979
+RCA,278.4,30,"6,600.6",1979
+Beatrice,221.5,31,"6,313.9",1979
+United Technologies,234.1,32,"6,265.3",1979
+Occidental Petroleum,6.7,33,"6,252.6",1979
+Bethlehem Steel,225.1,34,"6,184.9",1979
+Unocal,382.3,35,"5,954.9",1979
+Occidental Petroleum,217.9,27,"6,006.0",1978
+Navistar International,203.7,28,"5,975.1",1978
+Eastman Kodak,643.4,29,"5,967.0",1978
+RCA,247.0,30,"5,880.9",1978
+Rockwell Automation,144.1,31,"5,858.7",1978
+Caterpillar,445.1,32,"5,848.9",1978
+Conoco,815.4,15,"12,648.0",1980
+DuPont,938.9,16,"12,571.8",1980
+Chrysler,"-1,097.3",17,"12,001.9",1980
+Tenneco Automotive,571.0,18,"11,209.0",1980
+AT&T Technologies,635.9,19,"10,964.1",1980
+Sunoco,699.9,20,"10,666.0",1980
+Occidental Petroleum,561.6,21,"9,554.8",1980
+ConocoPhillips,891.1,22,"9,502.8",1980
+Procter & Gamble,577.3,23,"9,329.3",1980
+Dow Chemical,783.9,24,"9,255.4",1980
+Union Carbide,556.2,25,"9,176.5",1980
+United Technologies,325.6,26,"9,053.4",1980
+Navistar International,369.6,27,"8,392.0",1980
+Mobil,"3,272.0",2,"59,510.0",1981
+General Motors,-762.5,3,"57,728.5",1981
+Texaco,"2,642.5",4,"51,195.8",1981
+ChevronTexaco,"2,401.0",5,"40,479.0",1981
+Ford Motor,"-1,543.3",6,"37,085.5",1981
+Gulf Oil,"1,407.0",7,"26,483.0",1981
+Intl. Business Machines,"3,562.0",8,"26,213.0",1981
+Amoco,"1,915.3",9,"26,133.1",1981
+General Electric,"1,514.0",10,"24,959.0",1981
+Atlantic Richfield,"1,651.4",11,"23,744.3",1981
+Exxon Mobil,"5,567.5",1,"108,107.7",1982
+Mobil,"2,433.0",2,"64,488.0",1982
+General Motors,333.4,3,"62,698.5",1982
+Texaco,"2,310.0",4,"57,628.0",1982
+Merritt-Chapman & Scott,16.8,96,374.0,1957
+J.P. Stevens,10.4,97,372.6,1957
+United Merchants & Mfrs.,13.8,98,368.6,1957
+Whirlpool,13.8,99,368.2,1957
+Pullman,12.7,100,364.4,1957
+Monsanto,49.0,70,615.4,1960
+Youngstown Sheet & Tube,31.0,71,608.1,1960
+PPG Industries,44.1,72,606.9,1960
+American Cyanamid,52.3,73,583.6,1960
+Colgate-Palmolive,25.3,74,582.0,1960
+Tidewater Oil,33.9,75,559.4,1960
+Owens-Illinois,40.8,76,552.7,1960
+General Mills,16.8,77,546.0,1960
+Deere,48.5,78,542.5,1960
+Atlantic Richfield,30.2,79,541.3,1960
+Allis-Chalmers,22.9,80,539.6,1960
+Anaconda,44.0,69,570.8,1958
+Monsanto,37.4,70,567.1,1958
+Atlantic Richfield,35.7,71,565.9,1958
+NL Industries,56.2,72,535.3,1958
+Allis-Chalmers,17.8,73,534.1,1958
+American Cyanamid,51.3,74,532.5,1958
+General Mills,12.2,75,527.7,1958
+Standard Brands,13.8,76,513.9,1958
+Ogden,4.3,77,512.2,1958
+Owens-Illinois,35.8,78,510.5,1958
+Pure Oil,35.5,79,508.8,1958
+Colgate-Palmolive,19.9,80,506.9,1958
+American Cyanamid,43.8,71,525.1,1959
+Anaconda,33.9,72,523.1,1959
+Standard Brands,14.7,73,519.7,1959
+PPG Industries,32.1,74,513.6,1959
+Owens-Illinois,37.8,75,508.5,1959
+Campbell Soup,31.5,76,501.4,1959
+Youngstown Sheet & Tube,21.5,77,499.6,1959
+Ralston Purina,17.5,78,493.5,1959
+Martin Marietta,8.9,79,483.6,1959
+Pure Oil,28.8,80,473.4,1959
+Deere,42.1,81,472.6,1959
+Bestfoods,32.5,82,470.9,1959
+American Motors,26.1,83,470.3,1959
+GenCorp,11.3,84,469.8,1959
+Conoco,46.4,67,528.9,1956
+Caterpillar,34.8,68,523.9,1956
+Monsanto,42.2,69,522.3,1956
+Burlington Industries Equity,16.4,70,515.2,1956
+General Mills,12.4,71,513.7,1956
+Atlantic Richfield,39.5,72,513.0,1956
+Curtiss-Wright,35.1,73,508.7,1956
+Pure Oil,35.2,74,485.1,1956
+Studebaker,-29.7,75,480.0,1956
+Tidewater Oil,37.8,76,478.8,1956
+NL Industries,36.6,72,419.3,1955
+Standard Brands,10.6,73,415.9,1955
+Sealed Air,14.8,74,413.4,1955
+Caterpillar,25.1,75,401.0,1955
+American Motors,-11.1,76,400.3,1955
+Ralston Purina,15.5,77,399.6,1955
+American Cyanamid,27.1,78,397.6,1955
+Pullman,13.3,79,391.0,1955
+Pure Oil,31.2,80,388.3,1955
+BorgWarner,24.5,81,380.3,1955
+Ralston Purina,22.2,70,682.0,1963
+Colgate-Palmolive,22.9,71,673.8,1963
+BorgWarner,33.0,72,658.9,1963
+PPG Industries,43.0,73,656.7,1963
+Tidewater Oil,36.2,74,655.7,1963
+Fortune Brands,68.6,75,655.2,1963
+American Cyanamid,59.3,76,649.2,1963
+AMAX,28.1,77,642.1,1963
+Singer,34.5,78,631.1,1963
+Owens-Illinois,33.2,79,627.8,1963
+Honeywell,26.9,80,595.9,1963
+Goodrich,31.0,60,757.8,1962
+Honeywell Intl.,47.2,61,746.6,1962
+Bestfoods,42.6,62,745.8,1962
+Jones & Laughlin Steel,32.1,63,736.7,1962
+Caterpillar,55.8,64,734.3,1962
+Ryerson Tull,54.7,65,724.6,1962
+Olin,32.1,66,700.7,1962
+Wilson,7.8,67,697.7,1962
+National Intergroup,32.9,68,648.4,1962
+Anaconda,42.1,69,624.3,1962
+Tidewater Oil,27.8,70,621.4,1962
+Sunoco,49.3,59,749.8,1961
+Ryerson Tull,47.1,60,747.1,1961
+Fortune Brands,62.5,61,724.1,1961
+Caterpillar,42.6,62,716.0,1961
+National Intergroup,41.9,63,697.1,1961
+Conoco,61.2,64,694.3,1961
+Bestfoods,38.2,65,691.4,1961
+Olin,34.7,66,689.6,1961
+AMAX,38.7,67,679.0,1961
+Martin Marietta,15.7,68,651.2,1961
+PPG Industries,47.6,69,628.0,1961
+Rapid-American,20.7,55,"1,827.1",1971
+Burlington Industries Equity,71.4,56,"1,821.5",1971
+Unocal,114.5,57,"1,811.2",1971
+Nabisco Group Holdings,201.9,58,"1,786.0",1971
+Sperry,81.0,59,"1,755.4",1971
+Xerox,187.7,60,"1,718.6",1971
+OfficeMax,36.6,61,"1,716.9",1971
+Citgo Petroleum,118.6,62,"1,714.0",1971
+3M,187.7,63,"1,687.3",1971
+National Intergroup,87.5,55,"1,107.2",1966
+Tenneco Automotive,95.3,56,"1,037.9",1966
+McDonnell Douglas,32.0,57,"1,007.8",1966
+Nabisco Group Holdings,133.4,58,"1,004.0",1966
+Sealed Air,45.3,59,"1,003.1",1966
+3M,116.4,60,"1,000.3",1966
+Anaconda,79.5,61,993.9,1966
+Jones & Laughlin Steel,53.3,62,992.7,1966
+American Motors,5.2,63,990.6,1966
+Goodrich,40.7,64,980.1,1966
+Sealed Air,69.5,53,"1,278.7",1967
+Honeywell Intl.,89.2,54,"1,245.6",1967
+Anaconda,132.4,55,"1,234.6",1967
+ARMCO,86.7,56,"1,224.6",1967
+Litton Industries,55.6,57,"1,172.2",1967
+Tenneco Automotive,108.1,58,"1,164.3",1967
+Ralston Purina,44.9,59,"1,154.0",1967
+3M,138.5,60,"1,152.6",1967
+Textron,43.9,61,"1,132.2",1967
+Olin,66.7,62,"1,117.1",1967
+Nabisco Group Holdings,137.9,63,"1,094.6",1967
+Sinclair Oil,75.2,38,"1,211.5",1964
+Monsanto,83.0,39,"1,192.3",1964
+Continental Group,40.1,40,"1,154.0",1964
+American Can,44.1,41,"1,149.4",1964
+Conoco,87.4,42,"1,147.1",1964
+International Paper,69.4,43,"1,144.6",1964
+American Motors,37.8,44,"1,132.4",1964
+Borden Chemical,35.1,45,"1,118.9",1964
+Republic Steel,55.5,46,"1,114.2",1964
+Eastman Kodak,144.4,47,"1,106.7",1964
+Burlington Industries Equity,40.6,48,"1,084.9",1964
+General Foods,103.5,44,"1,739.7",1969
+Sealed Air,33.1,45,"1,738.4",1969
+Caterpillar,121.6,46,"1,707.1",1969
+Textron,74.0,47,"1,704.1",1969
+Occidental Petroleum,134.1,48,"1,699.0",1969
+Borden Chemical,43.8,49,"1,669.4",1969
+Dow Chemical,136.0,50,"1,652.5",1969
+American Can,77.6,51,"1,633.0",1969
+Burlington Industries Equity,79.0,52,"1,619.3",1969
+Sperry,64.0,53,"1,562.8",1969
+Sinclair Oil,58.7,46,"1,187.3",1965
+Citgo Petroleum,84.5,47,"1,170.4",1965
+Caterpillar,123.8,48,"1,161.0",1965
+Uniroyal,30.1,49,"1,086.6",1965
+Dow Chemical,93.8,50,"1,077.5",1965
+ARMCO,80.4,51,"1,063.5",1965
+Honeywell Intl.,81.0,52,"1,043.1",1965
+Alcoa,60.8,53,"1,036.9",1965
+GenCorp,36.9,54,"1,027.2",1965
+American Motors,26.2,55,"1,009.5",1965
+National Intergroup,84.9,56,966.1,1965
+Jones & Laughlin Steel,60.1,57,946.6,1965
+Litton Industries,70.1,44,"1,561.5",1968
+American Can,60.5,45,"1,521.8",1968
+Sperry,53.9,46,"1,487.1",1968
+Sinclair Oil,95.4,47,"1,483.1",1968
+Caterpillar,106.4,48,"1,472.5",1968
+Textron,61.5,49,"1,446.0",1968
+International Paper,88.8,50,"1,414.5",1968
+Unocal,145.0,51,"1,412.2",1968
+Continental Group,78.1,52,"1,397.6",1968
+General Foods,132.9,46,"1,893.8",1970
+Sunoco,152.3,47,"1,837.8",1970
+Rapid-American,20.7,48,"1,827.1",1970
+Dow Chemical,148.7,49,"1,797.1",1970
+Sealed Air,51.0,50,"1,791.7",1970
+Continental Group,90.4,51,"1,780.0",1970
+International Paper,115.6,52,"1,777.3",1970
+Burlington Industries Equity,78.1,53,"1,764.7",1970
+Borden Chemical,29.6,54,"1,740.2",1970
+OfficeMax,84.0,55,"1,725.8",1970
+American Can,64.6,56,"1,723.7",1970
+Textron,76.1,57,"1,682.2",1970
+Unocal,153.2,58,"1,660.1",1970
+Sealed Air,43.3,47,"2,048.9",1972
+United Technologies,-43.9,48,"2,028.8",1972
+Rapid-American,13.0,49,"1,990.6",1972
+Unocal,114.7,50,"1,981.4",1972
+International Paper,54.6,51,"1,969.5",1972
+Xerox,212.6,52,"1,961.4",1972
+Honeywell,69.3,53,"1,946.1",1972
+Sunoco,151.6,54,"1,938.8",1972
+American Can,50.1,55,"1,897.0",1972
+General Dynamics,22.0,56,"1,868.8",1972
+Boeing,30.4,43,"2,369.6",1973
+Rockwell Automation,86.1,44,"2,362.9",1973
+Sealed Air,63.5,45,"2,315.1",1973
+Monsanto,122.0,46,"2,225.4",1973
+Singer,87.5,47,"2,217.5",1973
+Borden Chemical,66.0,48,"2,192.9",1973
+Continental Group,-39.3,49,"2,192.7",1973
+Honeywell,82.3,50,"2,125.4",1973
+3M,244.4,51,"2,114.1",1973
+Unocal,121.9,52,"2,098.2",1973
+International Paper,102.7,53,"2,093.3",1973
+Nabisco Group Holdings,237.5,54,"2,072.3",1973
+McDonnell Douglas,129.5,39,"3,002.6",1974
+ConocoPhillips,230.4,40,"2,990.0",1974
+Xerox,300.5,41,"2,989.7",1974
+Sealed Air,84.6,42,"2,807.8",1974
+Beatrice,90.4,43,"2,787.0",1974
+Lockheed Martin,16.8,44,"2,756.8",1974
+Monsanto,238.3,45,"2,647.7",1974
+General Foods,110.4,46,"2,632.3",1974
+Litton Industries,43.0,47,"2,624.4",1974
+Borden Chemical,73.0,48,"2,554.0",1974
+Xerox,331.1,41,"3,576.4",1975
+Beatrice,117.0,42,"3,541.2",1975
+Monsanto,323.2,43,"3,497.9",1975
+Sealed Air,130.6,44,"3,472.3",1975
+Greyhound,58.0,45,"3,458.3",1975
+United Technologies,104.7,46,"3,321.1",1975
+Lockheed Martin,23.2,47,"3,279.1",1975
+Borden Chemical,83.8,48,"3,264.5",1975
+Nabisco Group Holdings,310.7,49,"3,229.7",1975
+Ashland,113.0,50,"3,215.7",1975
+ARMCO,204.3,51,"3,190.1",1975
+Continental Group,119.4,52,"3,087.4",1975
+Beatrice,134.8,38,"4,191.8",1976
+Xerox,244.3,39,"4,094.0",1976
+United Technologies,117.5,40,"3,877.8",1976
+Greyhound,81.2,41,"3,733.3",1976
+Firestone Tire & Rubber,134.3,42,"3,724.2",1976
+Boeing,76.3,43,"3,718.9",1976
+General Foods,99.4,44,"3,675.1",1976
+Ashland,119.4,45,"3,637.1",1976
+Monsanto,306.3,46,"3,624.7",1976
+Sealed Air,166.7,47,"3,529.2",1976
+Nabisco Group Holdings,338.7,48,"3,528.9",1976
+General Foods,150.4,44,"3,978.3",1977
+Citgo Petroleum,217.0,45,"3,964.6",1977
+Firestone Tire & Rubber,96.0,46,"3,939.1",1977
+Boeing,102.9,47,"3,918.5",1977
+Amerada Hess,152.6,48,"3,914.6",1977
+Greyhound,77.1,49,"3,727.3",1977
+Sealed Air,131.9,50,"3,615.2",1977
+McDonnell Douglas,108.9,51,"3,543.7",1977
+International Paper,253.6,52,"3,540.6",1977
+3M,338.5,53,"3,514.3",1977
+Colgate-Palmolive,149.2,54,"3,511.5",1977
+Xerox,476.9,36,"5,901.9",1979
+Rockwell Automation,176.6,37,"5,832.8",1979
+Esmark,80.1,38,"5,827.2",1979
+Kraft,184.0,39,"5,669.9",1979
+Boeing,322.9,40,"5,463.0",1979
+General Foods,169.5,41,"5,376.2",1979
+LTV,39.6,42,"5,260.5",1979
+BP America,450.2,43,"5,197.7",1979
+Ashland,244.8,44,"5,166.7",1979
+Monsanto,302.6,45,"5,018.7",1979
+Altria Group,408.6,46,"4,968.9",1979
+Unocal,334.2,33,"5,668.5",1978
+United Technologies,196.0,34,"5,550.7",1978
+Bethlehem Steel,-448.2,35,"5,370.0",1978
+Beatrice,182.6,36,"5,288.6",1978
+Esmark,67.0,37,"5,280.2",1978
+Kraft,154.1,38,"5,238.8",1978
+Xerox,406.6,39,"5,076.9",1978
+General Foods,177.3,40,"4,909.7",1978
+Nabisco Group Holdings,423.5,41,"4,816.0",1978
+Ashland,164.3,42,"4,785.6",1978
+LTV,-38.7,43,"4,703.3",1978
+Monsanto,275.6,44,"4,594.5",1978
+Goodyear Tire & Rubber,146.2,28,"8,238.7",1980
+Boeing,505.4,29,"8,131.0",1980
+Eastman Kodak,"1,000.8",30,"8,028.2",1980
+LTV,173.5,31,"7,996.8",1980
+BP America,"1,186.1",32,"7,916.0",1980
+Caterpillar,491.6,33,"7,613.2",1980
+Unocal,500.6,34,"7,567.7",1980
+Beatrice,261.0,35,"7,468.4",1980
+RCA,283.8,36,"7,454.6",1980
+CBS,-73.9,37,"7,332.0",1980
+Bethlehem Steel,275.7,38,"7,137.2",1980
+Shell Oil,"1,542.0",12,"19,830.0",1981
+ITT Industries,894.3,13,"18,529.7",1981
+Conoco,"1,026.2",14,"18,325.4",1981
+DuPont,716.0,15,"13,652.0",1981
+ConocoPhillips,"1,069.6",16,"13,376.6",1981
+Tenneco Automotive,726.0,17,"13,226.0",1981
+Sunoco,723.0,18,"12,945.0",1981
+U.S. Steel,504.5,19,"12,492.1",1981
+Occidental Petroleum,710.8,20,"12,476.1",1981
+United Technologies,393.4,21,"12,324.0",1981
+AT&T Technologies,693.2,22,"12,032.1",1981
+ChevronTexaco,"2,380.0",5,"44,224.0",1982
+Ford Motor,"-1,060.1",6,"38,247.1",1982
+Amoco,"1,922.0",7,"29,947.0",1982
+Intl. Business Machines,"3,308.0",8,"29,070.0",1982
+Gulf Oil,"1,231.0",9,"28,252.0",1982
+Atlantic Richfield,"1,671.3",10,"27,797.4",1982
+General Electric,"1,652.0",11,"27,240.0",1982
+DuPont,"1,401.0",12,"22,810.0",1982
+Shell Oil,"1,701.0",13,"21,629.0",1982
+ITT Industries,676.8,14,"17,306.2",1982
+ConocoPhillips,879.0,15,"15,966.0",1982
+Tenneco Automotive,813.0,16,"15,462.0",1982
+Sunoco,"1,076.0",17,"15,012.0",1982
+Exxon Mobil,"4,185.9",1,"97,172.5",1983
+Ralston Purina,17.8,81,530.6,1960
+NL Industries,52.5,82,530.6,1960
+Crown Zellerbach,42.3,83,527.3,1960
+Martin Marietta,11.9,84,523.7,1960
+American Standard,21.4,85,517.4,1960
+3M,63.6,86,500.7,1960
+Pure Oil,28.9,87,499.6,1960
+Campbell Soup,34.5,88,496.5,1960
+Singer,21.3,89,496.1,1960
+Raytheon,13.5,90,494.3,1960
+Reynolds Metals,44.8,91,489.3,1960
+St. Regis,28.6,92,474.4,1960
+Sealed Air,14.8,93,469.7,1960
+Asarco,25.0,81,498.6,1958
+Kennecott,79.3,82,468.0,1958
+Crown Zellerbach,38.1,83,460.6,1958
+Sealed Air,15.5,84,459.7,1958
+Reynolds Metals,37.8,85,446.6,1958
+Campbell Soup,29.9,86,440.9,1958
+Ralston Purina,14.6,87,438.3,1958
+Unocal,38.2,88,432.7,1958
+Pullman,14.8,89,424.5,1958
+Nabisco Brands,22.1,90,424.5,1958
+Martin Marietta,11.4,91,423.9,1958
+GenCorp,11.3,92,421.2,1958
+Crown Zellerbach,33.2,85,468.8,1959
+NL Industries,44.7,86,457.6,1959
+Reynolds Metals,38.2,87,445.5,1959
+McDonnell Douglas,10.0,88,442.4,1959
+Sealed Air,10.0,89,434.2,1959
+Asarco,17.3,90,417.1,1959
+Foremost Dairies,9.6,91,416.4,1959
+Nabisco Brands,22.1,92,413.3,1959
+Hygrade Food Products,1.4,93,411.5,1959
+Weyerhaeuser,49.6,94,410.4,1959
+Kaisertech,25.2,95,408.6,1959
+Unocal,25.0,96,408.0,1959
+Dow Chemical,37.4,77,470.7,1956
+Nabisco Group Holdings,53.3,78,466.3,1956
+American Cyanamid,38.7,79,451.1,1956
+ITT Industries,23.1,80,448.4,1956
+American Motors,-7.0,81,441.1,1956
+Sealed Air,18.8,82,427.1,1956
+Crown Zellerbach,44.1,83,414.1,1956
+Standard Brands,10.6,84,400.7,1956
+Nabisco Brands,18.3,85,389.6,1956
+Nabisco Brands,19.9,82,376.4,1955
+Avco,3.6,83,375.4,1955
+Unocal,35.9,84,349.7,1955
+Philco,6.8,85,349.3,1955
+Burlington Industries Equity,8.4,86,347.5,1955
+Monsanto,23.7,87,341.8,1955
+Campbell Soup,23.6,88,338.7,1955
+Owens-Illinois,21.5,89,336.7,1955
+Pillsbury,4.9,90,336.0,1955
+Singer,11.9,91,333.9,1955
+Hormel Foods,1.8,92,331.8,1955
+Hygrade Food Products,1.0,93,324.2,1955
+Republic Aviation,9.0,94,323.5,1955
+Campbell Soup,44.8,81,591.5,1963
+Youngstown Sheet & Tube,27.3,82,590.9,1963
+Crown Zellerbach,38.8,83,590.4,1963
+J.P. Stevens,14.7,84,585.9,1963
+Raytheon,9.6,85,580.7,1963
+Atlantic Richfield,46.3,86,580.7,1963
+St. Regis,21.3,87,579.0,1963
+Sealed Air,21.9,88,574.2,1963
+3M,74.9,71,608.2,1962
+Colgate-Palmolive,22.3,72,604.9,1962
+American Cyanamid,49.4,73,604.0,1962
+PPG Industries,34.6,74,602.7,1962
+Owens-Illinois,34.4,75,596.4,1962
+BorgWarner,23.4,76,584.7,1962
+Singer,23.7,77,582.3,1962
+Ralston Purina,19.9,78,581.0,1962
+AMAX,34.5,79,575.8,1962
+Anaconda,46.1,70,624.4,1961
+BorgWarner,27.2,71,586.9,1961
+Wilson,2.0,72,585.3,1961
+Tidewater Oil,35.1,73,583.1,1961
+American Cyanamid,46.8,74,578.4,1961
+Colgate-Palmolive,21.2,75,576.3,1961
+Youngstown Sheet & Tube,25.7,76,574.2,1961
+Atlantic Richfield,46.6,77,561.2,1961
+Owens-Illinois,33.2,78,561.0,1961
+Sara Lee,54.7,64,"1,651.5",1971
+Gulf & Western Industries,44.8,65,"1,629.6",1971
+Textron,66.7,66,"1,611.9",1971
+Coca-Cola,146.9,67,"1,606.4",1971
+TRW,79.3,68,"1,585.2",1971
+ARMCO,56.2,69,"1,583.7",1971
+Beatrice,52.9,70,"1,576.1",1971
+Ralston Purina,56.8,71,"1,567.0",1971
+Singer,44.5,65,979.8,1966
+Bestfoods,54.7,66,978.5,1966
+Ryerson Tull,68.4,67,967.6,1966
+Ralston Purina,29.5,68,954.8,1966
+GenCorp,42.6,69,949.7,1966
+FMC,57.7,70,929.0,1966
+Sunoco,84.8,71,925.2,1966
+Litton Industries,39.8,72,915.6,1966
+PPG Industries,58.1,73,897.5,1966
+Atlantic Richfield,113.5,64,"1,093.9",1967
+Deere,78.7,65,"1,062.1",1967
+McDonnell Douglas,43.2,66,"1,060.0",1967
+Grumman,27.6,67,"1,059.4",1967
+Ryerson Tull,68.1,68,"1,054.5",1967
+Bendix,38.7,69,"1,051.5",1967
+National Intergroup,71.9,70,"1,050.5",1967
+Singer,47.3,71,"1,049.2",1967
+GenCorp,34.7,49,"1,084.2",1964
+Uniroyal,22.1,50,980.2,1964
+Alcoa,51.1,51,972.1,1964
+Dow Chemical,80.7,52,967.7,1964
+Martin Marietta,34.6,53,966.6,1964
+Caterpillar,77.3,54,966.1,1964
+Honeywell Intl.,72.2,55,963.1,1964
+Nabisco Group Holdings,129.1,56,961.6,1964
+ARMCO,65.9,57,933.4,1964
+International Paper,99.9,54,"1,561.8",1969
+Unocal,151.2,55,"1,536.0",1969
+Continental Group,83.5,56,"1,507.9",1969
+TRW,72.2,57,"1,487.5",1969
+Sinclair Oil,76.6,58,"1,465.1",1969
+Citgo Petroleum,121.3,59,"1,439.7",1969
+Nabisco Group Holdings,124.0,58,937.6,1965
+3M,102.3,59,903.9,1965
+Singer,52.8,60,896.2,1965
+Anaconda,57.2,61,895.0,1965
+Bestfoods,49.5,62,894.2,1965
+Ryerson Tull,71.1,63,873.7,1965
+Goodrich,34.0,64,872.4,1965
+Dow Chemical,130.9,53,"1,382.7",1968
+Citgo Petroleum,127.8,54,"1,374.9",1968
+Burlington Industries Equity,58.2,55,"1,364.6",1968
+Alcoa,107.4,56,"1,360.8",1968
+Signal Companies,49.1,57,"1,321.7",1968
+FMC,60.8,58,"1,313.0",1968
+Atlantic Richfield,130.0,59,"1,276.8",1968
+3M,179.4,59,"1,612.6",1970
+Sperry,77.0,60,"1,607.3",1970
+TRW,78.2,61,"1,588.4",1970
+Nabisco Group Holdings,172.3,62,"1,575.1",1970
+ARMCO,95.7,63,"1,565.5",1970
+Gulf & Western Industries,72.0,64,"1,563.6",1970
+Citgo Petroleum,133.4,65,"1,561.6",1970
+Uniroyal,46.6,66,"1,553.8",1970
+3M,210.7,57,"1,829.2",1972
+Beatrice,62.1,58,"1,827.3",1972
+Nabisco Group Holdings,225.9,59,"1,816.6",1972
+Citgo Petroleum,104.5,60,"1,809.9",1972
+OfficeMax,-85.2,61,"1,785.9",1972
+Ralston Purina,50.9,62,"1,746.1",1972
+Sperry,72.3,63,"1,739.4",1972
+Coca-Cola,167.8,64,"1,728.8",1972
+Burlington Industries Equity,40.1,65,"1,727.0",1972
+Rapid-American,25.6,55,"2,044.8",1973
+United Technologies,50.6,56,"2,023.8",1973
+American Can,-50.7,57,"2,015.5",1973
+Georgia-Pacific,128.5,58,"1,929.1",1973
+Sunoco,154.7,59,"1,918.0",1973
+ARMCO,75.6,60,"1,910.8",1973
+Unocal,180.2,49,"2,552.3",1974
+3M,295.5,50,"2,545.6",1974
+Continental Group,95.2,51,"2,539.7",1974
+Singer,94.5,52,"2,527.6",1974
+Ralston Purina,77.5,53,"2,433.6",1974
+Honeywell,103.9,54,"2,390.6",1974
+ARMCO,107.5,55,"2,390.2",1974
+Nabisco Group Holdings,263.6,56,"2,330.0",1974
+International Paper,159.8,57,"2,314.3",1974
+Weyerhaeuser,348.8,58,"2,301.7",1974
+United Technologies,58.1,59,"2,288.9",1974
+Litton Industries,-39.8,53,"3,082.0",1975
+McDonnell Douglas,106.7,54,"3,075.0",1975
+Ralston Purina,90.7,55,"3,073.2",1975
+International Paper,262.6,56,"3,042.2",1975
+General Foods,119.5,57,"2,986.7",1975
+3M,301.7,58,"2,937.0",1975
+Marathon Oil,170.5,59,"2,882.2",1975
+Citgo Petroleum,203.8,60,"2,806.3",1975
+Litton Industries,35.3,49,"3,430.2",1976
+Lockheed Martin,45.3,50,"3,387.2",1976
+Borden Chemical,92.9,51,"3,367.2",1976
+McDonnell Douglas,85.7,52,"3,255.7",1976
+Citgo Petroleum,137.7,53,"3,200.7",1976
+Amerada Hess,128.4,54,"3,179.6",1976
+Ralston Purina,99.5,55,"3,149.1",1976
+3M,261.6,56,"3,127.3",1976
+Continental Group,107.2,57,"3,101.9",1976
+Marathon Oil,195.8,55,"3,488.4",1977
+Continental Group,118.3,56,"3,458.2",1977
+Gulf & Western Industries,200.2,57,"3,395.6",1977
+Ralston Purina,125.9,58,"3,393.8",1977
+Borden Chemical,112.8,59,"3,381.1",1977
+Litton Industries,28.3,60,"3,365.4",1977
+Lockheed Martin,38.7,61,"3,202.7",1977
+Sperry,145.3,62,"3,202.6",1977
+Nabisco Group Holdings,441.9,47,"4,951.7",1979
+Firestone Tire & Rubber,-148.3,48,"4,878.1",1979
+Amerada Hess,142.4,49,"4,701.1",1979
+3M,563.0,50,"4,661.7",1979
+Citgo Petroleum,118.0,51,"4,660.9",1979
+Marathon Oil,225.2,52,"4,509.4",1979
+Georgia-Pacific,302.0,53,"4,403.0",1979
+Amerada Hess,178.9,45,"4,591.3",1978
+Firestone Tire & Rubber,110.2,46,"4,426.9",1978
+Citgo Petroleum,210.2,47,"4,388.2",1978
+Marathon Oil,197.0,48,"4,252.0",1978
+Boeing,180.3,49,"4,018.8",1978
+3M,412.9,50,"3,980.3",1978
+Nabisco Group Holdings,550.9,39,"7,133.1",1980
+Xerox,563.1,40,"7,027.0",1980
+Amerada Hess,507.1,41,"6,769.9",1980
+Esmark,92.4,42,"6,743.2",1980
+Marathon Oil,323.2,43,"6,680.6",1980
+BP America,"1,811.2",23,"11,023.2",1981
+Procter & Gamble,642.8,24,"10,772.2",1981
+Dow Chemical,805.0,25,"10,626.0",1981
+Getty Oil,871.9,26,"10,150.4",1981
+Union Carbide,890.0,27,"9,994.0",1981
+Unocal,647.0,28,"9,984.1",1981
+Occidental Petroleum,722.2,18,"14,707.5",1982
+U.S. Steel,"1,077.2",19,"13,940.5",1982
+United Technologies,457.7,20,"13,667.8",1982
+BP America,"1,946.9",21,"13,457.1",1982
+AT&T Technologies,711.3,22,"13,008.0",1982
+Getty Oil,856.9,23,"12,887.4",1982
+Dow Chemical,564.0,24,"11,873.0",1982
+General Motors,962.7,2,"60,025.6",1983
+Mobil,"1,380.0",3,"59,946.0",1983
+Texaco,"1,281.0",4,"46,986.0",1983
+Ford Motor,-657.8,5,"37,067.2",1983
+Intl. Business Machines,"4,409.0",6,"34,364.0",1983
+ChevronTexaco,"1,377.0",7,"34,362.0",1983
+DuPont,894.0,8,"33,331.0",1983
+Gulf Oil,900.0,9,"28,427.0",1983
+Amoco,"1,826.0",10,"28,073.0",1983
+General Electric,"1,817.0",11,"26,500.0",1983
+Atlantic Richfield,"1,676.1",12,"26,462.2",1983
+Shell Oil,"1,605.0",13,"20,062.0",1983
+Exxon Mobil,"4,978.0",1,"88,561.1",1984
+General Motors,"3,730.2",2,"74,581.6",1984
+J.P. Stevens,18.7,94,459.4,1960
+Weyerhaeuser,60.4,95,458.3,1960
+Sunray DX Oil,43.8,96,451.0,1960
+Foremost Dairies,10.5,97,440.1,1960
+Kennecott,57.3,98,437.2,1960
+Morrell (John),6.1,99,436.3,1960
+McDonnell Douglas,10.0,100,435.9,1960
+Weyerhaeuser,53.4,93,420.6,1958
+BP America,23.9,94,419.0,1958
+J.P. Stevens,9.5,95,417.7,1958
+Foremost Dairies,10.5,96,415.1,1958
+Whirlpool,10.6,97,402.3,1958
+Morrell (John),0.5,98,394.4,1958
+United Merchants & Mfrs.,9.9,99,392.5,1958
+Kaisertech,26.8,100,391.6,1958
+Whirlpool,10.2,97,404.6,1959
+Morrell (John),2.3,98,401.7,1959
+Kennecott,60.1,99,395.4,1959
+NCR,15.5,100,393.7,1959
+Foremost Dairies,8.7,86,388.1,1956
+Ralston Purina,12.6,87,385.5,1956
+Reynolds Metals,34.3,88,384.9,1956
+Campbell Soup,29.1,89,377.6,1956
+Philco,8.4,90,373.4,1956
+Owens-Illinois,27.0,91,370.3,1956
+Merritt-Chapman & Scott,10.7,92,360.3,1956
+Unocal,30.5,93,359.5,1956
+Singer,18.1,94,354.1,1956
+Phelps Dodge,72.3,95,353.4,1956
+United Merchants & Mfrs.,15.5,96,341.8,1956
+Carnation,7.7,95,310.0,1955
+Amstar,7.6,96,308.8,1955
+Reynolds Metals,20.3,97,306.8,1955
+Morrell (John),0.5,98,306.5,1955
+BP America,18.5,99,304.4,1955
+American Standard,20.4,100,303.4,1955
+Morrell (John),2.3,89,571.2,1963
+NL Industries,49.0,90,570.7,1963
+Pure Oil,28.9,91,568.1,1963
+Coca-Cola,46.7,92,567.7,1963
+NCR,20.6,93,564.0,1963
+Textron,14.8,94,549.5,1963
+General Mills,10.2,95,546.4,1963
+Weyerhaeuser,39.1,96,543.2,1963
+Deere,36.3,97,541.5,1963
+Beatrice,11.8,98,539.2,1963
+General Mills,12.8,80,575.5,1962
+Campbell Soup,43.9,81,572.4,1962
+St. Regis,19.3,82,565.0,1962
+Crown Zellerbach,36.7,83,563.8,1962
+Raytheon,6.9,84,562.9,1962
+Atlantic Richfield,46.1,85,557.3,1962
+NL Industries,51.7,86,555.7,1962
+Morrell (John),2.2,87,554.7,1962
+Pure Oil,30.1,88,548.9,1962
+Youngstown Sheet & Tube,26.2,89,545.8,1962
+Crown Zellerbach,40.1,79,553.7,1961
+Sealed Air,16.2,80,552.9,1961
+3M,70.7,81,549.7,1961
+Raytheon,11.5,82,540.0,1961
+General Mills,11.5,83,537.8,1961
+St. Regis,49.8,84,536.2,1961
+Allis-Chalmers,10.6,85,530.0,1961
+Singer,20.9,86,525.9,1961
+Pure Oil,32.6,87,523.6,1961
+NL Industries,50.2,88,522.7,1961
+Campbell Soup,39.9,89,516.2,1961
+J.P. Stevens,15.3,90,512.7,1961
+Morrell (John),3.6,91,511.8,1961
+Uniroyal,24.1,72,"1,555.6",1971
+Alcoa,95.5,73,"1,522.4",1971
+Fortune Brands,108.2,74,"1,447.6",1971
+Bendix,24.1,75,"1,442.9",1971
+NCR,30.2,76,"1,420.6",1971
+American Standard,3.1,77,"1,417.8",1971
+Signal Companies,-48.5,78,"1,412.2",1971
+Ashland,37.8,79,"1,407.2",1971
+Owens-Illinois,53.2,80,"1,402.4",1971
+Chiquita Brands Intl.,-2.1,81,"1,395.7",1971
+Deere,55.8,74,886.6,1966
+Olin,50.5,75,874.2,1966
+Coca-Cola,75.7,76,864.0,1966
+American Cyanamid,93.1,77,863.0,1966
+Celanese,65.0,78,862.3,1966
+Colgate-Palmolive,28.0,79,862.1,1966
+Grumman,20.9,80,852.0,1966
+Textron,29.1,81,851.0,1966
+Bestfoods,58.8,72,"1,048.4",1967
+Douglas Aircraft,-27.6,73,"1,048.0",1967
+Sunoco,100.6,74,"1,047.3",1967
+Goodrich,48.6,75,"1,039.1",1967
+Champion International,43.3,76,"1,029.5",1967
+Celanese,66.7,77,"1,019.9",1967
+Jones & Laughlin Steel,65.1,78,"1,010.0",1967
+FMC,62.9,79,"1,009.7",1967
+GenCorp,50.2,80,"1,001.5",1967
+Wilson,12.9,81,990.9,1967
+Coca-Cola,89.0,82,979.2,1967
+Bestfoods,50.3,58,856.9,1964
+National Intergroup,63.8,59,846.5,1964
+Sunoco,61.2,60,844.1,1964
+Jones & Laughlin Steel,44.4,61,835.8,1964
+Goodrich,27.1,62,828.8,1964
+Bendix,22.2,63,813.1,1964
+Ryerson Tull,56.1,64,808.1,1964
+Ralston Purina,23.3,65,807.8,1964
+Singer,41.5,66,790.2,1964
+Olin,37.0,67,779.2,1964
+Uniroyal,56.9,60,"1,429.2",1969
+Atlantic Richfield,148.9,61,"1,413.7",1969
+3M,161.4,62,"1,405.0",1969
+Republic Steel,78.2,63,"1,399.5",1969
+Bendix,43.8,64,"1,388.7",1969
+FMC,75.2,65,"1,376.2",1969
+ARMCO,88.0,66,"1,375.2",1969
+Alcoa,104.7,67,"1,352.8",1969
+Signal Companies,88.7,68,"1,318.0",1969
+McDonnell Douglas,24.5,65,865.4,1965
+Ralston Purina,24.4,66,864.8,1965
+Sunoco,68.5,67,838.3,1965
+Coca-Cola,65.3,68,833.6,1965
+FMC,44.5,69,830.1,1965
+PPG Industries,49.0,70,827.6,1965
+Deere,59.4,71,816.6,1965
+Olin,41.3,72,815.7,1965
+Sealed Air,40.0,73,815.0,1965
+Colgate-Palmolive,25.9,74,806.6,1965
+American Cyanamid,81.6,75,779.0,1965
+Ralston Purina,29.9,60,"1,275.2",1968
+Bendix,43.7,61,"1,274.0",1968
+Republic Steel,75.2,62,"1,266.3",1968
+Uniroyal,33.0,63,"1,264.7",1968
+Honeywell Intl.,73.3,64,"1,243.4",1968
+3M,147.1,65,"1,231.1",1968
+Nabisco Group Holdings,151.0,66,"1,214.9",1968
+Sunoco,108.6,67,"1,151.7",1968
+ARMCO,70.6,68,"1,138.1",1968
+Alcoa,122.4,67,"1,545.2",1970
+Sara Lee,49.7,68,"1,512.1",1970
+Republic Steel,79.1,69,"1,500.3",1970
+Chiquita Brands Intl.,26.0,70,"1,495.7",1970
+Xerox,161.4,71,"1,482.9",1970
+Bendix,56.2,72,"1,467.9",1970
+Champion International,64.4,73,"1,455.5",1970
+Signal Companies,52.3,74,"1,432.4",1970
+Honeywell,62.5,75,"1,426.0",1970
+Anaconda,99.3,76,"1,410.6",1970
+ARMCO,50.7,66,"1,696.2",1972
+Sara Lee,59.4,67,"1,688.9",1972
+Uniroyal,43.1,68,"1,677.7",1972
+Fortune Brands,119.4,69,"1,626.8",1972
+Ashland,23.8,70,"1,614.0",1972
+Bendix,42.1,71,"1,612.8",1972
+Coca-Cola,190.2,61,"1,876.2",1973
+Champion International,59.5,62,"1,871.7",1973
+Citgo Petroleum,112.1,63,"1,862.1",1973
+Ralston Purina,58.2,64,"1,833.4",1973
+Sperry,60.8,65,"1,823.9",1973
+Burlington Industries Equity,49.6,66,"1,816.1",1973
+Colgate-Palmolive,67.5,67,"1,807.6",1973
+Sara Lee,63.8,68,"1,799.8",1973
+Uniroyal,46.7,69,"1,798.9",1973
+Sunoco,229.7,60,"2,286.0",1974
+Bendix,68.7,61,"2,229.5",1974
+Sperry,90.1,62,"2,229.3",1974
+Georgia-Pacific,162.8,63,"2,228.7",1974
+Champion International,86.8,64,"2,208.0",1974
+Colgate-Palmolive,88.8,65,"2,195.3",1974
+American Can,66.4,66,"2,181.6",1974
+TRW,95.1,67,"2,164.6",1974
+Alcoa,104.2,68,"2,157.3",1974
+Coca-Cola,215.0,69,"2,145.0",1974
+National Intergroup,98.1,70,"2,103.3",1974
+Getty Oil,281.0,61,"2,742.3",1975
+Republic Steel,170.7,62,"2,741.4",1975
+National Intergroup,175.8,63,"2,727.8",1975
+Alcoa,173.1,64,"2,727.3",1975
+Singer,-10.1,65,"2,661.7",1975
+American Can,95.1,66,"2,657.9",1975
+Honeywell,75.8,67,"2,625.7",1975
+Colgate-Palmolive,118.7,68,"2,615.4",1975
+International Paper,218.0,58,"3,080.8",1976
+ARMCO,116.7,59,"3,046.7",1976
+Sperry,131.4,60,"3,040.9",1976
+Getty Oil,256.7,61,"2,983.6",1976
+Deere,179.1,62,"2,955.2",1976
+Marathon Oil,128.1,63,"2,878.2",1976
+Coca-Cola,239.3,64,"2,872.8",1976
+ARMCO,123.7,63,"3,151.0",1977
+American Can,100.9,64,"3,142.5",1977
+Altria Group,265.7,65,"3,134.5",1977
+Deere,241.6,66,"3,133.8",1977
+Getty Oil,258.5,67,"3,058.7",1977
+Georgia-Pacific,215.3,68,"3,038.0",1977
+Coca-Cola,285.0,69,"3,032.8",1977
+ARMCO,198.3,54,"4,357.3",1979
+Greyhound,58.4,55,"4,351.2",1979
+Coca-Cola,374.7,56,"4,337.9",1979
+Colgate-Palmolive,175.6,57,"4,312.1",1979
+Gulf & Western Industries,180.5,58,"4,312.0",1979
+Sealed Air,170.4,59,"4,309.6",1979
+PepsiCo,225.8,60,"4,300.0",1979
+Deere,264.8,61,"4,155.0",1979
+Sealed Air,140.5,51,"3,976.2",1978
+Altria Group,334.9,52,"3,849.5",1978
+Greyhound,82.5,53,"3,841.5",1978
+Colgate-Palmolive,160.5,54,"3,837.2",1978
+Ralston Purina,142.7,55,"3,756.3",1978
+Georgia-Pacific,262.0,56,"3,675.0",1978
+Ashland,526.3,44,"6,473.9",1980
+Rockwell Automation,261.1,45,"6,466.1",1980
+Kraft,188.1,46,"6,432.9",1980
+Citgo Petroleum,347.5,47,"6,276.5",1980
+Monsanto,331.0,48,"6,192.6",1980
+Altria Group,507.9,49,"6,144.1",1980
+General Foods,232.1,50,"5,472.5",1980
+Eastman Kodak,"1,153.6",29,"9,734.3",1981
+Boeing,600.5,30,"9,426.2",1981
+Kraft,383.1,31,"9,411.5",1981
+Procter & Gamble,593.0,25,"11,416.0",1982
+Chrysler,-475.6,26,"10,821.6",1982
+Unocal,791.4,27,"10,745.9",1982
+Eastman Kodak,"1,239.0",28,"10,337.0",1982
+Kraft,347.5,29,"10,211.0",1982
+Union Carbide,649.0,30,"10,168.0",1982
+Boeing,473.0,31,"9,788.2",1982
+Nabisco Group Holdings,767.8,32,"9,765.7",1982
+Amerada Hess,212.6,33,"9,396.2",1982
+CBS,438.0,34,"9,367.5",1982
+Marathon Oil,-361.0,14,"18,375.0",1983
+Occidental Petroleum,155.6,15,"18,212.2",1983
+ITT Industries,702.8,16,"15,958.4",1983
+ConocoPhillips,646.0,17,"15,698.0",1983
+Sunoco,537.0,18,"15,519.0",1983
+Tenneco Automotive,819.0,19,"15,241.0",1983
+United Technologies,533.7,20,"13,577.1",1983
+Mobil,"1,503.0",3,"54,607.0",1984
+Ford Motor,"1,866.9",4,"44,454.6",1984
+Intl. Business Machines,"5,485.0",5,"40,180.0",1984
+Texaco,"1,233.0",6,"40,068.0",1984
+DuPont,"1,127.0",7,"35,378.0",1984
+Amoco,"1,868.0",8,"27,635.0",1984
+ChevronTexaco,"1,590.0",9,"27,342.0",1984
+General Electric,"2,024.0",10,"26,797.0",1984
+Gulf Oil,978.0,11,"26,581.0",1984
+Exxon Mobil,"5,528.0",1,"90,854.0",1985
+Pillsbury,5.3,97,341.1,1956
+BP America,23.0,98,339.7,1956
+American Standard,22.6,99,339.6,1956
+Deere,28.3,100,339.6,1956
+Reynolds Metals,26.6,99,537.3,1963
+Nabisco Brands,30.4,100,526.5,1963
+Coca-Cola,42.5,90,536.5,1962
+Sealed Air,18.8,91,534.7,1962
+Standard Brands,18.7,92,519.3,1962
+NCR,21.7,93,518.9,1962
+AMF,27.5,94,516.5,1962
+Deere,32.0,95,509.6,1962
+Allis-Chalmers,5.6,96,502.2,1962
+Kennecott,61.9,97,501.0,1962
+Ralston Purina,18.0,92,510.3,1961
+Coca-Cola,39.3,93,502.0,1961
+Kennecott,77.4,94,496.5,1961
+American Standard,13.2,95,480.2,1961
+Asarco,28.9,96,475.6,1961
+Deere,17.8,97,468.5,1961
+United Merchants & Mfrs.,14.3,98,468.2,1961
+Sunray DX Oil,41.1,99,463.8,1961
+Weyerhaeuser,47.8,100,457.9,1961
+Bestfoods,61.0,82,"1,376.0",1971
+BP America,69.0,83,"1,374.4",1971
+Republic Steel,35.2,84,"1,364.7",1971
+Champion International,32.5,85,"1,356.0",1971
+FMC,58.8,86,"1,330.5",1971
+Wyeth,135.4,87,"1,294.3",1971
+Raytheon,30.9,88,"1,258.7",1971
+Warner-Lambert,98.3,89,"1,256.6",1971
+Owens-Illinois,67.2,82,825.8,1966
+Wilson,9.2,83,815.2,1966
+BorgWarner,45.4,84,815.1,1966
+Youngstown Sheet & Tube,51.6,85,768.9,1966
+Douglas Aircraft,14.6,86,766.8,1966
+J.P. Stevens,29.4,87,760.0,1966
+NL Industries,58.7,88,758.3,1966
+Bendix,28.2,89,754.4,1966
+American Cyanamid,94.4,83,952.6,1967
+PPG Industries,49.5,84,941.7,1967
+Colgate-Palmolive,30.5,85,931.6,1967
+Fortune Brands,86.0,86,918.7,1967
+Honeywell,45.3,87,914.4,1967
+BorgWarner,47.2,88,913.0,1967
+Wyeth,93.8,89,909.6,1967
+Owens-Illinois,54.2,90,908.0,1967
+NCR,27.2,91,871.3,1967
+American Motors,-12.6,92,870.4,1967
+TRW,35.2,93,863.9,1967
+Allis-Chalmers,26.2,94,857.2,1967
+PPG Industries,45.6,68,778.5,1964
+3M,90.6,69,761.8,1964
+Colgate-Palmolive,23.8,70,722.0,1964
+American Cyanamid,66.3,71,710.5,1964
+Anaconda,45.3,72,708.6,1964
+AMAX,37.8,73,706.9,1964
+Wilson,7.3,74,700.1,1964
+Douglas Aircraft,11.8,75,698.3,1964
+Gulf & Western Industries,69.8,69,"1,313.9",1969
+Champion International,54.7,70,"1,283.4",1969
+Ralston Purina,37.2,71,"1,281.5",1969
+Honeywell,50.5,72,"1,281.3",1969
+Honeywell Intl.,17.8,73,"1,278.1",1969
+Nabisco Group Holdings,150.0,74,"1,264.7",1969
+Celanese,-77.1,75,"1,255.8",1969
+Sara Lee,52.3,76,"1,216.8",1969
+Coca-Cola,110.3,77,"1,185.8",1969
+Avco,57.0,78,"1,183.4",1969
+Martin Marietta,37.2,76,767.1,1965
+Wilson,12.6,77,766.4,1965
+Bendix,23.9,78,742.3,1965
+Youngstown Sheet & Tube,53.8,79,725.9,1965
+Textron,22.1,80,720.2,1965
+BorgWarner,41.8,81,719.3,1965
+Celanese,54.9,82,700.8,1965
+Owens-Illinois,42.7,83,693.6,1965
+Singer,50.2,69,"1,137.7",1968
+Celanese,59.3,70,"1,110.0",1968
+Raytheon,28.6,71,"1,106.0",1968
+Sara Lee,29.5,72,"1,089.8",1968
+Deere,57.6,73,"1,086.4",1968
+Bestfoods,51.2,74,"1,072.9",1968
+Champion International,36.1,75,"1,049.7",1968
+Anaconda,94.3,76,"1,047.8",1968
+Honeywell,42.3,77,"1,044.9",1968
+FMC,67.3,77,"1,409.3",1970
+Ralston Purina,46.9,78,"1,386.3",1970
+Coca-Cola,121.0,79,"1,365.4",1970
+Fortune Brands,98.5,80,"1,361.3",1970
+Honeywell Intl.,68.0,81,"1,316.1",1970
+American Standard,38.6,82,"1,307.4",1970
+Beatrice,43.7,83,"1,302.9",1970
+Teledyne,60.1,84,"1,294.8",1970
+Owens-Illinois,69.7,85,"1,294.4",1970
+Raytheon,35.2,86,"1,285.1",1970
+NCR,44.1,87,"1,254.6",1970
+Textron,71.8,72,"1,603.7",1972
+Champion International,45.8,73,"1,599.8",1972
+Gulf & Western Industries,55.6,74,"1,566.3",1972
+TRW,67.3,75,"1,543.6",1972
+National Intergroup,48.7,76,"1,522.1",1972
+Owens-Illinois,59.6,77,"1,507.6",1972
+Bestfoods,51.6,78,"1,500.5",1972
+NCR,1.3,79,"1,465.7",1972
+Chiquita Brands Intl.,-24.0,80,"1,448.9",1972
+Georgia-Pacific,86.3,81,"1,447.3",1972
+Alcoa,55.3,82,"1,441.2",1972
+Ashland,68.3,70,"1,780.0",1973
+Bendix,56.4,71,"1,776.5",1973
+Alcoa,102.8,72,"1,753.0",1973
+Fortune Brands,123.3,73,"1,734.3",1973
+OfficeMax,-170.6,74,"1,710.3",1973
+TRW,76.1,75,"1,687.5",1973
+Textron,82.1,76,"1,678.4",1973
+Weyerhaeuser,158.1,77,"1,675.9",1973
+Gulf & Western Industries,69.4,78,"1,669.7",1973
+Burlington Industries Equity,82.4,71,"2,099.8",1974
+Uniroyal,47.1,72,"2,082.7",1974
+Republic Steel,86.7,73,"2,068.6",1974
+Chiquita Brands Intl.,25.4,74,"2,066.2",1974
+Ashland,85.2,75,"2,052.8",1974
+Sara Lee,72.1,76,"2,042.9",1974
+Citgo Petroleum,146.9,77,"2,034.6",1974
+Deere,168.5,78,"2,003.0",1974
+Gulf & Western Industries,89.2,79,"1,927.2",1974
+Amerada Hess,245.8,80,"1,896.4",1974
+Bestfoods,75.5,81,"1,874.3",1974
+Fortune Brands,131.3,82,"1,864.9",1974
+Textron,100.8,83,"1,858.4",1974
+Sperry,112.6,69,"2,613.5",1975
+Bestfoods,99.2,70,"2,570.3",1975
+Champion International,100.9,71,"2,532.3",1975
+Weyerhaeuser,276.2,72,"2,529.0",1975
+Coca-Cola,196.0,73,"2,522.2",1975
+Deere,164.3,74,"2,495.1",1975
+TRW,100.9,75,"2,486.0",1975
+Bendix,75.8,76,"2,480.9",1975
+Ryerson Tull,148.0,77,"2,450.3",1975
+Georgia-Pacific,164.3,78,"2,432.3",1975
+American Can,77.3,65,"2,870.2",1976
+Colgate-Palmolive,119.0,66,"2,860.5",1976
+Honeywell,77.8,67,"2,760.1",1976
+Bestfoods,109.2,68,"2,741.5",1976
+Gulf & Western Industries,140.1,69,"2,602.1",1976
+Bendix,79.8,70,"2,589.7",1976
+TRW,103.9,71,"2,585.7",1976
+Fortune Brands,148.5,72,"2,569.7",1976
+Singer,-451.9,73,"2,568.0",1976
+Altria Group,211.6,74,"2,564.0",1976
+Bendix,104.7,70,"2,947.0",1977
+TRW,133.1,71,"2,929.0",1977
+Alcoa,143.8,72,"2,924.4",1977
+BP America,136.9,73,"2,916.4",1977
+Champion International,103.1,74,"2,910.5",1977
+Weyerhaeuser,306.0,75,"2,868.4",1977
+National Intergroup,85.7,76,"2,840.5",1977
+PepsiCo,136.0,77,"2,727.5",1977
+Sara Lee,89.5,78,"2,726.5",1977
+Bestfoods,122.0,79,"2,695.8",1977
+Fortune Brands,122.0,80,"2,671.6",1977
+International Paper,234.2,62,"4,150.2",1979
+McDonnell Douglas,161.1,63,"4,130.3",1979
+Ralston Purina,154.6,64,"4,058.4",1979
+Alcoa,312.7,65,"4,051.8",1979
+American Can,105.6,66,"3,981.0",1979
+Continental Group,126.2,67,"3,943.9",1979
+Borden Chemical,135.8,68,"3,802.6",1979
+Weyerhaeuser,371.1,69,"3,799.4",1979
+TRW,174.2,70,"3,787.2",1979
+National Intergroup,112.4,71,"3,750.4",1979
+Litton Industries,-90.8,72,"3,651.3",1979
+International Paper,233.7,57,"3,668.9",1978
+Continental Group,143.8,58,"3,660.9",1978
+Gulf & Western Industries,150.3,59,"3,643.0",1978
+Deere,255.6,60,"3,604.0",1978
+Coca-Cola,326.2,61,"3,559.9",1978
+ARMCO,119.8,62,"3,549.2",1978
+PepsiCo,187.3,63,"3,545.7",1978
+McDonnell Douglas,123.0,64,"3,544.8",1978
+American Can,114.0,65,"3,538.6",1978
+3M,655.2,51,"5,440.4",1980
+Gulf & Western Industries,227.4,52,"5,288.2",1980
+Firestone Tire & Rubber,112.9,53,"5,284.2",1980
+McDonnell Douglas,199.1,54,"5,278.5",1980
+Sealed Air,222.6,55,"5,266.6",1980
+Georgia-Pacific,327.0,56,"5,207.0",1980
+PepsiCo,264.9,57,"5,090.6",1980
+ARMCO,221.0,58,"5,035.1",1980
+Chrysler,"-1,709.7",32,"9,225.3",1981
+Caterpillar,564.8,33,"8,597.8",1981
+CBS,402.9,34,"8,514.3",1981
+Nabisco Group Holdings,670.4,35,"8,449.0",1981
+Goodyear Tire & Rubber,230.7,36,"8,444.0",1981
+Beatrice,290.1,37,"8,290.5",1981
+Xerox,619.2,38,"8,196.5",1981
+Marathon Oil,379.0,39,"8,179.8",1981
+Ashland,90.0,35,"9,262.1",1982
+Marathon Oil,343.1,36,"9,220.0",1982
+Caterpillar,578.9,37,"9,154.5",1982
+Goodyear Tire & Rubber,260.3,38,"9,152.9",1982
+Citgo Petroleum,-49.2,39,"8,899.3",1982
+LTV,386.3,40,"8,822.7",1982
+Beatrice,304.2,41,"8,772.8",1982
+Xerox,598.2,42,"8,691.0",1982
+Altria Group,676.2,43,"8,306.6",1982
+RCA,54.0,44,"8,004.8",1982
+BP America,"1,879.0",21,"13,120.0",1983
+AT&T Technologies,336.7,22,"12,579.9",1983
+Procter & Gamble,777.0,23,"11,994.0",1983
+Getty Oil,691.6,24,"11,970.7",1983
+Nabisco Group Holdings,870.0,25,"10,906.0",1983
+Eastman Kodak,"1,162.0",26,"10,815.0",1983
+Dow Chemical,399.0,27,"10,618.0",1983
+Unocal,804.0,28,"10,390.4",1983
+Chrysler,170.1,29,"10,044.9",1983
+Atlantic Richfield,"1,547.9",12,"25,147.0",1984
+Shell Oil,"1,633.0",13,"19,678.0",1984
+Occidental Petroleum,566.7,14,"19,115.7",1984
+Marathon Oil,"-1,161.0",15,"16,869.0",1984
+ConocoPhillips,721.0,16,"15,249.0",1984
+Sunoco,453.0,17,"14,730.0",1984
+United Technologies,509.2,18,"14,669.3",1984
+Tenneco Automotive,716.0,19,"14,353.0",1984
+ITT Industries,674.5,20,"14,155.4",1984
+Chrysler,700.9,21,"13,240.4",1984
+General Motors,"4,516.5",2,"83,889.9",1985
+Mobil,"1,268.0",3,"56,047.0",1985
+Ford Motor,"2,906.8",4,"52,366.4",1985
+Texaco,306.0,5,"47,334.0",1985
+Intl. Business Machines,"6,582.0",6,"45,937.0",1985
+DuPont,"1,431.0",7,"35,915.0",1985
+AT&T,"1,369.9",8,"33,187.5",1985
+General Electric,"2,280.0",9,"27,947.0",1985
+Amoco,"2,183.0",10,"26,949.0",1985
+ChevronTexaco,"1,534.0",11,"26,798.0",1985
+Atlantic Richfield,567.0,12,"24,686.0",1985
+General Motors,"3,999.0",1,"96,371.7",1986
+Exxon Mobil,"4,870.0",2,"86,673.0",1986
+J.P. Stevens,10.5,98,495.4,1962
+Weyerhaeuser,36.6,99,491.6,1962
+Nabisco Brands,28.4,100,486.3,1962
+Genesco,22.1,90,"1,250.7",1971
+Honeywell Intl.,68.4,91,"1,248.5",1971
+National Intergroup,59.0,92,"1,248.4",1971
+Weyerhaeuser,124.2,93,"1,233.4",1971
+U.S. Industries,65.8,94,"1,231.5",1971
+Getty Oil,111.1,95,"1,221.2",1971
+Teledyne,64.1,96,"1,216.4",1971
+Colgate-Palmolive,40.3,97,"1,210.2",1971
+Wyeth,76.5,90,751.0,1966
+Reynolds Metals,52.6,91,739.8,1966
+NCR,24.7,92,736.8,1966
+Weyerhaeuser,83.4,93,721.4,1966
+Allis-Chalmers,22.1,94,714.4,1966
+Campbell Soup,51.4,95,712.8,1966
+Crown Zellerbach,47.4,96,712.7,1966
+Fortune Brands,80.5,97,707.2,1966
+Tidewater Oil,57.2,98,706.3,1966
+Signal Companies,32.2,95,848.0,1967
+Reynolds Metals,64.2,96,839.4,1967
+Weyerhaeuser,79.2,97,837.8,1967
+Carnation,28.0,98,812.9,1967
+Morrell (John),1.9,99,811.6,1967
+J.P. Stevens,32.7,100,805.3,1967
+BorgWarner,37.7,76,688.5,1964
+Fortune Brands,68.8,77,678.0,1964
+Tidewater Oil,43.8,78,661.7,1964
+Owens-Illinois,39.5,79,654.1,1964
+Honeywell,34.7,80,648.5,1964
+Deere,45.7,81,639.1,1964
+Campbell Soup,43.8,82,638.2,1964
+Coca-Cola,52.4,83,637.4,1964
+Youngstown Sheet & Tube,38.9,84,626.9,1964
+Atlantic Richfield,44.0,85,624.3,1964
+Raytheon,29.6,79,"1,158.0",1969
+Grumman,19.0,80,"1,152.6",1969
+Owens-Illinois,55.1,81,"1,152.2",1969
+Goodrich,44.8,82,"1,139.7",1969
+National Intergroup,75.6,83,"1,139.1",1969
+Bestfoods,53.9,84,"1,137.9",1969
+Fortune Brands,92.9,85,"1,117.4",1969
+NCR,35.9,86,"1,102.2",1969
+Colgate-Palmolive,36.6,87,"1,098.1",1969
+Getty Oil,98.2,88,"1,085.8",1969
+Fortune Brands,73.2,84,689.2,1965
+Litton Industries,29.8,85,686.1,1965
+J.P. Stevens,17.1,86,684.7,1965
+NL Industries,56.2,87,683.6,1965
+Tidewater Oil,48.7,88,675.0,1965
+Honeywell,41.4,89,667.2,1965
+NCR,22.5,90,665.8,1965
+Crown Zellerbach,56.7,91,663.8,1965
+Weyerhaeuser,67.6,92,663.3,1965
+Campbell Soup,48.2,93,660.4,1965
+Morrell (John),4.7,94,655.7,1965
+Douglas Aircraft,13.7,95,650.1,1965
+Atlantic Richfield,47.1,96,636.3,1965
+Allis-Chalmers,12.7,97,629.1,1965
+Coca-Cola,100.5,78,"1,043.1",1968
+Getty Oil,118.2,79,"1,041.5",1968
+TRW,42.8,80,"1,040.9",1968
+Colgate-Palmolive,33.5,81,"1,025.4",1968
+National Intergroup,69.6,82,"1,017.6",1968
+Goodrich,35.2,83,"1,006.2",1968
+Avco,74.6,84,997.0,1968
+Ryerson Tull,54.0,85,991.9,1968
+Celanese,79.5,88,"1,249.9",1970
+Weyerhaeuser,131.4,89,"1,239.2",1970
+Goodrich,37.8,90,"1,229.1",1970
+National Intergroup,78.0,91,"1,225.1",1970
+Bestfoods,55.3,92,"1,218.0",1970
+Ryerson Tull,60.9,93,"1,216.4",1970
+Wyeth,123.3,94,"1,193.0",1970
+Genesco,30.3,95,"1,185.6",1970
+Grumman,22.1,96,"1,180.3",1970
+BP America,51.9,97,"1,160.4",1970
+Wyeth,160.0,83,"1,429.3",1972
+American Standard,-83.8,84,"1,409.7",1972
+U.S. Industries,72.7,85,"1,406.8",1972
+BP America,54.7,86,"1,393.8",1972
+Republic Steel,1.4,87,"1,384.8",1972
+FMC,38.8,88,"1,353.6",1972
+Amerada Hess,133.2,89,"1,349.2",1972
+Warner-Lambert,108.1,90,"1,346.1",1972
+Chiquita Brands Intl.,17.7,79,"1,668.3",1973
+National Intergroup,71.2,80,"1,660.2",1973
+Owens-Illinois,69.0,81,"1,636.3",1973
+Bestfoods,86.6,82,"1,607.4",1973
+Republic Steel,43.1,83,"1,595.7",1973
+Wyeth,175.4,84,"1,587.1",1973
+U.S. Industries,80.7,85,"1,578.5",1973
+NCR,-59.6,86,"1,557.7",1973
+General Dynamics,24.3,87,"1,539.4",1973
+Owens-Illinois,130.9,84,"1,856.9",1974
+Ryerson Tull,83.1,85,"1,829.0",1974
+NCR,72.0,86,"1,816.3",1974
+Wyeth,199.2,87,"1,784.4",1974
+American Motors,86.0,88,"1,739.0",1974
+Goodrich,56.1,89,"1,721.9",1974
+FMC,79.2,90,"1,719.3",1974
+Signal Companies,58.4,91,"1,711.0",1974
+Altria Group,148.6,92,"1,709.0",1974
+PepsiCo,79.6,93,"1,697.9",1974
+Sara Lee,71.6,79,"2,379.9",1975
+Burlington Industries Equity,99.5,80,"2,330.0",1975
+Uniroyal,48.6,81,"2,300.5",1975
+Gulf & Western Industries,100.6,82,"2,295.5",1975
+Chiquita Brands Intl.,-43.6,83,"2,230.1",1975
+Honeywell Intl.,150.8,84,"2,215.9",1975
+Fortune Brands,136.7,85,"2,210.4",1975
+BP America,147.5,86,"2,166.2",1975
+Sara Lee,12.7,75,"2,535.8",1976
+BP America,126.6,76,"2,484.2",1976
+Textron,96.0,77,"2,459.1",1976
+Weyerhaeuser,191.9,78,"2,421.3",1976
+Champion International,61.0,79,"2,399.3",1976
+Georgia-Pacific,148.0,80,"2,358.6",1976
+Republic Steel,72.2,81,"2,333.3",1976
+Honeywell Intl.,116.2,82,"2,333.1",1976
+PepsiCo,104.6,83,"2,321.2",1976
+General Mills,76.2,84,"2,308.9",1976
+Alcoa,64.8,85,"2,305.9",1976
+General Mills,100.5,81,"2,645.0",1977
+Honeywell Intl.,116.8,82,"2,629.6",1977
+Textron,121.1,83,"2,627.2",1977
+Owens-Illinois,178.3,84,"2,571.7",1977
+General Dynamics,99.6,85,"2,553.5",1977
+Republic Steel,65.9,86,"2,545.6",1977
+Johnson & Johnson,205.4,87,"2,522.5",1977
+Honeywell,113.1,88,"2,495.3",1977
+Wyeth,277.9,89,"2,471.7",1977
+Raytheon,85.2,90,"2,462.8",1977
+Signal Companies,64.8,91,"2,451.6",1977
+Ryerson Tull,104.0,92,"2,388.2",1977
+Sperry,176.6,73,"3,649.5",1979
+Champion International,168.7,74,"3,632.4",1979
+Bendix,129.6,75,"3,625.5",1979
+Signal Companies,160.7,76,"3,571.8",1979
+Honeywell,201.4,77,"3,547.8",1979
+Sara Lee,100.6,78,"3,535.6",1979
+Getty Oil,327.8,79,"3,514.7",1979
+Johnson & Johnson,299.1,80,"3,497.3",1979
+Lockheed Martin,64.9,81,"3,496.3",1979
+Republic Steel,111.1,82,"3,479.5",1979
+Fortune Brands,211.5,83,"3,293.5",1979
+Honeywell Intl.,120.2,84,"3,268.0",1979
+BP America,181.1,66,"3,523.2",1978
+Borden Chemical,126.9,67,"3,481.3",1978
+Champion International,138.6,68,"3,442.3",1978
+Litton Industries,55.9,69,"3,440.5",1978
+Alcoa,195.2,70,"3,416.5",1978
+Lockheed Martin,55.4,71,"3,372.8",1978
+Getty Oil,309.1,72,"3,319.4",1978
+Bendix,118.1,73,"3,283.2",1978
+Weyerhaeuser,303.9,74,"3,282.8",1978
+Sperry,156.8,75,"3,270.0",1978
+TRW,154.2,76,"3,263.9",1978
+Coca-Cola,420.1,59,"4,961.4",1980
+Deere,310.6,60,"4,933.1",1980
+Colgate-Palmolive,113.5,61,"4,831.5",1980
+Getty Oil,604.4,62,"4,831.0",1980
+Alcoa,504.6,63,"4,785.6",1980
+Sara Lee,111.4,64,"4,720.3",1980
+Greyhound,123.0,65,"4,700.1",1980
+International Paper,525.3,66,"4,605.0",1980
+Ralston Purina,128.1,67,"4,600.6",1980
+TRW,194.6,68,"4,560.3",1980
+Honeywell Intl.,10.8,69,"4,538.8",1980
+American Can,127.3,70,"4,515.0",1980
+Weyerhaeuser,512.2,71,"4,422.7",1980
+Ashland,205.1,40,"8,118.4",1981
+RCA,315.3,41,"8,011.3",1981
+LTV,127.9,42,"8,010.0",1981
+Amerada Hess,540.2,43,"7,869.0",1981
+Citgo Petroleum,477.5,44,"7,786.3",1981
+Altria Group,576.8,45,"7,328.3",1981
+Rockwell Automation,280.2,46,"6,906.5",1981
+Bethlehem Steel,121.0,47,"6,743.0",1981
+Monsanto,148.8,48,"6,573.6",1981
+Navistar International,-397.3,49,"6,311.8",1981
+McDonnell Douglas,176.6,45,"7,384.9",1982
+Navistar International,-393.1,46,"7,327.2",1982
+Bethlehem Steel,210.9,47,"7,298.0",1982
+Rockwell Automation,291.8,48,"7,039.7",1982
+PepsiCo,333.5,49,"7,027.4",1982
+Monsanto,445.1,50,"6,947.7",1982
+ARMCO,294.5,51,"6,906.0",1982
+General Foods,255.4,52,"6,601.3",1982
+Sealed Air,361.3,53,"6,520.8",1982
+3M,673.0,54,"6,508.0",1982
+Honeywell Intl.,348.0,55,"6,407.0",1982
+Kraft,350.3,30,"9,974.4",1983
+CBS,449.3,31,"9,745.4",1983
+Altria Group,781.8,32,"9,101.6",1983
+Union Carbide,309.7,33,"9,061.5",1983
+Boeing,292.0,34,"9,035.0",1983
+Beatrice,390.1,35,"9,023.5",1983
+Ashland,180.9,36,"8,888.1",1983
+Goodyear Tire & Rubber,264.8,37,"8,688.7",1983
+Xerox,423.7,38,"8,455.6",1983
+General Foods,200.2,39,"8,351.1",1983
+Procter & Gamble,866.0,22,"12,452.0",1984
+Nabisco Group Holdings,881.0,23,"11,957.0",1984
+Getty Oil,494.3,24,"11,600.0",1984
+BP America,"1,512.0",25,"11,599.0",1984
+AT&T Technologies,50.7,26,"11,154.7",1984
+Boeing,355.0,27,"11,129.0",1984
+Dow Chemical,334.0,28,"10,951.0",1984
+Honeywell Intl.,98.0,29,"10,351.0",1984
+Eastman Kodak,565.0,30,"10,170.0",1984
+Unocal,625.9,31,"10,065.6",1984
+Shell Oil,"1,772.0",13,"20,701.0",1985
+Chrysler,"2,380.0",14,"19,572.7",1985
+Marathon Oil,493.0,15,"18,274.0",1985
+United Technologies,645.0,16,"16,331.8",1985
+ConocoPhillips,810.0,17,"15,537.0",1985
+Occidental Petroleum,568.7,18,"15,373.0",1985
+Tenneco Automotive,631.0,19,"14,779.0",1985
+Sunoco,538.0,20,"14,466.0",1985
+ITT Industries,448.0,21,"14,001.0",1985
+Procter & Gamble,890.0,22,"12,946.0",1985
+Nabisco Group Holdings,"1,210.0",23,"11,902.0",1985
+BP America,"1,488.0",24,"11,692.0",1985
+Mobil,"1,040.0",3,"55,960.0",1986
+Ford Motor,"2,515.4",4,"52,774.4",1986
+Intl. Business Machines,"6,555.0",5,"50,056.0",1986
+Texaco,"1,233.0",6,"46,297.0",1986
+ChevronTexaco,"1,547.4",7,"41,741.9",1986
+AT&T,"1,556.8",8,"34,909.5",1986
+DuPont,"1,118.0",9,"29,483.0",1986
+General Electric,"2,336.0",10,"28,285.0",1986
+Amoco,"1,953.0",11,"27,215.0",1986
+Atlantic Richfield,-202.0,12,"22,357.0",1986
+Chrysler,"1,635.2",13,"21,255.5",1986
+Shell Oil,"1,650.0",14,"20,309.0",1986
+Goodrich,15.9,98,"1,204.8",1971
+Georgia-Pacific,79.2,99,"1,199.4",1971
+Whirlpool,21.6,100,"1,196.8",1971
+Genesco,18.9,99,705.2,1966
+Eaton,34.9,100,701.7,1966
+NL Industries,49.6,86,618.6,1964
+FMC,32.6,87,618.0,1964
+Crown Zellerbach,39.3,88,616.6,1964
+Morrell (John),2.5,89,613.4,1964
+J.P. Stevens,13.3,90,609.4,1964
+Pure Oil,29.8,91,597.7,1964
+Sealed Air,28.5,92,596.8,1964
+St. Regis,19.4,93,593.9,1964
+NCR,20.1,94,592.6,1964
+Textron,18.0,95,587.0,1964
+Weyerhaeuser,44.2,96,581.9,1964
+Wyeth,111.9,89,"1,085.6",1969
+American Standard,29.9,90,"1,075.2",1969
+Ryerson Tull,79.9,91,"1,073.7",1969
+Ashland,48.3,92,"1,068.4",1969
+Beatrice,37.4,93,"1,052.4",1969
+Ogden,25.2,94,"1,051.4",1969
+Anaconda,89.0,95,"1,051.0",1969
+PPG Industries,48.3,96,"1,044.0",1969
+GenCorp,43.3,97,"1,039.1",1969
+Weyerhaeuser,105.0,98,"1,032.8",1969
+Reynolds Metals,36.6,98,620.1,1965
+St. Regis,26.9,99,616.6,1965
+Standard Brands,23.6,100,614.6,1965
+Wyeth,104.1,86,987.3,1968
+Grumman,21.5,87,968.6,1968
+Owens-Illinois,45.3,88,961.7,1968
+NCR,35.3,89,955.5,1968
+GenCorp,32.1,90,954.5,1968
+Fortune Brands,89.2,91,952.8,1968
+BorgWarner,43.2,92,952.0,1968
+PPG Industries,43.5,93,942.9,1968
+American Cyanamid,70.3,94,937.1,1968
+Beatrice,30.3,95,909.6,1968
+Jones & Laughlin Steel,35.8,96,903.6,1968
+Olin,54.0,97,901.1,1968
+Georgia-Pacific,91.8,98,"1,160.2",1970
+Olin,50.3,99,"1,156.9",1970
+Whirlpool,45.9,100,"1,153.5",1970
+Getty Oil,130.9,91,"1,343.4",1972
+Honeywell Intl.,55.3,92,"1,325.9",1972
+Colgate-Palmolive,44.9,93,"1,309.6",1972
+Raytheon,35.2,94,"1,307.8",1972
+Genesco,15.9,95,"1,306.8",1972
+Goodrich,1.7,96,"1,300.3",1972
+Weyerhaeuser,113.9,97,"1,299.5",1972
+American Cyanamid,94.1,98,"1,283.5",1972
+Signal Companies,28.7,99,"1,280.8",1972
+Goodrich,49.0,88,"1,506.8",1973
+Honeywell Intl.,66.0,89,"1,501.0",1973
+Deere,112.2,90,"1,500.2",1973
+FMC,49.1,91,"1,497.7",1973
+Warner-Lambert,122.7,92,"1,487.5",1973
+Ryerson Tull,65.9,93,"1,469.8",1973
+Raytheon,37.9,94,"1,465.0",1973
+BP America,57.5,95,"1,446.6",1973
+Signal Companies,40.5,96,"1,438.2",1973
+Whirlpool,68.2,97,"1,416.3",1973
+Altria Group,124.5,98,"1,408.3",1973
+Genesco,8.9,99,"1,405.8",1973
+Warner-Lambert,138.6,94,"1,670.4",1974
+Honeywell Intl.,95.1,95,"1,664.6",1974
+General Dynamics,41.3,96,"1,641.8",1974
+Whirlpool,86.6,97,"1,636.9",1974
+U.S. Industries,66.9,98,"1,636.8",1974
+Johnson & Johnson,148.4,99,"1,611.8",1974
+Celanese,81.0,100,"1,609.0",1974
+Owens-Illinois,83.5,87,"2,116.4",1975
+Textron,105.9,88,"2,113.8",1975
+PepsiCo,87.4,89,"2,080.8",1975
+FMC,80.9,90,"2,074.1",1975
+Wyeth,225.6,91,"2,048.7",1975
+Altria Group,175.5,92,"2,042.1",1975
+American Motors,27.5,93,"2,000.2",1975
+General Mills,75.1,94,"2,000.1",1975
+Reynolds Metals,111.1,95,"1,993.2",1975
+Goodrich,52.0,96,"1,979.8",1975
+NCR,87.2,97,"1,979.0",1975
+FMC,108.2,86,"2,291.9",1976
+American Motors,-27.5,87,"2,282.2",1976
+Owens-Illinois,87.3,88,"2,273.2",1976
+Wyeth,250.7,89,"2,258.6",1976
+Raytheon,71.0,90,"2,245.4",1976
+National Intergroup,58.0,91,"2,241.2",1976
+Johnson & Johnson,183.8,92,"2,224.7",1976
+Uniroyal,23.0,93,"2,187.6",1976
+Chiquita Brands Intl.,10.8,94,"2,186.5",1976
+Warner-Lambert,163.9,95,"2,172.3",1976
+NCR,72.5,96,"2,165.6",1976
+Signal Companies,41.1,97,"2,162.9",1976
+Warner-Lambert,159.7,93,"2,349.2",1977
+American Motors,-46.3,94,"2,315.5",1977
+Uniroyal,20.1,95,"2,314.8",1977
+NCR,95.6,96,"2,312.7",1977
+FMC,80.2,97,"2,298.4",1977
+Burlington Industries Equity,104.9,98,"2,284.6",1977
+Chiquita Brands Intl.,16.3,99,"2,276.6",1977
+PPG Industries,151.5,100,"2,254.8",1977
+Ryerson Tull,158.3,85,"3,248.0",1979
+General Mills,135.8,86,"3,243.0",1979
+CBS,198.1,87,"3,241.6",1979
+Raytheon,150.0,88,"3,239.3",1979
+Textron,168.1,89,"3,230.6",1979
+Bestfoods,147.3,90,"3,221.8",1979
+Farmland Industries,N.A.,91,"3,215.7",1979
+General Dynamics,-48.1,92,"3,205.2",1979
+Owens-Illinois,85.2,93,"3,111.7",1979
+Wyeth,348.4,94,"3,062.6",1979
+Dresser Industries,203.9,95,"3,054.0",1979
+Iowa Beef Processors,33.6,96,"2,968.1",1979
+National Intergroup,60.1,77,"3,138.9",1978
+Farmland Industries,N.A.,78,"3,016.4",1978
+Signal Companies,101.5,79,"2,964.4",1978
+Honeywell Intl.,135.3,80,"2,922.8",1978
+Johnson & Johnson,247.3,81,"2,914.1",1978
+Honeywell,145.1,82,"2,911.1",1978
+General Mills,117.0,83,"2,909.4",1978
+Republic Steel,41.0,84,"2,909.4",1978
+General Dynamics,103.4,85,"2,901.2",1978
+Fortune Brands,157.8,86,"2,892.0",1978
+Continental Group,189.2,72,"4,369.7",1980
+Borden Chemical,134.0,73,"4,312.5",1980
+Charter,365.3,74,"4,249.7",1980
+Signal Companies,203.7,75,"4,241.2",1980
+National Intergroup,126.5,76,"4,234.5",1980
+Iowa Beef Processors,42.7,77,"4,216.4",1980
+Johnson & Johnson,352.1,78,"4,211.6",1980
+Honeywell,260.5,79,"4,209.5",1980
+Sperry,224.1,80,"4,179.3",1980
+Litton Industries,188.9,81,"4,086.4",1980
+Esmark,471.8,50,"6,108.4",1981
+Sealed Air,283.8,51,"6,101.3",1981
+3M,678.0,52,"6,079.5",1981
+McDonnell Douglas,144.6,53,"6,066.3",1981
+PepsiCo,274.0,54,"5,975.2",1981
+General Foods,255.8,55,"5,959.6",1981
+Coca-Cola,422.1,56,"5,912.6",1981
+Gulf & Western Industries,255.3,57,"5,782.8",1981
+ARMCO,265.3,58,"5,678.0",1981
+Honeywell Intl.,289.0,59,"5,519.0",1981
+Deere,228.3,60,"5,469.8",1981
+Lockheed Martin,27.6,61,"5,395.7",1981
+Sara Lee,127.7,62,"5,342.9",1981
+Union Pacific,410.7,56,"6,374.7",1982
+Lockheed Martin,-288.8,57,"6,232.7",1982
+Coca-Cola,481.8,58,"6,129.3",1982
+Coastal,-96.4,59,"5,909.7",1982
+Nabisco Brands,266.3,60,"5,819.2",1982
+Gulf & Western Industries,290.9,61,"5,702.5",1982
+Raytheon,324.0,62,"5,636.2",1982
+Sara Lee,140.3,63,"5,614.1",1982
+Farmland Industries,N.A.,64,"5,503.3",1982
+Deere,251.0,65,"5,446.7",1982
+Sperry,313.0,66,"5,427.2",1982
+Amerada Hess,168.7,40,"8,342.6",1983
+PepsiCo,224.3,41,"7,499.0",1983
+Rockwell Automation,331.6,42,"7,395.4",1983
+McDonnell Douglas,214.7,43,"7,331.3",1983
+3M,631.0,44,"6,601.0",1983
+Caterpillar,-180.0,45,"6,469.0",1983
+General Dynamics,132.8,46,"6,352.6",1983
+Monsanto,352.0,47,"6,325.0",1983
+Coca-Cola,512.2,48,"6,249.7",1983
+Honeywell Intl.,272.0,49,"6,167.0",1983
+Sealed Air,319.5,50,"6,127.6",1983
+Goodyear Tire & Rubber,305.5,32,"9,735.8",1984
+Kraft,435.1,33,"9,714.0",1984
+CBS,449.0,34,"9,532.6",1984
+Altria Group,903.5,35,"9,465.6",1984
+Beatrice,43.2,36,"9,188.2",1984
+Union Carbide,79.2,37,"9,001.1",1984
+Xerox,466.4,38,"8,463.5",1984
+Amerada Hess,205.3,39,"8,368.9",1984
+Union Pacific,296.9,40,"8,352.6",1984
+General Foods,288.5,41,"8,256.4",1984
+McDonnell Douglas,274.9,42,"8,111.0",1984
+Dow Chemical,585.0,25,"11,418.0",1985
+Honeywell Intl.,488.0,26,"10,864.0",1985
+Unocal,700.4,27,"10,838.4",1985
+Eastman Kodak,923.0,28,"10,600.0",1985
+Boeing,787.0,29,"10,354.0",1985
+CBS,535.9,30,"10,264.5",1985
+Goodyear Tire & Rubber,411.0,31,"10,240.8",1985
+Altria Group,888.5,32,"10,137.8",1985
+Kraft,455.8,33,"9,758.7",1985
+McDonnell Douglas,325.3,34,"9,662.6",1985
+Union Carbide,323.0,35,"9,508.0",1985
+Marathon Oil,409.0,15,"18,429.0",1986
+United Technologies,312.7,16,"15,748.7",1986
+ConocoPhillips,418.0,17,"15,676.0",1986
+Tenneco Automotive,172.0,18,"15,400.0",1986
+Occidental Petroleum,696.0,19,"14,534.4",1986
+Sunoco,527.0,20,"13,769.0",1986
+Boeing,566.0,21,"13,636.0",1986
+Procter & Gamble,635.0,22,"13,552.0",1986
+Nabisco Group Holdings,"1,001.0",23,"13,533.0",1986
+BP America,308.0,24,"13,002.0",1986
+ITT Industries,293.5,25,"12,714.3",1986
+Beatrice,479.0,26,"12,595.0",1986
+Nabisco Brands,33.9,97,578.4,1964
+White Motor,15.5,98,572.4,1964
+Beatrice,13.0,99,569.5,1964
+Reynolds Metals,27.8,100,565.6,1964
+Deere,42.6,99,"1,030.5",1969
+OfficeMax,45.4,100,"1,026.5",1969
+Weyerhaeuser,60.3,98,886.6,1968
+Carnation,31.8,99,879.2,1968
+Genesco,25.2,100,872.1,1968
+Whirlpool,50.4,100,"1,274.5",1972
+Getty Oil,81.2,100,"1,405.3",1973
+General Dynamics,52.9,98,"1,968.4",1975
+Johnson & Johnson,161.6,99,"1,937.2",1975
+Raytheon,57.8,100,"1,928.9",1975
+General Dynamics,84.5,98,"2,160.0",1976
+Ryerson Tull,83.3,99,"2,107.4",1976
+Carnation,88.5,100,"2,075.3",1976
+FMC,140.9,97,"2,912.8",1979
+Warner-Lambert,207.9,98,"2,878.5",1979
+Reynolds Metals,117.8,99,"2,829.3",1979
+PPG Industries,132.1,100,"2,794.0",1979
+Sara Lee,88.1,87,"2,891.9",1978
+Bestfoods,132.9,88,"2,869.8",1978
+Raytheon,113.2,89,"2,818.3",1978
+Textron,136.9,90,"2,802.2",1978
+CBS,182.0,91,"2,776.3",1978
+Owens-Illinois,91.3,92,"2,767.3",1978
+Wyeth,306.2,93,"2,685.1",1978
+Ryerson Tull,87.8,94,"2,681.6",1978
+Uniroyal,34.8,95,"2,581.9",1978
+Warner-Lambert,187.6,96,"2,542.7",1978
+Lockheed Martin,56.5,82,"4,069.8",1980
+General Dynamics,185.2,83,"4,059.6",1980
+Union Pacific,382.5,84,"3,989.5",1980
+Republic Steel,121.2,85,"3,987.4",1980
+Champion International,247.1,86,"3,907.9",1980
+Farmland Industries,N.A.,87,"3,835.7",1980
+Bendix,162.6,88,"3,828.7",1980
+Fortune Brands,347.3,89,"3,772.2",1980
+General Mills,147.0,90,"3,745.0",1980
+Whitman,173.7,91,"3,734.6",1980
+Raytheon,197.2,92,"3,727.9",1980
+Bestfoods,178.7,93,"3,698.7",1980
+Alcoa,469.9,63,"5,147.6",1981
+Colgate-Palmolive,173.2,64,"5,130.5",1981
+Continental Group,224.8,65,"5,119.5",1981
+Coastal,109.5,66,"5,089.9",1981
+International Paper,314.0,67,"5,042.9",1981
+Georgia-Pacific,244.0,68,"5,016.0",1981
+Raytheon,282.3,69,"5,002.1",1981
+TRW,211.9,70,"4,984.0",1981
+Honeywell,293.5,71,"4,924.7",1981
+Ralston Purina,163.0,72,"4,886.0",1981
+Firestone Tire & Rubber,-105.9,73,"4,850.5",1981
+Georgia-Pacific,160.0,67,"5,414.0",1982
+Johnson & Johnson,467.6,68,"5,399.0",1982
+Honeywell,259.3,69,"5,351.2",1982
+Signal Companies,214.0,70,"5,342.6",1982
+TRW,228.8,71,"5,285.1",1982
+Colgate-Palmolive,208.4,72,"5,261.4",1982
+Ralston Purina,174.8,73,"5,233.8",1982
+Continental Group,242.2,74,"5,194.4",1982
+Charter,7.7,75,"5,064.7",1982
+General Dynamics,124.1,76,"5,063.4",1982
+Sara Lee,156.7,51,"6,039.3",1983
+Nabisco Brands,314.7,52,"5,871.1",1983
+Union Pacific,326.8,53,"5,818.3",1983
+Coastal,65.6,54,"5,799.4",1983
+Johnson & Johnson,473.4,55,"5,760.9",1983
+Lockheed Martin,207.3,56,"5,613.0",1983
+Sperry,221.8,57,"5,571.4",1983
+Raytheon,318.8,58,"5,513.4",1983
+Honeywell,272.9,59,"5,490.4",1983
+Gulf & Western Industries,168.6,60,"5,486.3",1983
+ARMCO,-345.1,61,"5,427.9",1983
+Rockwell Automation,389.1,43,"8,097.9",1984
+PepsiCo,284.1,44,"7,895.9",1984
+Ashland,102.8,45,"7,852.3",1984
+General Dynamics,286.6,46,"7,146.3",1984
+3M,667.0,47,"7,039.0",1984
+Coca-Cola,558.8,48,"6,991.0",1984
+Sara Lee,171.3,49,"6,572.3",1984
+Lockheed Martin,262.8,50,"6,490.3",1984
+Georgia-Pacific,105.0,51,"6,469.0",1984
+Monsanto,402.0,52,"6,299.0",1984
+Beatrice,433.0,36,"9,327.0",1985
+Rockwell Automation,496.5,37,"9,322.1",1985
+Xerox,290.5,38,"8,971.3",1985
+General Foods,317.1,39,"8,599.8",1985
+PepsiCo,212.5,40,"8,428.0",1985
+Amerada Hess,170.5,41,"8,277.2",1985
+Ashland,-172.5,42,"8,252.6",1985
+Lockheed Martin,344.1,43,"8,113.4",1985
+General Dynamics,381.7,44,"7,839.0",1985
+3M,773.0,45,"7,705.0",1985
+Coca-Cola,628.8,46,"7,364.0",1985
+Georgia-Pacific,119.0,47,"7,128.0",1985
+Altria Group,"1,255.0",27,"12,149.0",1986
+Dow Chemical,58.0,28,"11,537.0",1986
+McDonnell Douglas,345.7,29,"11,477.7",1986
+Rockwell Automation,595.3,30,"11,337.6",1986
+Unocal,325.0,31,"10,738.0",1986
+CBS,605.3,32,"10,700.2",1986
+Eastman Kodak,332.0,33,"10,631.0",1986
+Kraft,466.1,34,"9,942.3",1986
+Goodyear Tire & Rubber,412.4,35,"9,896.7",1986
+Lockheed Martin,401.0,36,"9,535.0",1986
+Honeywell Intl.,-279.0,37,"9,115.0",1986
+Dresser Industries,185.1,97,"2,538.8",1978
+NCR,143.6,98,"2,521.6",1978
+PPG Industries,91.7,99,"2,505.8",1978
+Chiquita Brands Intl.,7.5,100,"2,421.9",1978
+CBS,200.7,94,"3,670.4",1980
+Ryerson Tull,131.1,95,"3,635.2",1980
+Owens-Illinois,133.5,96,"3,504.3",1980
+Chiquita Brands Intl.,21.4,97,"3,470.2",1980
+Dresser Industries,228.0,98,"3,457.4",1980
+Wyeth,396.0,99,"3,401.3",1980
+Textron,169.8,100,"3,393.0",1980
+Johnson & Johnson,400.7,74,"4,837.4",1981
+Union Pacific,404.5,75,"4,831.7",1981
+American Can,85.7,76,"4,812.2",1981
+Sperry,277.1,77,"4,785.4",1981
+Greyhound,118.3,78,"4,766.1",1981
+General Dynamics,195.0,79,"4,742.7",1981
+Farmland Industries,N.A.,80,"4,725.1",1981
+Iowa Beef Processors,53.2,81,"4,639.5",1981
+Borden Chemical,147.9,82,"4,595.8",1981
+Weyerhaeuser,278.0,83,"4,535.8",1981
+Charter,50.2,84,"4,518.1",1981
+International Paper,525.0,77,"4,983.4",1982
+Alcoa,296.2,78,"4,977.5",1982
+Litton Industries,311.6,79,"4,942.8",1982
+General Mills,196.6,80,"4,852.4",1982
+American Can,76.7,81,"4,836.4",1982
+Greyhound,138.2,82,"4,699.1",1982
+Dresser Industries,316.6,83,"4,614.5",1982
+Weyerhaeuser,228.3,84,"4,501.5",1982
+Borden Chemical,159.9,85,"4,415.2",1982
+Bendix,452.8,86,"4,393.1",1982
+Republic Steel,190.1,87,"4,382.1",1982
+Georgia-Pacific,153.0,62,"5,402.0",1983
+General Mills,225.5,63,"5,312.1",1983
+Bethlehem Steel,"-1,469.6",64,"5,260.3",1983
+LTV,-154.9,65,"5,194.6",1983
+TRW,196.3,66,"5,131.9",1983
+Continental Group,180.2,67,"4,979.0",1983
+Litton Industries,315.0,68,"4,941.8",1983
+Signal Companies,113.2,69,"4,935.6",1983
+Colgate-Palmolive,196.9,70,"4,888.0",1983
+Ralston Purina,69.1,71,"4,878.4",1983
+McDermott,213.4,72,"4,843.2",1983
+Navistar International,"-1,638.2",73,"4,725.1",1983
+Alcoa,10.8,74,"4,647.6",1983
+Deere,52.9,75,"4,608.2",1983
+Sealed Air,159.7,53,"6,219.5",1984
+Signal Companies,103.0,54,"6,151.0",1984
+Anheuser-Busch,348.0,55,"6,034.2",1984
+Nabisco Brands,322.6,56,"5,985.2",1984
+Johnson & Johnson,489.0,57,"5,972.9",1984
+Coastal,93.7,58,"5,963.1",1984
+Raytheon,300.1,59,"5,937.3",1984
+Honeywell,231.2,60,"5,753.1",1984
+Charter,53.9,61,"5,565.6",1984
+General Mills,245.1,62,"5,550.8",1984
+LTV,-378.2,48,"7,046.1",1985
+Sara Lee,188.4,49,"7,000.3",1985
+Sealed Air,195.6,50,"6,727.8",1985
+Monsanto,439.0,51,"6,691.0",1985
+Caterpillar,-428.0,52,"6,576.0",1985
+Anheuser-Busch,391.5,53,"6,501.2",1985
+Nabisco Brands,308.9,54,"6,253.1",1985
+Coastal,101.7,55,"6,225.4",1985
+Honeywell,239.0,56,"6,138.3",1985
+General Foods,324.9,38,"9,022.4",1986
+Union Carbide,-581.0,39,"9,003.0",1986
+Xerox,475.3,40,"8,947.6",1986
+PepsiCo,543.7,41,"8,478.9",1986
+General Dynamics,383.3,42,"8,410.6",1986
+LTV,-723.9,43,"8,198.8",1986
+Coca-Cola,722.3,44,"8,138.9",1986
+Sara Lee,206.3,45,"8,117.2",1986
+Ashland,146.7,46,"7,891.2",1986
+3M,664.0,47,"7,846.0",1986
+Amerada Hess,-260.4,48,"7,653.4",1986
+Sealed Air,146.9,49,"7,260.1",1986
+Coastal,142.4,50,"7,254.3",1986
+Signal Companies,167.7,85,"4,285.3",1981
+Fortune Brands,405.5,86,"4,276.5",1981
+Bendix,191.6,87,"4,270.4",1981
+Litton Industries,290.8,88,"4,246.5",1981
+General Mills,170.0,89,"4,170.3",1981
+Whitman,120.7,90,"4,141.6",1981
+Bestfoods,197.4,91,"4,120.3",1981
+Texas Instruments,212.2,92,"4,074.7",1981
+Dresser Industries,261.1,93,"4,016.3",1981
+CBS,193.0,94,"3,962.9",1981
+Owens-Illinois,149.4,95,"3,905.7",1981
+Firestone Tire & Rubber,135.0,88,"4,361.0",1982
+Bestfoods,218.4,89,"4,343.1",1982
+BATUS,179.7,90,"4,245.5",1982
+Texas Instruments,108.5,91,"4,206.0",1982
+Whitman,134.4,92,"4,194.5",1982
+Wyeth,497.3,93,"4,131.2",1982
+National Intergroup,86.1,94,"4,062.3",1982
+Chiquita Brands Intl.,29.4,95,"4,058.4",1982
+Fortune Brands,386.1,96,"4,039.1",1982
+Champion International,101.4,97,"4,004.0",1982
+Wyeth,560.1,76,"4,582.1",1983
+Anheuser-Busch,287.3,77,"4,576.6",1983
+Greyhound,103.1,78,"4,525.6",1983
+Texas Instruments,144.0,79,"4,326.6",1983
+Control Data,155.1,80,"4,292.0",1983
+Hewlett-Packard,383.0,81,"4,254.0",1983
+Weyerhaeuser,168.9,82,"4,186.2",1983
+Dresser Industries,172.3,83,"4,160.6",1983
+Borden Chemical,165.9,84,"4,111.3",1983
+Unisys,117.6,85,"4,095.3",1983
+TRW,205.2,63,"5,493.0",1984
+Caterpillar,-345.0,64,"5,424.0",1984
+Alcoa,174.2,65,"5,263.4",1984
+Sperry,118.1,66,"5,076.0",1984
+Gulf & Western Industries,-212.1,67,"5,072.5",1984
+Continental Group,199.0,68,"4,942.0",1984
+Bethlehem Steel,-163.5,69,"4,898.2",1984
+Weyerhaeuser,204.8,70,"4,882.6",1984
+Ralston Purina,256.0,71,"4,872.4",1984
+Colgate-Palmolive,197.8,72,"4,864.8",1984
+Johnson & Johnson,514.5,57,"6,124.5",1985
+Raytheon,243.2,58,"6,104.2",1985
+TRW,266.8,59,"6,061.7",1985
+Hewlett-Packard,665.0,60,"6,044.0",1985
+Signal Companies,285.0,61,"6,005.0",1985
+Alcoa,256.0,62,"5,750.8",1985
+Texas Instruments,316.0,63,"5,741.6",1985
+General Mills,233.4,64,"5,600.8",1985
+Digital Equipment,328.8,65,"5,584.4",1985
+Weyerhaeuser,226.2,66,"5,549.7",1985
+Anheuser-Busch,443.7,51,"7,000.3",1986
+Caterpillar,198.0,52,"6,769.0",1986
+Monsanto,-98.0,53,"6,747.0",1986
+Georgia-Pacific,187.0,54,"6,716.0",1986
+Digital Equipment,446.7,55,"6,686.3",1986
+Honeywell,281.6,56,"6,624.6",1986
+TRW,-7.1,57,"6,615.3",1986
+Hewlett-Packard,489.0,58,"6,505.0",1986
+Johnson & Johnson,613.7,59,"6,421.3",1986
+Wyeth,445.9,96,"3,798.5",1981
+Chiquita Brands Intl.,31.1,97,"3,762.6",1981
+Republic Steel,51.0,98,"3,760.0",1981
+Champion International,147.1,99,"3,752.7",1981
+National Intergroup,83.8,100,"3,706.7",1981
+Owens-Illinois,154.1,98,"3,943.3",1982
+Anheuser-Busch,217.4,99,"3,847.2",1982
+Agway,N.A.,100,"3,828.3",1982
+Bendix,132.8,86,"4,092.1",1983
+Bestfoods,231.6,87,"4,091.5",1983
+Charter,35.3,88,"4,063.6",1983
+American Can,-132.9,89,"4,063.4",1983
+Fortune Brands,381.2,90,"4,025.8",1983
+International Paper,171.8,91,"4,015.2",1983
+Warner Communications,257.8,92,"3,990.0",1983
+Chiquita Brands Intl.,2.8,93,"3,972.5",1983
+Whitman,47.6,94,"3,925.5",1983
+Digital Equipment,417.2,95,"3,880.8",1983
+Firestone Tire & Rubber,6.0,96,"3,869.0",1983
+Agway,N.A.,97,"3,833.0",1983
+Motorola,178.0,98,"3,785.8",1983
+Kerr-McGee,209.8,99,"3,777.2",1983
+Wyeth,627.2,73,"4,856.5",1984
+Litton Industries,231.6,74,"4,719.2",1984
+Hewlett-Packard,432.0,75,"4,710.0",1984
+Control Data,161.7,76,"4,582.8",1984
+Texas Instruments,-145.4,77,"4,579.8",1984
+LTV,-180.7,78,"4,577.8",1984
+Fortune Brands,390.3,79,"4,436.5",1984
+International Paper,254.9,80,"4,357.1",1984
+Motorola,244.0,81,"4,328.0",1984
+Unisys,196.9,82,"4,296.5",1984
+Motorola,387.0,67,"5,534.0",1985
+Bethlehem Steel,-112.5,68,"5,392.1",1985
+Sperry,216.2,69,"5,237.9",1985
+Champion International,-6.0,70,"5,121.1",1985
+Control Data,31.6,71,"5,026.9",1985
+Ralston Purina,242.7,72,"4,980.1",1985
+Colgate-Palmolive,71.5,73,"4,910.0",1985
+Archer Daniels Midland,117.7,74,"4,907.0",1985
+Litton Industries,313.4,75,"4,899.5",1985
+Unisys,244.9,76,"4,808.3",1985
+Raytheon,375.9,60,"6,408.5",1986
+Ralston Purina,256.4,61,"5,863.9",1986
+Champion International,163.1,62,"5,769.8",1986
+Sperry,286.7,63,"5,687.2",1986
+General Mills,-72.9,64,"5,654.1",1986
+ConAgra Foods,91.7,65,"5,498.2",1986
+Motorola,72.0,66,"5,443.0",1986
+Whitman,162.8,67,"5,292.1",1986
+Weyerhaeuser,200.1,68,"5,205.6",1986
+Alcoa,-16.6,69,"5,162.7",1986
+Bethlehem Steel,-196.0,70,"5,117.7",1986
+General Motors,"2,944.7",1,"102,813.7",1987
+Exxon Mobil,"5,360.0",2,"69,888.0",1987
+Ford Motor,"3,285.1",3,"62,715.8",1987
+Land O'Lakes,N.A.,100,"3,770.1",1983
+Archer Daniels Midland,110.2,83,"4,292.0",1984
+Digital Equipment,283.6,84,"4,271.9",1984
+Borden Chemical,189.1,85,"4,264.8",1984
+Champion International,82.2,86,"4,264.0",1984
+ARMCO,-672.5,87,"4,164.6",1984
+Esmark,117.3,88,"4,037.4",1984
+Maxus Energy,-56.2,89,"4,026.1",1984
+Bestfoods,136.2,90,"4,010.9",1984
+Time Warner,168.9,91,"3,990.4",1984
+Deere,23.3,92,"3,967.9",1984
+Bristol-Myers Squibb,408.0,93,"3,917.0",1984
+Martin Marietta,141.3,94,"3,899.3",1984
+Firestone Tire & Rubber,111.0,95,"3,866.0",1984
+Whitman,92.7,96,"3,864.1",1984
+Gulf & Western Industries,259.9,77,"4,805.6",1985
+Wyeth,682.1,78,"4,804.3",1985
+Navistar International,-55.4,79,"4,802.3",1985
+International Paper,120.1,80,"4,715.6",1985
+Borden Chemical,191.4,81,"4,568.0",1985
+ARMCO,-295.0,82,"4,543.1",1985
+Maxus Energy,242.2,83,"4,483.2",1985
+Fortune Brands,414.1,84,"4,475.0",1985
+Martin Marietta,-191.8,85,"4,416.5",1985
+Northrop Grumman,214.4,71,"5,056.6",1986
+Unisys,248.2,72,"5,037.7",1986
+Colgate-Palmolive,109.4,73,"5,019.7",1986
+Textron,251.8,74,"4,990.5",1986
+Texas Instruments,-118.7,75,"4,924.5",1986
+Archer Daniels Midland,163.9,76,"4,738.8",1986
+Borden Chemical,193.8,77,"4,716.2",1986
+Fortune Brands,420.9,78,"4,692.4",1986
+Wyeth,717.1,79,"4,684.7",1986
+Pillsbury,191.8,80,"4,670.6",1986
+Emerson Electric,401.1,81,"4,649.2",1986
+Intl. Business Machines,"4,789.0",4,"51,250.0",1987
+Mobil,"1,407.0",5,"44,866.0",1987
+General Electric,"2,492.0",6,"35,211.0",1987
+AT&T,139.0,7,"34,087.0",1987
+Texaco,725.0,8,"31,613.0",1987
+DuPont,"1,538.0",9,"27,148.0",1987
+ChevronTexaco,715.0,10,"24,351.0",1987
+Chrysler,"1,403.6",11,"22,513.5",1987
+Altria Group,"1,478.0",12,"20,681.0",1987
+Amoco,747.0,13,"18,281.0",1987
+Nabisco Group Holdings,"1,064.0",14,"16,998.0",1987
+Shell Oil,883.0,15,"16,833.0",1987
+North American Philips,95.7,97,"3,799.8",1984
+Agway,N.A.,98,"3,768.2",1984
+Pfizer,447.1,99,"3,750.0",1984
+H.J. Heinz,214.2,100,"3,738.4",1984
+Deere,104.9,86,"4,399.2",1985
+Bestfoods,193.4,87,"4,373.3",1985
+North American Philips,131.0,88,"4,326.0",1985
+PPG Industries,302.6,89,"4,242.0",1985
+Whitman,122.8,90,"4,233.7",1985
+American Motors,15.5,91,"4,215.2",1985
+Bristol-Myers Squibb,472.4,92,"4,189.4",1985
+Emerson Electric,349.2,93,"4,178.8",1985
+Pillsbury,169.8,94,"4,172.3",1985
+Firestone Tire & Rubber,102.0,95,"4,161.0",1985
+Litton Industries,299.5,82,"4,590.6",1986
+International Paper,133.0,83,"4,502.0",1986
+Bristol-Myers Squibb,531.4,84,"4,444.0",1986
+Martin Marietta,249.4,85,"4,410.1",1986
+North American Philips,81.5,86,"4,395.2",1986
+Farmland Industries,N.A.,87,"4,371.0",1986
+PPG Industries,302.7,88,"4,345.5",1986
+NCR,315.2,89,"4,317.2",1986
+Bestfoods,142.0,90,"4,209.9",1986
+Dresser Industries,-196.4,91,"4,111.2",1986
+ARMCO,55.0,92,"4,106.7",1986
+Boeing,665.0,16,"16,341.0",1987
+United Technologies,72.7,17,"15,669.2",1987
+Procter & Gamble,709.0,18,"15,439.0",1987
+Occidental Petroleum,181.1,19,"15,344.1",1987
+Atlantic Richfield,615.1,20,"14,585.8",1987
+Tenneco Automotive,-39.0,21,"14,558.0",1987
+Marathon Oil,"-1,833.0",22,"14,000.0",1987
+McDonnell Douglas,277.5,23,"12,660.6",1987
+Rockwell Automation,611.2,24,"12,295.7",1987
+Honeywell Intl.,605.0,25,"11,794.0",1987
+General Motors,"3,551.0",1,"101,782.0",1988
+Exxon Mobil,"4,840.0",2,"76,416.0",1988
+Agway,N.A.,96,"4,101.5",1985
+NCR,342.6,97,"4,074.3",1985
+H.J. Heinz,237.5,98,"3,953.8",1985
+BorgWarner,206.1,99,"3,915.6",1985
+American Cyanamid,215.9,100,"3,856.7",1985
+Maxus Energy,-604.7,93,"4,101.8",1986
+Kimberly-Clark,267.1,94,"4,072.9",1986
+Agway,N.A.,95,"4,067.2",1986
+Deere,30.5,96,"4,060.6",1986
+H.J. Heinz,266.0,97,"4,047.9",1986
+American Motors,-125.3,98,"4,039.9",1986
+Pfizer,579.7,99,"4,024.5",1986
+Campbell Soup,197.8,100,"3,988.7",1986
+Eastman Kodak,374.0,26,"11,550.0",1987
+Dow Chemical,732.0,27,"11,113.0",1987
+CBS,670.8,28,"10,731.0",1987
+Goodyear Tire & Rubber,124.1,29,"10,327.7",1987
+Lockheed Martin,408.0,30,"10,273.0",1987
+ConocoPhillips,228.0,31,"9,786.0",1987
+Xerox,465.0,32,"9,377.0",1987
+Sunoco,385.0,33,"9,376.0",1987
+PepsiCo,457.5,34,"9,290.8",1987
+BP America,-345.0,35,"9,219.0",1987
+General Dynamics,-52.5,36,"9,211.4",1987
+Ford Motor,"4,625.0",3,"71,643.0",1988
+Intl. Business Machines,"5,258.0",4,"54,217.0",1988
+Mobil,"1,258.0",5,"51,223.0",1988
+General Electric,"2,915.0",6,"39,315.0",1988
+Texaco,"-4,407.0",7,"34,372.0",1988
+AT&T,"2,044.0",8,"33,598.0",1988
+DuPont,"1,786.0",9,"30,468.0",1988
+Chrysler,"1,290.0",10,"26,258.0",1988
+ChevronTexaco,"1,007.0",11,"26,015.0",1988
+Altria Group,"1,842.0",12,"22,279.0",1988
+Shell Oil,"1,230.0",13,"20,852.0",1988
+Amoco,"1,360.0",14,"20,174.0",1988
+United Technologies,592.0,15,"17,170.0",1988
+General Motors,"4,856.0",1,"121,085.0",1989
+Ford Motor,"5,300.0",2,"92,446.0",1989
+Exxon Mobil,"5,260.0",3,"79,557.0",1989
+Intl. Business Machines,"5,806.0",4,"59,681.0",1989
+Kraft,413.2,37,"8,742.2",1987
+Coca-Cola,934.3,38,"8,668.6",1987
+3M,779.0,39,"8,602.0",1987
+Sara Lee,223.5,40,"7,937.7",1987
+ITT Industries,493.7,41,"7,895.5",1987
+Union Carbide,496.0,42,"7,828.0",1987
+Anheuser-Busch,518.0,43,"7,677.2",1987
+Digital Equipment,617.4,44,"7,590.4",1987
+Unocal,176.0,45,"7,482.0",1987
+Unisys,-43.4,46,"7,432.4",1987
+Caterpillar,76.0,47,"7,321.0",1987
+Raytheon,393.2,48,"7,308.0",1987
+LTV,"-3,251.6",49,"7,271.4",1987
+Georgia-Pacific,296.0,50,"7,223.0",1987
+Hewlett-Packard,516.0,51,"7,102.0",1987
+Occidental Petroleum,240.0,16,"17,096.0",1988
+Procter & Gamble,327.0,17,"17,000.0",1988
+Atlantic Richfield,"1,224.0",18,"16,281.0",1988
+Nabisco Group Holdings,"1,209.0",19,"15,868.0",1988
+Boeing,480.0,20,"15,355.0",1988
+Tenneco Automotive,-218.0,21,"15,075.0",1988
+BP America,564.0,22,"14,611.0",1988
+Marathon Oil,219.0,23,"13,898.0",1988
+General Electric,"3,386.0",5,"49,414.0",1989
+Mobil,"2,087.0",6,"48,198.0",1989
+Chrysler,"1,050.0",7,"35,473.0",1989
+Texaco,"1,304.0",8,"33,544.0",1989
+DuPont,"2,190.0",9,"32,514.0",1989
+Altria Group,"2,337.0",10,"25,860.0",1989
+ChevronTexaco,"1,768.0",11,"25,196.0",1989
+Amoco,"2,063.0",12,"21,150.0",1989
+Shell Oil,"1,239.0",13,"21,070.0",1989
+Occidental Petroleum,302.0,14,"19,417.0",1989
+Procter & Gamble,"1,020.0",15,"19,336.0",1989
+General Motors,"4,224.3",1,"126,974.3",1990
+Ford Motor,"3,835.0",2,"96,932.6",1990
+Honeywell,-398.1,52,"7,086.7",1987
+Johnson & Johnson,329.5,53,"7,002.9",1987
+Ashland,208.6,54,"6,991.3",1987
+Monsanto,433.0,55,"6,879.0",1987
+Sealed Air,-472.3,56,"6,808.3",1987
+Coastal,71.6,57,"6,668.2",1987
+TRW,217.7,58,"6,450.1",1987
+ConAgra Foods,105.3,59,"5,911.0",1987
+Motorola,194.0,60,"5,888.0",1987
+Pillsbury,208.1,61,"5,847.9",1987
+Weyerhaeuser,276.7,62,"5,652.0",1987
+Baxter International,444.0,63,"5,634.0",1987
+Dow Chemical,"1,240.0",24,"13,377.0",1988
+Eastman Kodak,"1,178.0",25,"13,305.0",1988
+McDonnell Douglas,313.0,26,"13,146.0",1988
+Rockwell Automation,635.0,27,"12,123.0",1988
+Honeywell Intl.,656.0,28,"11,597.0",1988
+PepsiCo,595.0,29,"11,500.0",1988
+Lockheed Martin,421.0,30,"11,370.0",1988
+Kraft,489.0,31,"11,011.0",1988
+ConocoPhillips,35.0,32,"10,721.0",1988
+United Technologies,659.0,16,"18,088.0",1989
+Atlantic Richfield,"1,583.0",17,"17,626.0",1989
+Eastman Kodak,"1,397.0",18,"17,034.0",1989
+Boeing,614.0,19,"16,962.0",1989
+Nabisco Group Holdings,"1,393.0",20,"16,956.0",1989
+Dow Chemical,"2,398.0",21,"16,682.0",1989
+Xerox,388.0,22,"16,441.0",1989
+Marathon Oil,756.0,23,"15,792.0",1989
+Tenneco Automotive,822.0,24,"15,707.0",1989
+McDonnell Douglas,350.0,25,"15,072.0",1989
+Exxon Mobil,"3,510.0",3,"86,656.0",1990
+Intl. Business Machines,"3,758.0",4,"63,438.0",1990
+General Electric,"3,939.0",5,"55,264.0",1990
+Mobil,"1,809.0",6,"50,976.0",1990
+Altria Group,"2,946.0",7,"39,069.0",1990
+Chrysler,359.0,8,"36,156.0",1990
+DuPont,"2,480.0",9,"35,209.0",1990
+Texaco,"2,413.0",10,"32,416.0",1990
+ChevronTexaco,251.0,11,"29,443.0",1990
+Amoco,"1,610.0",12,"24,214.0",1990
+Shell Oil,"1,405.0",13,"21,703.0",1990
+General Motors,"-1,985.7",1,"125,126.0",1991
+Exxon Mobil,"5,010.0",2,"105,885.0",1991
+Ford Motor,860.1,3,"98,274.7",1991
+General Motors,"-4,452.8",1,"123,780.1",1992
+Northrop Grumman,41.2,64,"5,608.4",1987
+Ralston Purina,388.7,65,"5,514.6",1987
+International Paper,305.0,66,"5,501.0",1987
+Archer Daniels Midland,230.4,67,"5,336.0",1987
+Fortune Brands,365.3,68,"5,261.2",1987
+Textron,239.2,69,"5,226.3",1987
+Borden Chemical,223.3,70,"5,002.1",1987
+Colgate-Palmolive,177.5,71,"4,984.6",1987
+Texas Instruments,29.1,72,"4,974.0",1987
+Emerson Electric,408.9,73,"4,952.9",1987
+CBS,739.0,33,"10,679.0",1988
+Xerox,578.0,34,"10,320.0",1988
+Goodyear Tire & Rubber,771.0,35,"10,123.0",1988
+Unisys,578.0,36,"9,713.0",1988
+3M,918.0,37,"9,429.0",1988
+Digital Equipment,"1,137.0",38,"9,389.0",1988
+General Dynamics,437.0,39,"9,344.0",1988
+Sara Lee,267.0,40,"9,155.0",1988
+ConAgra Foods,149.0,41,"9,002.0",1988
+Beatrice,N.A.,42,"8,926.0",1988
+PepsiCo,762.0,26,"13,007.0",1989
+CBS,823.0,27,"12,500.0",1989
+Rockwell Automation,812.0,28,"11,946.0",1989
+Honeywell Intl.,463.0,29,"11,909.0",1989
+Digital Equipment,"1,306.0",30,"11,475.0",1989
+ConocoPhillips,650.0,31,"11,304.0",1989
+Goodyear Tire & Rubber,350.0,32,"10,810.0",1989
+Lockheed Martin,624.0,33,"10,667.0",1989
+3M,"1,154.0",34,"10,581.0",1989
+Caterpillar,616.0,35,"10,435.0",1989
+Procter & Gamble,"1,206.0",14,"21,689.0",1990
+Boeing,973.0,15,"20,276.0",1990
+Occidental Petroleum,285.0,16,"20,068.0",1990
+United Technologies,702.1,17,"19,765.5",1990
+Eastman Kodak,529.0,18,"18,546.0",1990
+Marathon Oil,965.0,19,"17,755.0",1990
+Dow Chemical,"2,487.0",20,"17,730.0",1990
+Xerox,704.0,21,"17,635.0",1990
+Atlantic Richfield,"1,953.0",22,"15,905.0",1990
+PepsiCo,901.4,23,"15,419.6",1990
+Nabisco Group Holdings,"-1,149.0",24,"15,224.0",1990
+McDonnell Douglas,219.0,25,"14,995.0",1990
+Intl. Business Machines,"6,020.0",4,"69,018.0",1991
+Mobil,"1,929.0",5,"58,770.0",1991
+General Electric,"4,303.0",6,"58,414.0",1991
+Altria Group,"3,540.0",7,"44,323.0",1991
+Texaco,"1,450.0",8,"41,235.0",1991
+DuPont,"2,310.0",9,"39,839.0",1991
+ChevronTexaco,"2,157.0",10,"39,262.0",1991
+Chrysler,68.0,11,"30,868.0",1991
+Amoco,"1,913.0",12,"28,277.0",1991
+Boeing,"1,385.0",13,"27,595.0",1991
+Exxon Mobil,"5,600.0",2,"103,242.0",1992
+Ford Motor,"-2,258.0",3,"88,962.8",1992
+Intl. Business Machines,"-2,827.0",4,"65,394.0",1992
+General Electric,"2,636.0",5,"60,236.0",1992
+Mobil,"1,920.0",6,"56,910.0",1992
+Altria Group,"3,006.0",7,"48,109.0",1992
+DuPont,"1,403.0",8,"38,031.0",1992
+Texaco,"1,294.0",9,"37,551.0",1992
+Wyeth,778.8,74,"4,926.5",1987
+NCR,336.5,75,"4,881.6",1987
+Bristol-Myers Squibb,589.5,76,"4,835.9",1987
+Martin Marietta,202.3,77,"4,752.5",1987
+PPG Industries,316.4,78,"4,687.1",1987
+Alcoa,254.1,79,"4,667.2",1987
+General Mills,183.5,80,"4,586.6",1987
+Bestfoods,219.2,81,"4,548.8",1987
+Sunoco,348.0,43,"8,691.0",1988
+Georgia-Pacific,458.0,44,"8,603.0",1988
+ITT Industries,"1,018.0",45,"8,551.0",1988
+Unocal,181.0,46,"8,466.0",1988
+Anheuser-Busch,615.0,47,"8,258.0",1988
+Caterpillar,350.0,48,"8,180.0",1988
+Hewlett-Packard,644.0,49,"8,090.0",1988
+Johnson & Johnson,833.0,50,"8,012.0",1988
+Sara Lee,325.0,36,"10,424.0",1989
+Weyerhaeuser,564.0,37,"10,004.0",1989
+Unisys,681.0,38,"9,902.0",1989
+Hewlett-Packard,816.0,39,"9,831.0",1989
+Alcoa,861.0,40,"9,795.0",1989
+General Dynamics,379.0,41,"9,551.0",1989
+International Paper,754.0,42,"9,533.0",1989
+Georgia-Pacific,467.0,43,"9,509.0",1989
+ConAgra Foods,155.0,44,"9,475.0",1989
+Johnson & Johnson,974.0,45,"9,000.0",1989
+Tenneco Automotive,584.0,26,"14,439.0",1990
+Digital Equipment,"1,072.6",27,"12,866.0",1990
+CBS,922.0,28,"12,844.0",1990
+Rockwell Automation,734.9,29,"12,633.1",1990
+ConocoPhillips,219.0,30,"12,492.0",1990
+Honeywell Intl.,528.0,31,"12,021.0",1990
+3M,"1,244.0",32,"11,990.0",1990
+Shell Oil,"1,036.0",14,"24,423.0",1991
+Procter & Gamble,"1,602.0",15,"24,376.0",1991
+Occidental Petroleum,"-1,695.0",16,"21,947.0",1991
+United Technologies,750.6,17,"21,783.2",1991
+Dow Chemical,"1,384.0",18,"20,005.0",1991
+Marathon Oil,818.0,19,"19,462.0",1991
+Eastman Kodak,703.0,20,"19,075.0",1991
+Atlantic Richfield,"2,011.0",21,"18,819.0",1991
+Xerox,243.0,22,"18,382.0",1991
+PepsiCo,"1,076.9",23,"17,802.7",1991
+ChevronTexaco,"1,293.0",10,"36,795.0",1992
+Chrysler,-795.0,11,"29,370.0",1992
+Boeing,"1,567.0",12,"29,314.0",1992
+Procter & Gamble,"1,773.0",13,"27,406.0",1992
+Amoco,"1,484.0",14,"25,604.0",1992
+Shell Oil,20.0,15,"22,201.0",1992
+United Technologies,"-1,021.0",16,"21,262.0",1992
+PepsiCo,"1,080.2",17,"19,771.2",1992
+Eastman Kodak,17.0,18,"19,649.0",1992
+ConAgra Foods,311.2,19,"19,504.7",1992
+Dow Chemical,942.0,20,"19,305.0",1992
+General Motors,"-23,498.3",1,"132,774.9",1993
+North American Philips,68.5,82,"4,531.6",1987
+Litton Industries,71.1,83,"4,521.0",1987
+Pfizer,660.0,84,"4,476.0",1987
+Whitman,-136.7,85,"4,439.4",1987
+Champion International,200.8,86,"4,387.6",1987
+Campbell Soup,223.2,87,"4,378.7",1987
+H.J. Heinz,301.7,88,"4,366.2",1987
+Bethlehem Steel,-152.7,89,"4,332.9",1987
+Kimberly-Clark,269.4,90,"4,303.1",1987
+Merck,675.7,91,"4,128.9",1987
+Alcoa,200.0,51,"7,767.0",1988
+International Paper,407.0,52,"7,763.0",1988
+Raytheon,445.0,53,"7,659.0",1988
+Coca-Cola,916.0,54,"7,658.0",1988
+Monsanto,436.0,55,"7,639.0",1988
+LTV,503.0,56,"7,582.0",1988
+Coastal,113.0,57,"7,414.0",1988
+Weyerhaeuser,447.0,58,"6,990.0",1988
+Union Carbide,232.0,59,"6,914.0",1988
+Anheuser-Busch,716.0,46,"8,924.0",1989
+Unocal,480.0,47,"8,853.0",1989
+Sunoco,7.0,48,"8,612.0",1989
+Coca-Cola,"1,045.0",49,"8,338.0",1989
+Union Carbide,662.0,50,"8,324.0",1989
+Monsanto,591.0,51,"8,293.0",1989
+Motorola,445.0,52,"8,250.0",1989
+Raytheon,490.0,53,"8,192.0",1989
+Hewlett-Packard,829.0,33,"11,899.0",1990
+Sara Lee,410.5,34,"11,738.3",1990
+International Paper,864.0,35,"11,378.0",1990
+ConAgra Foods,197.9,36,"11,340.4",1990
+Alcoa,944.9,37,"11,161.5",1990
+Caterpillar,497.0,38,"11,126.0",1990
+Goodyear Tire & Rubber,206.8,39,"11,044.7",1990
+Unocal,260.0,40,"10,417.0",1990
+Georgia-Pacific,661.0,41,"10,171.0",1990
+McDonnell Douglas,306.0,24,"16,351.0",1991
+ConAgra Foods,231.7,25,"15,517.7",1991
+Tenneco Automotive,561.0,26,"14,893.0",1991
+ConocoPhillips,779.0,27,"13,939.0",1991
+Nabisco Group Holdings,-429.0,28,"13,879.0",1991
+Hewlett-Packard,739.0,29,"13,233.0",1991
+Digital Equipment,74.4,30,"13,084.5",1991
+3M,"1,308.0",31,"13,021.0",1991
+International Paper,569.0,32,"12,960.0",1991
+CBS,268.0,33,"12,915.0",1991
+Georgia-Pacific,365.0,34,"12,665.0",1991
+Rockwell Automation,624.3,35,"12,442.5",1991
+McDonnell Douglas,423.0,21,"18,718.0",1992
+Xerox,454.0,22,"17,830.0",1992
+Atlantic Richfield,709.0,23,"17,683.0",1992
+Marathon Oil,-578.0,24,"17,163.0",1992
+Nabisco Group Holdings,368.0,25,"14,989.0",1992
+Hewlett-Packard,755.0,26,"14,541.0",1992
+Tenneco Automotive,-732.0,27,"14,035.0",1992
+Digital Equipment,-617.4,28,"14,024.2",1992
+3M,"1,154.0",29,"13,340.0",1992
+ConocoPhillips,258.0,30,"13,216.0",1992
+Exxon Mobil,"4,770.0",2,"103,547.0",1993
+Ford Motor,"-7,385.0",3,"100,785.6",1993
+Intl. Business Machines,"-4,965.0",4,"65,096.0",1993
+General Electric,"4,725.0",5,"62,202.0",1993
+Mobil,862.0,6,"57,389.0",1993
+Altria Group,"4,939.0",7,"50,157.0",1993
+ChevronTexaco,"1,569.0",8,"38,523.0",1993
+DuPont,"-3,927.0",9,"37,386.0",1993
+Texaco,712.0,10,"37,130.0",1993
+Chrysler,723.0,11,"36,897.0",1993
+General Motors,"2,465.8",1,"133,621.9",1994
+Ford Motor,"2,529.0",2,"108,521.0",1994
+Exxon Mobil,"5,280.0",3,"97,825.0",1994
+Intl. Business Machines,"-8,101.0",4,"62,716.0",1994
+Amerada Hess,-219.4,92,"4,014.7",1987
+Whirlpool,199.6,93,"4,008.7",1987
+American Cyanamid,202.5,94,"3,815.9",1987
+Eaton,137.6,95,"3,811.6",1987
+Abbott Laboratories,540.5,96,"3,807.6",1987
+Hanson Industries NA,103.1,97,"3,768.5",1987
+Time Warner,376.4,98,"3,762.1",1987
+US Pharmaceuticals,521.1,99,"3,745.4",1987
+OfficeMax,101.5,100,"3,740.0",1987
+Ashland,133.0,60,"6,871.0",1988
+TRW,243.0,61,"6,821.0",1988
+Motorola,308.0,62,"6,707.0",1988
+Honeywell,254.0,63,"6,679.0",1988
+Borden Chemical,267.0,64,"6,514.0",1988
+Fortune Brands,523.0,65,"6,323.0",1988
+Baxter International,331.0,66,"6,223.0",1988
+Emerson Electric,467.0,67,"6,170.0",1988
+Coastal,157.0,54,"8,187.0",1989
+Ashland,224.0,55,"7,753.0",1989
+LTV,"-3,154.0",56,"7,526.0",1989
+Beatrice,529.0,57,"7,505.0",1989
+Fortune Brands,580.0,58,"7,477.0",1989
+Borden Chemical,312.0,59,"7,244.0",1989
+Honeywell,-435.0,60,"7,148.0",1989
+Textron,234.0,61,"7,111.0",1989
+TRW,261.0,62,"6,982.0",1989
+Unilever U.S.,133.0,63,"6,956.0",1989
+Baxter International,388.0,64,"6,861.0",1989
+Archer Daniels Midland,353.0,65,"6,798.0",1989
+Emerson Electric,529.0,66,"6,652.0",1989
+Hanson Industries NA,300.0,67,"6,494.0",1989
+Weyerhaeuser,341.1,42,"10,105.6",1990
+Unisys,-639.3,43,"10,096.9",1990
+General Dynamics,293.1,44,"10,053.2",1990
+Lockheed Martin,2.0,45,"9,932.0",1990
+Sunoco,98.0,46,"9,927.0",1990
+Johnson & Johnson,"1,082.0",47,"9,844.0",1990
+Motorola,498.0,48,"9,620.0",1990
+Anheuser-Busch,767.2,49,"9,481.3",1990
+Bristol-Myers Squibb,747.0,50,"9,422.0",1990
+Coca-Cola,"1,723.8",51,"9,170.8",1990
+Honeywell Intl.,462.0,36,"12,396.0",1991
+Sunoco,229.0,37,"11,909.0",1991
+Sara Lee,470.3,38,"11,652.0",1991
+Caterpillar,210.0,39,"11,540.0",1991
+Goodyear Tire & Rubber,-38.3,40,"11,453.1",1991
+Johnson & Johnson,"1,143.0",41,"11,232.0",1991
+Motorola,499.0,42,"10,885.0",1991
+Alcoa,295.2,43,"10,865.1",1991
+Anheuser-Busch,842.4,44,"10,750.6",1991
+Unocal,401.0,45,"10,740.0",1991
+CBS,"-1,086.0",31,"12,794.0",1992
+International Paper,184.0,32,"12,703.0",1992
+Sara Lee,535.0,33,"12,456.3",1992
+Johnson & Johnson,"1,461.0",34,"12,447.0",1992
+Rockwell Automation,600.5,35,"12,027.9",1992
+Honeywell Intl.,-273.0,36,"11,882.0",1992
+Coca-Cola,"1,618.0",37,"11,571.6",1992
+Georgia-Pacific,-142.0,38,"11,524.0",1992
+Motorola,454.0,39,"11,341.0",1992
+Bristol-Myers Squibb,"2,056.0",40,"11,298.0",1992
+Goodyear Tire & Rubber,96.6,41,"11,046.1",1992
+Anheuser-Busch,939.8,42,"10,996.3",1992
+Occidental Petroleum,459.9,43,"10,304.8",1992
+Boeing,552.0,12,"30,414.0",1993
+Procter & Gamble,"1,872.0",13,"29,890.0",1993
+Amoco,-74.0,14,"25,543.0",1993
+PepsiCo,374.3,15,"22,083.7",1993
+United Technologies,-287.0,16,"22,032.0",1993
+ConAgra Foods,372.4,17,"21,219.0",1993
+Shell Oil,-190.0,18,"21,160.0",1993
+Eastman Kodak,"1,146.0",19,"20,577.0",1993
+Dow Chemical,-489.0,20,"19,080.0",1993
+Xerox,"-1,020.0",21,"18,089.0",1993
+General Electric,"4,315.0",5,"60,823.0",1994
+Mobil,"2,084.0",6,"56,576.0",1994
+Altria Group,"3,091.0",7,"50,621.0",1994
+Chrysler,"-2,551.0",8,"43,600.0",1994
+Texaco,"1,068.0",9,"34,359.0",1994
+DuPont,555.0,10,"32,621.0",1994
+ChevronTexaco,"1,265.0",11,"32,123.0",1994
+Procter & Gamble,-656.0,12,"30,433.0",1994
+Amoco,"1,820.0",13,"25,336.0",1994
+Boeing,"1,244.0",14,"25,285.0",1994
+General Motors,"4,900.6",1,"154,951.2",1995
+Ford Motor,"5,308.0",2,"128,439.0",1995
+Exxon Mobil,"5,100.0",3,"101,459.0",1995
+Pillsbury,182.0,68,"6,128.0",1988
+Northrop Grumman,94.0,69,"6,053.0",1988
+Ralston Purina,523.0,70,"5,868.0",1988
+Archer Daniels Midland,265.0,71,"5,775.0",1988
+Textron,256.0,72,"5,661.0",1988
+Colgate-Palmolive,54.0,73,"5,648.0",1988
+NCR,419.0,74,"5,641.0",1988
+Texas Instruments,309.0,75,"5,595.0",1988
+Bristol-Myers Squibb,710.0,76,"5,401.0",1988
+General Mills,222.0,77,"5,208.0",1988
+PPG Industries,377.0,78,"5,183.0",1988
+Texas Instruments,366.0,68,"6,295.0",1989
+Sealed Air,234.0,69,"6,199.0",1989
+Pillsbury,69.0,70,"6,191.0",1989
+Ralston Purina,388.0,71,"6,176.0",1989
+NCR,439.0,72,"5,990.0",1989
+Bristol-Myers Squibb,829.0,73,"5,973.0",1989
+Merck,"1,207.0",74,"5,940.0",1989
+Northrop Grumman,104.0,75,"5,797.0",1989
+General Mills,283.0,76,"5,778.0",1989
+Raytheon,528.8,52,"8,796.1",1990
+Union Carbide,573.0,53,"8,744.0",1990
+Monsanto,679.0,54,"8,681.0",1990
+Coastal,170.1,55,"8,630.1",1990
+Unilever U.S.,139.0,56,"8,113.8",1990
+Archer Daniels Midland,424.7,57,"8,056.5",1990
+Ashland,86.2,58,"8,016.6",1990
+Time Warner,-256.0,59,"7,642.0",1990
+Borden Chemical,-60.6,60,"7,593.4",1990
+Textron,259.2,61,"7,440.1",1990
+Bristol-Myers Squibb,"1,748.0",46,"10,509.0",1991
+Coca-Cola,"1,381.9",47,"10,406.3",1991
+General Dynamics,-578.0,48,"10,182.0",1991
+Unisys,-436.7,49,"10,111.3",1991
+Lockheed Martin,335.0,50,"9,977.0",1991
+Coastal,225.6,51,"9,593.1",1991
+Raytheon,557.3,52,"9,362.3",1991
+Monsanto,546.0,53,"9,047.0",1991
+Weyerhaeuser,393.7,54,"9,024.3",1991
+Unilever U.S.,3.9,55,"8,680.1",1991
+Ashland,182.1,56,"8,554.4",1991
+Fortune Brands,596.0,57,"8,270.3",1991
+Sunoco,-387.0,44,"10,246.0",1992
+Caterpillar,-404.0,45,"10,182.0",1992
+Alcoa,62.7,46,"9,981.2",1992
+Lockheed Martin,308.0,47,"9,809.0",1992
+Unocal,73.0,48,"9,780.0",1992
+Coastal,96.3,49,"9,602.8",1992
+General Dynamics,505.0,50,"9,548.0",1992
+Raytheon,591.8,51,"9,355.5",1992
+Ashland,145.0,52,"9,322.4",1992
+Monsanto,296.0,53,"8,929.0",1992
+Citgo Petroleum,135.7,54,"8,921.9",1992
+Atlantic Richfield,801.0,22,"18,061.0",1993
+McDonnell Douglas,-781.0,23,"17,513.0",1993
+Hewlett-Packard,549.0,24,"16,427.0",1993
+Marathon Oil,"-1,826.0",25,"16,186.0",1993
+Nabisco Group Holdings,299.0,26,"15,734.0",1993
+Digital Equipment,"-2,795.5",27,"14,027.0",1993
+3M,"1,233.0",28,"13,883.0",1993
+Johnson & Johnson,"1,030.0",29,"13,846.0",1993
+PepsiCo,"1,587.9",15,"25,020.7",1994
+ConAgra Foods,270.3,16,"21,519.1",1994
+Shell Oil,781.0,17,"20,853.0",1994
+United Technologies,487.0,18,"20,736.0",1994
+Hewlett-Packard,"1,177.0",19,"20,317.0",1994
+Eastman Kodak,"-1,515.0",20,"20,059.0",1994
+Dow Chemical,644.0,21,"18,060.0",1994
+Atlantic Richfield,269.0,22,"17,189.0",1994
+Motorola,"1,022.0",23,"16,963.0",1994
+Marathon Oil,-259.0,24,"16,844.0",1994
+Nabisco Group Holdings,-145.0,25,"15,104.0",1994
+Xerox,-126.0,26,"14,981.0",1994
+Wal-Mart Stores,"2,681.0",4,"83,412.4",1995
+AT&T,"4,676.0",5,"75,094.0",1995
+General Electric,"4,726.0",6,"64,687.0",1995
+Intl. Business Machines,"3,021.0",7,"64,052.0",1995
+Mobil,"1,079.0",8,"59,621.0",1995
+Sears Roebuck,"1,454.0",9,"54,559.0",1995
+General Motors,"6,880.7",1,"168,828.6",1996
+Ford Motor,"4,139.0",2,"137,137.0",1996
+Martin Marietta,231.0,79,"5,165.0",1988
+Merck,906.0,80,"5,061.0",1988
+Sealed Air,173.0,81,"5,046.0",1988
+Wyeth,845.0,82,"5,028.0",1988
+Pfizer,690.0,83,"4,920.0",1988
+Bestfoods,355.0,84,"4,903.0",1988
+Kimberly-Clark,325.0,85,"4,885.0",1988
+North American Philips,-18.0,86,"4,847.0",1988
+Martin Marietta,359.0,77,"5,728.0",1989
+Hoechst Celanese,250.0,78,"5,679.0",1989
+PPG Industries,468.0,79,"5,617.0",1989
+Reynolds Metals,482.0,80,"5,567.0",1989
+Wyeth,932.0,81,"5,501.0",1989
+Bethlehem Steel,403.0,82,"5,489.0",1989
+Colgate-Palmolive,318.0,83,"5,484.0",1989
+North American Philips,79.0,84,"5,424.0",1989
+Kimberly-Clark,379.0,85,"5,394.0",1989
+TRW,263.0,62,"7,408.0",1990
+Baxter International,446.0,63,"7,399.0",1990
+Fortune Brands,630.8,64,"7,264.7",1990
+Honeywell,604.1,65,"7,241.6",1990
+Deere,380.2,66,"7,221.0",1990
+Emerson Electric,588.0,67,"7,071.3",1990
+Wyeth,"1,102.2",68,"6,747.0",1990
+Ralston Purina,422.5,69,"6,711.6",1990
+Merck,"1,495.4",70,"6,698.4",1990
+TRW,208.0,58,"8,169.0",1991
+Baxter International,40.0,59,"8,148.0",1991
+Textron,283.0,60,"7,917.6",1991
+Archer Daniels Midland,483.5,61,"7,893.5",1991
+Deere,411.1,62,"7,881.0",1991
+Merck,"1,781.2",63,"7,824.1",1991
+Borden Chemical,363.6,64,"7,632.8",1991
+Union Carbide,308.0,65,"7,621.0",1991
+Baxter International,591.0,55,"8,921.0",1992
+Unilever U.S.,N.A.,56,"8,855.1",1992
+Merck,"2,121.7",57,"8,765.2",1992
+Weyerhaeuser,-161.9,58,"8,724.8",1992
+Unisys,"-1,393.3",59,"8,696.1",1992
+Archer Daniels Midland,466.7,60,"8,567.7",1992
+Fortune Brands,806.1,61,"8,379.0",1992
+Tenneco Automotive,"-1,323.0",30,"13,606.0",1993
+International Paper,86.0,31,"13,600.0",1993
+Motorola,453.0,32,"13,341.0",1993
+Sara Lee,761.0,33,"13,321.0",1993
+Coca-Cola,"1,664.0",34,"13,238.0",1993
+Sara Lee,704.0,27,"14,580.0",1994
+McDonnell Douglas,396.0,28,"14,487.0",1994
+Digital Equipment,-251.3,29,"14,371.4",1994
+Johnson & Johnson,"1,787.0",30,"14,138.0",1994
+3M,"1,263.0",31,"14,020.0",1994
+Altria Group,"4,725.0",10,"53,776.0",1995
+Chrysler,"3,713.0",11,"52,224.0",1995
+State Farm Insurance Cos,-244.3,12,"38,850.1",1995
+Prudential Ins. Co. of America,"-1,175.0",13,"36,945.7",1995
+DuPont,"2,727.0",14,"34,968.0",1995
+Kmart Holding,296.0,15,"34,313.0",1995
+Texaco,910.0,16,"33,768.0",1995
+Citicorp,"3,366.0",17,"31,650.0",1995
+ChevronTexaco,"1,693.0",18,"31,064.0",1995
+Exxon Mobil,"6,470.0",3,"110,009.0",1996
+Wal-Mart Stores,"2,740.0",4,"93,627.0",1996
+AT&T,139.0,5,"79,609.0",1996
+Intl. Business Machines,"4,178.0",6,"71,940.0",1996
+General Motors,"4,963.0",1,"168,369.0",1997
+Amerada Hess,230.0,87,"4,785.0",1988
+H.J. Heinz,339.0,88,"4,640.0",1988
+Bethlehem Steel,174.0,89,"4,621.0",1988
+Champion International,382.0,90,"4,615.0",1988
+Hoechst Celanese,169.0,91,"4,596.0",1988
+Whitman,252.0,92,"4,581.0",1988
+Quaker Oats,244.0,93,"4,539.0",1988
+Campbell Soup,247.0,94,"4,490.0",1988
+Fort James,170.0,95,"4,479.0",1988
+Pfizer,791.0,86,"5,385.0",1989
+Deere,315.0,87,"5,365.0",1989
+Quaker Oats,256.0,88,"5,330.0",1989
+H.J. Heinz,386.0,89,"5,244.0",1989
+Dana,162.0,90,"5,172.0",1989
+Champion International,456.0,91,"5,129.0",1989
+Fort James,209.0,92,"5,098.0",1989
+BASF,149.0,93,"5,000.0",1989
+Texas Instruments,291.7,71,"6,592.2",1990
+LTV,264.9,72,"6,362.1",1990
+Sealed Air,253.2,73,"6,330.8",1990
+Whirlpool,187.2,74,"6,318.9",1990
+North American Philips,-178.0,75,"6,202.6",1990
+Reynolds Metals,532.7,76,"6,201.0",1990
+Hoechst Celanese,267.0,77,"6,016.0",1990
+Emerson Electric,613.2,66,"7,573.4",1991
+Ralston Purina,396.3,67,"7,133.2",1991
+Amerada Hess,482.7,68,"7,081.1",1991
+Honeywell,381.9,69,"6,985.2",1991
+Wyeth,"1,230.6",70,"6,917.2",1991
+Sealed Air,202.8,71,"6,774.7",1991
+Whirlpool,72.0,72,"6,647.0",1991
+Texas Instruments,-39.0,73,"6,604.0",1991
+Pfizer,801.2,74,"6,599.7",1991
+Hanson Industries NA,456.4,75,"6,558.3",1991
+Lyondell Chemical,356.0,76,"6,508.0",1991
+TRW,-140.0,62,"7,913.0",1992
+Textron,299.5,63,"7,840.1",1992
+Emerson Electric,631.9,64,"7,427.0",1992
+Ralston Purina,391.9,65,"7,394.2",1992
+Union Carbide,-28.0,66,"7,346.0",1992
+Borden Chemical,294.9,67,"7,235.1",1992
+General Mills,472.7,68,"7,153.2",1992
+Pfizer,722.1,69,"7,143.8",1992
+Hanson Industries NA,660.2,70,"7,103.7",1992
+CBS,"-1,291.0",35,"12,100.0",1993
+Honeywell Intl.,-712.0,36,"12,089.0",1993
+ConocoPhillips,180.0,37,"12,037.0",1993
+Goodyear Tire & Rubber,-658.6,38,"11,923.6",1993
+Georgia-Pacific,-124.0,39,"11,847.0",1993
+Bristol-Myers Squibb,"1,962.0",40,"11,805.0",1993
+Anheuser-Busch,917.5,41,"11,400.8",1993
+IBP,63.6,42,"11,129.7",1993
+Rockwell Automation,"-1,036.0",43,"10,995.1",1993
+Caterpillar,"-2,435.0",44,"10,194.0",1993
+Coca-Cola,"2,176.0",32,"13,957.0",1994
+International Paper,289.0,33,"13,685.0",1994
+Tenneco Automotive,426.0,34,"13,255.0",1994
+Lockheed Martin,422.0,35,"13,071.0",1994
+Georgia-Pacific,-34.0,36,"12,330.0",1994
+ConocoPhillips,243.0,37,"12,309.0",1994
+Honeywell Intl.,411.0,38,"11,827.0",1994
+IBP,90.1,39,"11,671.4",1994
+Procter & Gamble,"2,211.0",19,"30,296.0",1995
+PepsiCo,"1,752.0",20,"28,472.4",1995
+Amoco,"1,789.0",21,"26,953.0",1995
+Hewlett-Packard,"1,599.0",22,"24,991.0",1995
+ITT Industries,"1,022.0",23,"23,767.0",1995
+ConAgra Foods,413.1,24,"23,512.2",1995
+Kroger,242.2,25,"22,959.1",1995
+General Electric,"6,573.0",7,"70,028.0",1996
+Mobil,"2,376.0",8,"66,724.0",1996
+Chrysler,"2,025.0",9,"53,195.0",1996
+Altria Group,"5,450.0",10,"53,139.0",1996
+Prudential Ins. Co. of America,579.0,11,"41,330.0",1996
+State Farm Insurance Cos,"1,271.2",12,"40,809.9",1996
+DuPont,"3,293.0",13,"37,607.0",1996
+Texaco,607.0,14,"36,787.0",1996
+Sears Roebuck,"1,801.0",15,"35,181.0",1996
+Ford Motor,"4,446.0",2,"146,991.0",1997
+Exxon Mobil,"7,510.0",3,"119,434.0",1997
+Wal-Mart Stores,"3,056.0",4,"106,147.0",1997
+General Electric,"7,280.0",5,"79,179.0",1997
+Intl. Business Machines,"5,429.0",6,"75,947.0",1997
+AT&T,"5,908.0",7,"74,525.0",1997
+Mobil,"2,964.0",8,"72,267.0",1997
+Chrysler,"3,529.0",9,"61,397.0",1997
+Altria Group,"6,303.0",10,"54,553.0",1997
+Texaco,"2,018.0",11,"44,561.0",1997
+General Motors,"6,698.0",1,"178,174.0",1998
+General Motors,"2,956.0",1,"161,315.0",1999
+Litton Industries,138.0,96,"4,420.0",1988
+Abbott Laboratories,633.0,97,"4,388.0",1988
+Triangle Industries,52.0,98,"4,336.0",1988
+BASF,131.0,99,"4,334.0",1988
+US Pharmaceuticals,570.0,100,"4,329.0",1988
+Abbott Laboratories,752.0,94,"4,937.0",1989
+Campbell Soup,274.0,95,"4,869.0",1989
+Litton Industries,167.0,96,"4,864.0",1989
+US Pharmaceuticals,229.0,97,"4,749.0",1989
+Scott Paper,401.0,98,"4,726.0",1989
+Bayer Corporation,124.0,99,"4,719.0",1989
+Bestfoods,289.0,100,"4,700.0",1989
+NCR,412.0,78,"5,956.0",1990
+Hanson Industries NA,760.8,79,"5,933.3",1990
+Pfizer,681.1,80,"5,903.7",1990
+Fort James,255.1,81,"5,901.6",1990
+H.J. Heinz,440.2,82,"5,831.9",1990
+PPG Industries,465.2,83,"5,825.2",1990
+Martin Marietta,306.9,84,"5,814.3",1990
+General Mills,414.3,85,"5,798.0",1990
+Kimberly-Clark,423.8,86,"5,777.1",1990
+Quaker Oats,203.0,87,"5,724.3",1990
+General Mills,381.4,77,"6,486.7",1991
+Kimberly-Clark,432.1,78,"6,447.9",1991
+NCR,369.0,79,"6,395.0",1991
+LTV,70.9,80,"6,229.3",1991
+Campbell Soup,4.4,81,"6,223.4",1991
+Cooper Industries,361.4,82,"6,222.2",1991
+Abbott Laboratories,965.8,83,"6,210.3",1991
+Martin Marietta,327.6,84,"6,142.7",1991
+North American Philips,-645.7,85,"6,119.0",1991
+PPG Industries,474.8,86,"6,118.4",1991
+Wyeth,"1,375.3",71,"7,102.8",1992
+Deere,-20.2,72,"7,055.2",1992
+Sealed Air,218.6,73,"6,949.1",1992
+Abbott Laboratories,"1,088.7",74,"6,921.7",1992
+Hoechst Celanese,172.0,75,"6,856.0",1992
+Kimberly-Clark,508.3,76,"6,830.0",1992
+Texas Instruments,-409.0,77,"6,812.0",1992
+Whirlpool,170.0,78,"6,770.0",1992
+H.J. Heinz,568.0,79,"6,682.1",1992
+Lockheed Martin,-283.0,45,"10,138.0",1993
+Coastal,-126.8,46,"10,062.9",1993
+Merck,"1,984.2",47,"9,800.8",1993
+Ashland,-335.7,48,"9,595.8",1993
+Alcoa,"-1,139.2",49,"9,588.4",1993
+Archer Daniels Midland,503.8,50,"9,344.1",1993
+Weyerhaeuser,372.0,51,"9,259.9",1993
+Unilever U.S.,260.5,52,"9,216.8",1993
+Citgo Petroleum,33.2,53,"9,173.5",1993
+Goodyear Tire & Rubber,387.8,40,"11,643.4",1994
+Caterpillar,652.0,41,"11,615.0",1994
+CBS,-326.0,42,"11,564.0",1994
+Anheuser-Busch,594.5,43,"11,505.3",1994
+Bristol-Myers Squibb,"1,959.0",44,"11,413.0",1994
+Rockwell Automation,561.9,45,"10,840.0",1994
+Merck,"2,166.2",46,"10,498.2",1994
+Coastal,115.1,47,"10,136.1",1994
+Archer Daniels Midland,567.5,48,"9,811.4",1994
+Ashland,142.2,49,"9,553.9",1994
+Weyerhaeuser,579.3,50,"9,544.8",1994
+American Intl. Group,"2,175.5",26,"22,385.7",1995
+MetLife,80.4,27,"22,257.9",1995
+Motorola,"1,560.0",28,"22,245.0",1995
+Boeing,856.0,29,"21,924.0",1995
+Target,434.0,30,"21,311.0",1995
+United Technologies,585.0,31,"21,197.0",1995
+J.C. Penney,"1,057.0",32,"21,082.0",1995
+Dow Chemical,931.0,33,"20,015.0",1995
+Kmart Holding,-571.0,16,"34,654.0",1996
+Procter & Gamble,"2,645.0",17,"33,434.0",1996
+ChevronTexaco,930.0,18,"32,094.0",1996
+Citicorp,"3,464.0",19,"31,690.0",1996
+Hewlett-Packard,"2,433.0",20,"31,519.0",1996
+PepsiCo,"1,606.0",21,"30,421.0",1996
+MetLife,-559.4,22,"27,977.0",1996
+Amoco,"1,862.0",23,"27,665.0",1996
+Motorola,"1,781.0",24,"27,037.0",1996
+American Intl. Group,"2,510.4",25,"25,874.0",1996
+ConAgra Foods,495.6,26,"24,108.9",1996
+State Farm Insurance Cos,"2,567.9",12,"42,781.2",1997
+Prudential Ins. Co. of America,"1,006.0",13,"40,175.0",1997
+DuPont,"3,636.0",14,"39,689.0",1997
+ChevronTexaco,"2,607.0",15,"38,691.0",1997
+Hewlett-Packard,"2,586.0",16,"38,420.0",1997
+Sears Roebuck,"1,271.0",17,"38,236.0",1997
+Procter & Gamble,"3,046.0",18,"35,284.0",1997
+Amoco,"2,834.0",19,"32,726.0",1997
+Ford Motor,"6,920.0",2,"153,627.0",1998
+Exxon Mobil,"8,460.0",3,"122,379.0",1998
+Wal-Mart Stores,"3,526.0",4,"119,299.0",1998
+General Electric,"8,203.0",5,"90,840.0",1998
+Intl. Business Machines,"6,093.0",6,"78,508.0",1998
+Chrysler,"2,805.0",7,"61,147.0",1998
+Mobil,"3,272.0",8,"59,978.0",1998
+Altria Group,"6,310.0",9,"56,114.0",1998
+Ford Motor,"22,071.0",2,"144,416.0",1999
+Wal-Mart Stores,"4,430.0",3,"139,208.0",1999
+Exxon Mobil,"6,370.0",4,"100,697.0",1999
+General Electric,"9,296.0",5,"100,469.0",1999
+Intl. Business Machines,"6,328.0",6,"81,667.0",1999
+Citigroup,"5,807.0",7,"76,431.0",1999
+Altria Group,"5,372.0",8,"57,813.0",1999
+Boeing,"1,120.0",9,"56,154.0",1999
+AT&T,"6,398.0",10,"53,588.0",1999
+Bank of America Corp.,"5,165.0",11,"50,777.0",1999
+State Farm Insurance Cos,"1,704.0",12,"47,678.0",1999
+General Motors,"6,002.0",1,"189,058.0",2000
+Campbell Soup,13.1,88,"5,710.4",1990
+Amerada Hess,476.3,89,"5,589.0",1990
+Abbott Laboratories,859.8,90,"5,453.5",1990
+Bayer Corporation,153.9,91,"5,424.7",1990
+BASF,90.0,92,"5,421.5",1990
+Lyondell Chemical,374.0,93,"5,374.0",1990
+Stone Container,285.8,94,"5,360.7",1990
+Bethlehem Steel,245.7,95,"5,305.9",1990
+Apple Computer,454.0,96,"5,284.0",1990
+Champion International,432.4,97,"5,254.2",1990
+Northrop Grumman,-80.5,98,"5,200.0",1990
+H.J. Heinz,504.5,87,"6,112.4",1991
+Reynolds Metals,296.6,88,"6,075.7",1991
+Bayer Corporation,149.2,89,"5,903.7",1991
+Hoechst Celanese,201.0,90,"5,881.0",1991
+Bestfoods,373.9,91,"5,800.4",1991
+Stone Container,95.4,92,"5,770.4",1991
+Quaker Oats,169.0,93,"5,744.2",1991
+Colgate-Palmolive,321.0,94,"5,740.2",1991
+Amerada Hess,84.3,80,"6,416.3",1992
+Apple Computer,309.8,81,"6,308.8",1992
+Campbell Soup,401.5,82,"6,230.1",1992
+Honeywell,331.1,83,"6,220.9",1992
+Bestfoods,372.7,84,"6,200.0",1992
+Bayer Corporation,101.0,85,"6,197.4",1992
+Cooper Industries,393.2,86,"6,162.6",1992
+Raytheon,635.1,54,"9,118.9",1993
+Unocal,220.0,55,"8,948.0",1993
+Occidental Petroleum,-591.0,56,"8,940.0",1993
+Fortune Brands,883.8,57,"8,840.3",1993
+General Dynamics,815.0,58,"8,731.0",1993
+Sunoco,-559.0,59,"8,685.0",1993
+Monsanto,-88.0,60,"8,485.0",1993
+Martin Marietta,20.9,51,"9,435.7",1994
+Raytheon,693.0,52,"9,201.2",1994
+Citgo Petroleum,162.1,53,"9,107.4",1994
+Alcoa,4.8,54,"9,055.9",1994
+Baxter International,-198.0,55,"8,879.0",1994
+Intel,"2,295.0",56,"8,782.0",1994
+Textron,379.1,57,"8,668.5",1994
+GTE,"2,444.6",34,"19,944.3",1995
+United Parcel Service,943.3,35,"19,575.7",1995
+Fannie Mae,"2,131.6",36,"18,572.4",1995
+Citigroup,"1,326.0",37,"18,465.0",1995
+Cigna,554.0,38,"18,392.0",1995
+American Stores,345.2,39,"18,355.1",1995
+Merrill Lynch,"1,016.8",40,"18,233.1",1995
+Xerox,794.0,41,"17,837.0",1995
+Kroger,302.8,27,"23,937.8",1996
+Target,311.0,28,"23,516.0",1996
+Lockheed Martin,682.0,29,"22,853.0",1996
+United Technologies,750.0,30,"22,802.0",1996
+Allstate,"1,904.0",31,"22,793.0",1996
+Citicorp,"3,788.0",20,"32,605.0",1997
+PepsiCo,"1,149.0",21,"31,645.0",1997
+Kmart Holding,-220.0,22,"31,437.0",1997
+American Intl. Group,"2,897.3",23,"28,205.3",1997
+Motorola,"1,154.0",24,"27,973.0",1997
+AT&T,"4,638.0",10,"53,261.0",1998
+Boeing,-178.0,11,"45,800.0",1998
+Texaco,"2,664.0",12,"45,187.0",1998
+State Farm Insurance Cos,"3,833.3",13,"43,957.0",1998
+Hewlett-Packard,"3,119.0",14,"42,895.0",1998
+DuPont,"2,405.0",15,"41,304.0",1998
+Sears Roebuck,"1,188.0",16,"41,296.0",1998
+Citigroup,"3,104.0",17,"37,609.0",1998
+Prudential Ins. Co. of America,610.0,18,"37,073.0",1998
+ChevronTexaco,"3,256.0",19,"36,376.0",1998
+Mobil,"2,945.0",13,"47,061.0",1999
+Hewlett-Packard,"1,319.7",14,"44,620.9",1999
+Sears Roebuck,"1,048.0",15,"41,322.0",1999
+DuPont,"4,480.0",16,"39,130.0",1999
+Procter & Gamble,"3,780.0",17,"37,154.0",1999
+TIAA-CREF,840.4,18,"35,889.1",1999
+Merrill Lynch,"1,259.0",19,"35,853.0",1999
+Prudential Ins. Co. of America,"1,106.0",20,"34,427.0",1999
+Kmart Holding,568.0,21,"33,674.0",1999
+Wal-Mart Stores,"5,377.0",2,"166,809.0",2000
+Exxon Mobil,"7,910.0",3,"163,881.0",2000
+Ford Motor,"7,237.0",4,"162,558.0",2000
+General Electric,"10,717.0",5,"111,630.0",2000
+Intl. Business Machines,"7,712.0",6,"87,548.0",2000
+Citigroup,"9,867.0",7,"82,005.0",2000
+AT&T,"3,428.0",8,"62,391.0",2000
+Altria Group,"7,675.0",9,"61,751.0",2000
+Boeing,"2,309.0",10,"57,993.0",2000
+Exxon Mobil,"17,720.0",1,"210,392.0",2001
+Wal-Mart Stores,"6,295.0",2,"193,295.0",2001
+General Motors,"4,452.0",3,"184,632.0",2001
+Ford Motor,"3,467.0",4,"180,598.0",2001
+General Electric,"12,735.0",5,"129,853.0",2001
+Citigroup,"13,519.0",6,"111,826.0",2001
+Dana,132.1,99,"5,156.7",1990
+Litton Industries,178.3,100,"5,130.3",1990
+Apple Computer,474.9,95,"5,558.4",1991
+Northrop Grumman,210.4,96,"5,492.6",1991
+Fort James,78.2,97,"5,422.7",1991
+Scott Paper,148.0,98,"5,390.9",1991
+BASF,N.A.,99,"5,381.2",1991
+Litton Industries,178.8,100,"5,273.0",1991
+LTV,74.1,87,"6,117.3",1992
+Martin Marietta,313.1,88,"6,102.1",1992
+Quaker Oats,205.8,89,"6,101.2",1992
+Colgate-Palmolive,124.9,90,"6,093.7",1992
+North American Philips,8.1,91,"6,064.6",1992
+Kellogg,606.0,92,"5,786.6",1992
+Reynolds Metals,154.1,93,"5,784.5",1992
+Lyondell Chemical,222.0,94,"5,743.0",1992
+Baxter International,441.0,61,"8,471.0",1993
+Unisys,361.2,62,"8,421.9",1993
+Textron,-355.4,63,"8,347.5",1993
+TRW,-156.0,64,"8,311.0",1993
+Hanson Industries NA,551.0,65,"8,288.3",1993
+Abbott Laboratories,"1,239.1",66,"7,894.2",1993
+Wyeth,"1,460.8",67,"7,873.7",1993
+General Mills,495.6,68,"7,795.5",1993
+Ralston Purina,313.2,69,"7,768.0",1993
+Texas Instruments,472.0,58,"8,523.0",1994
+Abbott Laboratories,"1,399.1",59,"8,407.8",1994
+Wyeth,"1,469.3",60,"8,304.9",1994
+Fortune Brands,469.8,61,"8,287.5",1994
+Emerson Electric,708.1,62,"8,173.8",1994
+General Mills,506.1,63,"8,134.6",1994
+Occidental Petroleum,283.0,64,"8,116.0",1994
+Hanson Industries NA,758.6,65,"8,111.5",1994
+Aetna,467.5,42,"17,524.7",1995
+Eastman Kodak,557.0,43,"16,862.0",1995
+BellSouth,"2,159.8",44,"16,844.5",1995
+Marathon Oil,501.0,45,"16,799.0",1995
+BankAmerica Corp.,"2,176.0",46,"16,531.0",1995
+Costco Wholesale,-112.4,47,"16,480.6",1995
+Fannie Mae,"2,372.0",32,"22,246.0",1996
+Merrill Lynch,"1,114.0",33,"21,513.0",1996
+J.C. Penney,838.0,34,"21,419.0",1996
+United Parcel Service,"1,043.0",35,"21,045.0",1996
+Dow Chemical,"2,078.0",36,"20,957.0",1996
+BankAmerica Corp.,"2,664.0",37,"20,386.0",1996
+GTE,"-2,144.0",38,"19,957.0",1996
+International Paper,"1,153.0",39,"19,797.0",1996
+Boeing,393.0,40,"19,515.0",1996
+Chase Manhattan Corp.,"2,461.0",25,"27,421.0",1997
+Lockheed Martin,"1,347.0",26,"26,875.0",1997
+Target,463.0,27,"25,371.0",1997
+Kroger,349.9,28,"25,170.9",1997
+Fannie Mae,"2,725.0",29,"25,054.0",1997
+Merrill Lynch,"1,619.0",30,"25,011.0",1997
+ConAgra Foods,188.9,31,"24,821.6",1997
+Allstate,"2,075.0",32,"24,299.0",1997
+J.C. Penney,565.0,33,"23,649.0",1997
+United Technologies,906.0,34,"23,512.0",1997
+Procter & Gamble,"3,415.0",20,"35,764.0",1998
+Citicorp,"3,591.0",21,"34,697.0",1998
+Amoco,"2,720.0",22,"32,836.0",1998
+Kmart Holding,249.0,23,"32,183.0",1998
+Merrill Lynch,"1,906.0",24,"31,731.0",1998
+J.C. Penney,566.0,25,"30,546.0",1998
+American Intl. Group,"3,332.3",26,"30,519.5",1998
+Chase Manhattan Corp.,"3,708.0",27,"30,381.0",1998
+Verizon Communications,"2,454.9",28,"30,193.9",1998
+Motorola,"1,180.0",29,"29,794.0",1998
+American Intl. Group,"3,765.6",22,"33,296.0",1999
+Chase Manhattan Corp.,"3,782.0",23,"32,379.0",1999
+Texaco,578.0,24,"31,707.0",1999
+Verizon Communications,"2,965.3",25,"31,565.9",1999
+Fannie Mae,"3,418.1",26,"31,498.8",1999
+Enron,703.0,27,"31,260.0",1999
+Compaq Computer,"-2,743.0",28,"31,169.0",1999
+Morgan Stanley,"3,276.0",29,"31,131.0",1999
+Target,935.0,30,"30,951.0",1999
+J.C. Penney,594.0,31,"30,678.0",1999
+Home Depot,"1,614.0",32,"30,219.0",1999
+Lucent Technologies,970.0,33,"30,147.0",1999
+Motorola,-962.0,34,"29,398.0",1999
+Bank of America Corp.,"7,882.0",11,"51,392.0",2000
+SBC Communications,"8,159.0",12,"49,489.0",2000
+Hewlett-Packard,"3,491.0",13,"48,253.0",2000
+Kroger,955.9,14,"45,351.6",2000
+State Farm Insurance Cos,"1,034.1",15,"44,637.2",2000
+Sears Roebuck,"1,453.0",16,"41,071.0",2000
+American Intl. Group,"5,055.4",17,"40,656.1",2000
+Enron,893.0,18,"40,112.0",2000
+Enron,979.0,7,"100,789.0",2001
+Intl. Business Machines,"8,093.0",8,"88,396.0",2001
+AT&T,"4,669.0",9,"65,981.0",2001
+Verizon Communications,"11,797.0",10,"64,707.0",2001
+Altria Group,"8,510.0",11,"63,276.0",2001
+Chase Manhattan Corp.,"5,727.0",12,"60,065.0",2001
+Bank of America Corp.,"7,517.0",13,"57,747.0",2001
+SBC Communications,"7,967.0",14,"51,476.0",2001
+Boeing,"2,128.0",15,"51,321.0",2001
+Wal-Mart Stores,"6,671.0",1,"219,812.0",2002
+Exxon Mobil,"15,320.0",2,"191,581.0",2002
+General Motors,601.0,3,"177,260.0",2002
+Ford Motor,"-5,453.0",4,"162,412.0",2002
+Eli Lilly,"1,314.7",95,"5,725.7",1992
+PPG Industries,276.2,96,"5,725.2",1992
+Northrop Grumman,200.8,97,"5,705.5",1992
+Stone Container,-49.1,98,"5,392.7",1992
+Litton Industries,63.5,99,"5,313.3",1992
+Warner-Lambert,34.8,100,"5,166.6",1992
+Emerson Electric,662.9,70,"7,706.0",1993
+Texas Instruments,247.0,71,"7,470.0",1993
+Pfizer,810.9,72,"7,414.8",1993
+Whirlpool,205.0,73,"7,309.4",1993
+Borden Chemical,-439.6,74,"7,142.6",1993
+Kimberly-Clark,135.0,75,"7,091.1",1993
+Apple Computer,530.4,76,"7,086.5",1993
+Hoechst Celanese,-7.0,77,"7,044.0",1993
+Colgate-Palmolive,477.0,78,"7,035.3",1993
+Deere,37.4,79,"6,960.7",1993
+Unocal,213.0,66,"8,077.0",1994
+Apple Computer,86.6,67,"7,977.0",1994
+TRW,195.4,68,"7,947.9",1994
+Ralston Purina,122.6,69,"7,902.2",1994
+Monsanto,494.0,70,"7,902.0",1994
+Unisys,565.4,71,"7,742.5",1994
+Deere,-920.9,72,"7,693.8",1994
+Whirlpool,51.0,73,"7,533.0",1994
+Pfizer,657.5,74,"7,477.7",1994
+Sunoco,288.0,75,"7,297.0",1994
+Compaq Computer,462.0,76,"7,191.0",1994
+Coca-Cola,"2,554.0",48,"16,172.0",1995
+AMR,228.0,49,"16,137.0",1995
+Supervalu,185.3,50,"15,936.9",1995
+Fleming,56.2,51,"15,753.5",1995
+Johnson & Johnson,"2,006.0",52,"15,734.0",1995
+Atlantic Richfield,919.0,53,"15,682.0",1995
+Safeway,239.7,54,"15,626.6",1995
+American Express,"1,413.0",55,"15,593.0",1995
+Xerox,-472.0,41,"18,963.0",1996
+Cigna,211.0,42,"18,955.0",1996
+Johnson & Johnson,"2,403.0",43,"18,842.0",1996
+Loews,"1,765.7",44,"18,770.0",1996
+American Stores,316.8,45,"18,308.9",1996
+Costco Wholesale,133.9,46,"18,247.3",1996
+Marathon Oil,214.0,47,"18,214.0",1996
+Coca-Cola,"2,986.0",48,"18,018.0",1996
+BellSouth,"-1,232.0",49,"17,886.0",1996
+MetLife,800.0,35,"23,000.0",1997
+Boeing,"1,095.0",36,"22,681.0",1997
+United Parcel Service,"1,146.0",37,"22,368.0",1997
+BankAmerica Corp.,"2,873.0",38,"22,071.0",1997
+Johnson & Johnson,"2,887.0",39,"21,620.0",1997
+Citigroup,"2,331.0",40,"21,345.4",1997
+GTE,"2,798.3",41,"21,339.2",1997
+Marathon Oil,943.0,42,"21,076.0",1997
+Intel,"5,157.0",43,"20,847.0",1997
+International Paper,303.0,44,"20,143.0",1997
+Dow Chemical,"1,907.0",45,"20,053.0",1997
+TIAA-CREF,"1,226.6",30,"29,348.4",1998
+PepsiCo,"2,142.0",31,"29,292.0",1998
+Lockheed Martin,"1,300.0",32,"28,069.0",1998
+Fannie Mae,"3,055.8",33,"27,776.9",1998
+Target,751.0,34,"27,757.0",1998
+Morgan Stanley,"2,586.0",35,"27,132.0",1998
+Kroger,411.7,36,"26,567.3",1998
+Lucent Technologies,541.0,37,"26,360.0",1998
+Intel,"6,945.0",38,"25,070.0",1998
+SBC Communications,"4,023.0",35,"28,777.0",1999
+Kroger,410.8,36,"28,203.3",1999
+Merck,"5,248.2",37,"26,898.2",1999
+ChevronTexaco,"1,976.0",38,"26,801.0",1999
+MetLife,"1,343.0",39,"26,735.0",1999
+Intel,"6,068.0",40,"26,273.0",1999
+Lockheed Martin,"1,001.0",41,"26,266.0",1999
+Allstate,"3,294.0",42,"25,879.0",1999
+United Technologies,"1,255.0",43,"25,715.0",1999
+Bank One Corp.,"3,108.0",44,"25,595.0",1999
+GTE,"2,172.0",45,"25,473.0",1999
+TIAA-CREF,"1,024.1",19,"39,410.2",2000
+Compaq Computer,569.0,20,"38,525.0",2000
+Home Depot,"2,320.0",21,"38,434.0",2000
+Lucent Technologies,"4,766.0",22,"38,303.0",2000
+Procter & Gamble,"3,763.0",23,"38,125.0",2000
+Albertson's,404.1,24,"37,478.1",2000
+MCI WorldCom,"4,013.0",25,"37,120.0",2000
+Fannie Mae,"3,911.9",26,"36,968.6",2000
+Kmart Holding,403.0,27,"35,925.0",2000
+Texaco,"2,542.0",16,"51,130.0",2001
+Duke Energy,"1,776.0",17,"49,318.0",2001
+Kroger,876.9,18,"49,000.4",2001
+Hewlett-Packard,"3,697.0",19,"48,782.0",2001
+ChevronTexaco,"5,185.0",20,"48,069.0",2001
+State Farm Insurance Cos,408.1,21,"47,863.1",2001
+American Intl. Group,"5,636.1",22,"45,972.0",2001
+Home Depot,"2,581.0",23,"45,738.0",2001
+Morgan Stanley,"5,456.0",24,"45,413.0",2001
+Enron,N.A.,5,"138,718.0",2002
+General Electric,"13,684.0",6,"125,913.0",2002
+Citigroup,"14,126.0",7,"112,022.0",2002
+ChevronTexaco,"3,288.0",8,"99,699.0",2002
+Intl. Business Machines,"7,723.0",9,"85,866.0",2002
+Altria Group,"8,560.0",10,"72,944.0",2002
+Verizon Communications,389.0,11,"67,190.0",2002
+American Intl. Group,"5,363.0",12,"62,402.0",2002
+American Electric Power,970.8,13,"61,257.0",2002
+Duke Energy,"1,898.0",14,"59,503.0",2002
+AT&T,"7,715.0",15,"59,142.0",2002
+Wal-Mart Stores,"8,039.0",1,"246,525.0",2003
+H.J. Heinz,638.3,80,"6,628.5",1993
+Bestfoods,223.8,81,"6,599.0",1993
+Bayer Corporation,69.8,82,"6,499.0",1993
+Sealed Air,-294.5,83,"6,329.6",1993
+Eli Lilly,708.7,84,"6,282.3",1993
+Campbell Soup,490.5,85,"6,278.5",1993
+Honeywell,246.8,86,"6,254.0",1993
+Kellogg,431.2,87,"6,190.6",1993
+Colgate-Palmolive,189.9,77,"7,141.3",1994
+H.J. Heinz,396.3,78,"7,103.4",1994
+Kimberly-Clark,510.9,79,"6,972.9",1994
+Hoechst Celanese,101.0,80,"6,899.0",1994
+Bestfoods,454.5,81,"6,738.0",1994
+Borden Chemical,-630.7,82,"6,700.0",1994
+Campbell Soup,8.2,83,"6,586.2",1994
+Bayer Corporation,131.7,84,"6,586.0",1994
+Eli Lilly,480.2,85,"6,452.4",1994
+Kellogg,680.7,86,"6,295.4",1994
+Cooper Industries,367.1,87,"6,273.8",1994
+Johnson Controls,15.9,88,"6,181.7",1994
+Sara Lee,199.0,56,"15,536.0",1995
+Nabisco Group Holdings,519.0,57,"15,366.0",1995
+3M,"1,322.0",58,"15,079.0",1995
+Merck,"2,997.0",59,"14,969.8",1995
+International Paper,357.0,60,"14,966.0",1995
+Caterpillar,955.0,61,"14,328.0",1995
+UAL,51.0,62,"13,950.0",1995
+Verizon Communications,-754.8,63,"13,791.4",1995
+Sara Lee,804.0,50,"17,719.0",1996
+Columbia/HCA Healthcare,961.1,51,"17,695.0",1996
+Fleming,42.0,52,"17,501.6",1996
+AMR,167.0,53,"16,910.0",1996
+Atlantic Richfield,"1,376.0",54,"16,739.0",1996
+Merck,"3,335.2",55,"16,681.1",1996
+Citigroup,"1,834.0",56,"16,583.0",1996
+Supervalu,43.3,57,"16,563.8",1996
+Safeway,326.3,58,"16,397.5",1996
+Bank of America Corp.,"1,950.0",59,"16,298.0",1996
+Intel,"3,566.0",60,"16,202.0",1996
+Loews,"1,383.9",46,"19,964.8",1997
+Columbia/HCA Healthcare,"1,505.0",47,"19,909.0",1997
+Merck,"3,881.3",48,"19,828.7",1997
+Costco Wholesale,248.8,49,"19,566.5",1997
+Home Depot,937.7,50,"19,535.5",1997
+Xerox,"1,206.0",51,"19,521.0",1997
+Atlantic Richfield,"1,663.0",52,"19,168.5",1997
+BellSouth,"2,863.0",53,"19,040.0",1997
+Cigna,"1,056.0",54,"18,950.0",1997
+Walt Disney,"1,214.0",55,"18,739.0",1997
+American Stores,287.2,56,"18,678.1",1997
+Allstate,"3,105.0",39,"24,949.0",1998
+SBC Communications,"1,474.0",40,"24,856.0",1998
+United Technologies,"1,072.0",41,"24,713.0",1998
+Compaq Computer,"1,855.0",42,"24,584.0",1998
+MetLife,"1,203.0",43,"24,374.0",1998
+Home Depot,"1,160.0",44,"24,155.7",1998
+ConAgra Foods,615.0,45,"24,002.1",1998
+Merck,"4,614.1",46,"23,636.9",1998
+United Parcel Service,"1,741.0",46,"24,788.0",1999
+Marathon Oil,674.0,47,"24,754.0",1999
+Safeway,806.7,48,"24,484.2",1999
+Costco Wholesale,459.8,49,"24,269.9",1999
+ConAgra Foods,613.2,50,"23,840.5",1999
+Johnson & Johnson,"3,059.0",51,"23,657.0",1999
+BellSouth,"3,527.0",52,"23,123.0",1999
+Walt Disney,"1,850.0",53,"22,976.0",1999
+PepsiCo,"1,993.0",54,"22,348.0",1999
+Ingram Micro,245.2,55,"22,034.0",1999
+Texaco,"1,177.0",28,"35,690.0",2000
+Merrill Lynch,"2,618.0",29,"34,879.0",2000
+Morgan Stanley,"4,791.0",30,"33,928.0",2000
+Chase Manhattan Corp.,"5,446.0",31,"33,710.0",2000
+Target,"1,144.0",32,"33,702.0",2000
+Bell Atlantic,"4,202.0",33,"33,174.0",2000
+Merck,"5,890.5",34,"32,714.0",2000
+ChevronTexaco,"2,070.0",35,"32,676.0",2000
+J.C. Penney,336.0,36,"32,510.0",2000
+Motorola,817.0,37,"30,931.0",2000
+Merrill Lynch,"3,784.0",25,"44,872.0",2001
+Fannie Mae,"4,447.6",26,"44,088.9",2001
+Compaq Computer,569.0,27,"42,383.0",2001
+Lucent Technologies,"1,219.0",28,"41,420.0",2001
+Sears Roebuck,"1,343.0",29,"40,937.0",2001
+Merck,"6,821.7",30,"40,363.2",2001
+Procter & Gamble,"3,542.0",31,"39,951.0",2001
+MCI WorldCom,"4,153.0",32,"39,090.0",2001
+TIAA-CREF,"1,222.0",33,"38,063.5",2001
+Boeing,"2,827.0",16,"58,198.0",2002
+El Paso,93.0,17,"57,475.0",2002
+Home Depot,"3,044.0",18,"53,553.0",2002
+Bank of America Corp.,"6,792.0",19,"52,641.0",2002
+Fannie Mae,"5,894.1",20,"50,803.0",2002
+Chase Manhattan Corp.,"1,694.0",21,"50,429.0",2002
+Kroger,"1,042.5",22,"50,098.0",2002
+Cardinal Health,857.4,23,"47,947.6",2002
+Merck,"7,281.8",24,"47,715.7",2002
+State Farm Insurance Cos,"-4,995.7",25,"46,705.2",2002
+CenterPoint Energy,980.6,26,"46,225.8",2002
+SBC Communications,"7,242.0",27,"45,908.0",2002
+Hewlett-Packard,408.0,28,"45,226.0",2002
+Morgan Stanley,"3,521.0",29,"43,727.0",2002
+General Motors,"1,736.0",2,"186,763.0",2003
+Exxon Mobil,"11,460.0",3,"182,466.0",2003
+Ford Motor,-980.0,4,"163,630.0",2003
+General Electric,"14,118.0",5,"131,698.0",2003
+Citigroup,"15,276.0",6,"100,789.0",2003
+ChevronTexaco,"1,132.0",7,"92,043.0",2003
+Intl. Business Machines,"3,579.0",8,"83,132.0",2003
+American Intl. Group,"5,518.9",9,"67,722.8",2003
+Verizon Communications,"4,079.0",10,"67,625.0",2003
+Altria Group,"11,102.0",11,"62,182.0",2003
+Wal-Mart Stores,"9,054.0",1,"258,681.0",2004
+Union Carbide,-175.0,88,"6,167.0",1993
+Cooper Industries,-228.7,89,"6,158.5",1993
+North American Philips,49.8,90,"6,138.0",1993
+Intel,"1,066.5",91,"5,985.4",1993
+Amerada Hess,7.5,92,"5,970.4",1993
+Martin Marietta,345.4,93,"5,970.1",1993
+PPG Industries,319.4,94,"5,857.7",1993
+Litton Industries,174.4,95,"5,741.4",1993
+Reynolds Metals,-748.8,96,"5,620.3",1993
+Warner-Lambert,644.0,97,"5,597.6",1993
+Quaker Oats,247.6,98,"5,586.0",1993
+Levi Strauss,360.8,99,"5,570.3",1993
+Northrop Grumman,121.0,100,"5,550.0",1993
+Honeywell,322.2,89,"5,963.0",1994
+Levi Strauss,492.4,90,"5,892.5",1994
+Amerada Hess,-268.2,91,"5,851.6",1994
+Warner-Lambert,331.0,92,"5,793.7",1994
+PPG Industries,22.2,93,"5,753.9",1994
+Sealed Air,26.0,94,"5,736.6",1994
+Quaker Oats,167.1,95,"5,730.6",1994
+Litton Industries,65.2,96,"5,480.2",1994
+Coca-Cola Enterprises,-15.0,97,"5,465.0",1994
+Loews,267.8,64,"13,515.2",1995
+Digital Equipment,"-2,156.1",65,"13,450.8",1995
+MCI Communications,795.0,66,"13,338.0",1995
+Nynex,792.6,67,"13,306.6",1995
+Tenneco Automotive,396.0,68,"13,222.0",1995
+McDonnell Douglas,598.0,69,"13,176.0",1995
+Lockheed Martin,445.0,70,"13,130.0",1995
+Bank of America Corp.,"1,690.0",71,"13,126.0",1995
+Honeywell Intl.,759.0,72,"12,817.0",1995
+Georgia-Pacific,310.0,73,"12,738.0",1995
+New York Life Insurance,625.2,61,"16,201.7",1996
+3M,976.0,62,"16,105.0",1996
+Caterpillar,"1,136.0",63,"16,072.0",1996
+Nabisco Group Holdings,611.0,64,"16,008.0",1996
+American Express,"1,564.0",65,"15,841.0",1996
+Home Depot,731.5,66,"15,470.4",1996
+Eastman Kodak,"1,252.0",67,"15,269.0",1996
+MCI Communications,548.0,68,"15,265.0",1996
+Federated Dept. Stores,74.6,69,"15,048.5",1996
+UAL,349.0,70,"14,943.0",1996
+Chase Manhattan Corp.,"1,805.0",71,"14,884.0",1996
+Compaq Computer,789.0,72,"14,755.0",1996
+Sara Lee,916.0,57,"18,624.0",1997
+Coca-Cola,"3,492.0",58,"18,546.0",1997
+MCI Communications,"1,202.0",59,"18,494.0",1997
+Compaq Computer,"1,312.9",60,"18,109.0",1997
+AMR,"1,016.0",61,"17,753.0",1997
+Bank of America Corp.,"2,452.0",62,"17,509.0",1997
+New York Life Insurance,579.4,63,"17,347.0",1997
+American Express,"1,901.0",64,"17,280.0",1997
+Safeway,460.6,65,"17,269.0",1997
+BankAmerica Corp.,"3,210.0",47,"23,585.0",1998
+GTE,"2,793.6",48,"23,260.0",1998
+Johnson & Johnson,"3,303.0",49,"22,629.0",1998
+Safeway,557.4,50,"22,483.8",1998
+Walt Disney,"1,966.0",51,"22,473.0",1998
+United Parcel Service,909.0,52,"22,458.0",1998
+Costco Wholesale,312.2,53,"21,874.4",1998
+Bank of America Corp.,"3,077.0",54,"21,734.0",1998
+Marathon Oil,988.0,55,"21,057.0",1998
+Wachovia Corp.,"2,891.0",56,"21,543.0",1999
+Cigna,"1,292.0",57,"21,437.0",1999
+Caterpillar,"1,513.0",58,"20,977.0",1999
+McKesson,154.9,59,"20,857.3",1999
+Loews,464.8,60,"20,713.0",1999
+Aetna,848.1,61,"20,604.1",1999
+Wells Fargo,"1,950.0",62,"20,482.0",1999
+Xerox,395.0,63,"20,019.0",1999
+Sara Lee,-523.0,64,"20,011.0",1999
+PG&E Corp.,719.0,65,"19,942.0",1999
+Lehman Brothers Hldgs.,736.0,66,"19,894.0",1999
+American Stores,233.7,67,"19,866.7",1999
+McKesson,84.9,38,"30,382.3",2000
+Intel,"7,314.0",39,"29,389.0",2000
+Safeway,970.9,40,"28,859.9",2000
+Ingram Micro,183.4,41,"28,068.6",2000
+DuPont,"7,690.0",42,"27,892.0",2000
+Johnson & Johnson,"4,167.0",43,"27,471.0",2000
+Costco Wholesale,397.3,44,"27,456.0",2000
+Time Warner,"1,948.0",45,"27,333.0",2000
+Motorola,"1,318.0",34,"37,580.0",2001
+McKesson,723.7,35,"37,100.5",2001
+Kmart Holding,-244.0,36,"37,028.0",2001
+Target,"1,264.0",37,"36,903.0",2001
+Albertson's,765.0,38,"36,762.0",2001
+Marathon Oil,411.0,39,"35,570.0",2001
+Berkshire Hathaway,"3,328.0",40,"33,976.0",2001
+Intel,"10,535.0",41,"33,726.0",2001
+Goldman Sachs Group,"3,067.0",42,"33,000.0",2001
+J.C. Penney,-705.0,43,"32,965.0",2001
+Conoco,"1,902.0",44,"32,513.0",2001
+Costco Wholesale,631.4,45,"32,164.3",2001
+Safeway,"1,091.9",46,"31,976.9",2001
+Dynegy,648.0,30,"42,242.0",2002
+McKesson,-48.3,31,"42,010.0",2002
+Sears Roebuck,735.0,32,"41,078.0",2002
+Aquila,279.4,33,"40,376.8",2002
+Target,"1,368.0",34,"39,888.0",2002
+Procter & Gamble,"2,922.0",35,"39,244.0",2002
+Merrill Lynch,573.0,36,"38,793.0",2002
+Time Warner,"-4,921.0",37,"38,234.0",2002
+ConocoPhillips,-295.0,12,"58,394.0",2003
+Home Depot,"3,664.0",13,"58,247.0",2003
+Hewlett-Packard,-903.0,14,"56,588.0",2003
+Boeing,492.0,15,"54,069.0",2003
+Fannie Mae,"4,618.8",16,"52,901.1",2003
+Merck,"7,149.5",17,"51,790.3",2003
+Kroger,"1,204.9",18,"51,759.5",2003
+Cardinal Health,"1,056.2",19,"51,135.7",2003
+McKesson,418.6,20,"50,006.0",2003
+Exxon Mobil,"21,510.0",2,"213,199.0",2004
+General Motors,"3,822.0",3,"195,645.2",2004
+Ford Motor,495.0,4,"164,496.0",2004
+General Electric,"15,002.0",5,"134,187.0",2004
+ChevronTexaco,"7,230.0",6,"112,937.0",2004
+ConocoPhillips,"4,735.0",7,"99,468.0",2004
+Citigroup,"17,853.0",8,"94,713.0",2004
+Intl. Business Machines,"7,583.0",9,"89,131.0",2004
+American Intl. Group,"9,274.2",10,"81,300.0",2004
+Hewlett-Packard,"2,539.0",11,"73,061.0",2004
+Verizon Communications,"3,077.0",12,"67,752.0",2004
+Home Depot,"4,304.0",13,"64,816.0",2004
+Berkshire Hathaway,"8,151.0",14,"63,859.0",2004
+Wal-Mart Stores,"10,267.0",1,"288,189.0",2005
+Dana,79.6,98,"5,460.1",1994
+Gillette,288.3,99,"5,410.8",1994
+American Cyanamid,"-1,118.5",100,"5,305.6",1994
+Chase Manhattan Corp.,"1,294.0",74,"12,685.0",1995
+Sprint,888.2,75,"12,661.8",1995
+Ameritech,"-1,063.0",76,"12,569.5",1995
+Home Depot,604.5,77,"12,476.7",1995
+McKesson,136.2,78,"12,428.2",1995
+ConocoPhillips,484.0,79,"12,367.0",1995
+Delta Air Lines,-409.0,80,"12,359.0",1995
+Goodyear Tire & Rubber,567.0,81,"12,288.2",1995
+May Dept. Stores,782.0,82,"12,223.0",1995
+IBP,182.3,83,"12,075.4",1995
+Honeywell Intl.,875.0,73,"14,346.0",1996
+McDonnell Douglas,-416.0,74,"14,332.0",1996
+Georgia-Pacific,"1,018.0",75,"14,292.0",1996
+J.P. Morgan,"1,296.0",76,"13,838.0",1996
+Digital Equipment,121.8,77,"13,813.1",1996
+Kimberly-Clark,33.2,78,"13,788.6",1996
+Bristol-Myers Squibb,"1,812.0",79,"13,767.0",1996
+Sprint,395.3,80,"13,599.5",1996
+ConocoPhillips,469.0,81,"13,521.0",1996
+Lehman Brothers Hldgs.,242.0,82,"13,476.0",1996
+Nabisco Group Holdings,611.0,66,"17,063.0",1997
+Aetna,651.0,67,"16,900.2",1997
+Caterpillar,"1,361.0",68,"16,522.0",1997
+Fleming,26.7,69,"16,486.7",1997
+Supervalu,166.4,70,"16,486.3",1997
+UAL,533.0,71,"16,362.0",1997
+Eastman Kodak,"1,288.0",72,"15,968.0",1997
+J.P. Morgan,"1,574.0",73,"15,866.0",1997
+ConocoPhillips,"1,303.0",74,"15,807.0",1997
+Federated Dept. Stores,265.9,75,"15,229.0",1997
+Bristol-Myers Squibb,"2,850.0",76,"15,065.0",1997
+Ameritech,"2,134.0",77,"14,917.0",1997
+Digital Equipment,-111.8,78,"14,562.8",1997
+BellSouth,"3,261.0",56,"20,561.0",1998
+Enron,105.0,57,"20,273.0",1998
+International Paper,-151.0,58,"20,096.0",1998
+Cigna,"1,086.0",59,"20,038.0",1998
+Dow Chemical,"1,808.0",60,"20,018.0",1998
+Sara Lee,"1,009.0",61,"19,734.0",1998
+MCI Communications,2.0,62,"19,653.0",1998
+New York Life Insurance,752.9,68,"19,848.9",1999
+Raytheon,379.0,69,"19,681.0",1999
+International Paper,864.0,70,"19,530.0",1999
+AMR,213.0,71,"19,500.0",1999
+American Express,"1,314.0",72,"19,205.0",1999
+Coca-Cola,"2,141.0",73,"19,132.0",1999
+Columbia/HCA Healthcare,"3,533.0",74,"18,813.0",1999
+Dow Chemical,"1,310.0",75,"18,441.0",1999
+J.P. Morgan,963.0,76,"18,425.0",1999
+United Parcel Service,883.0,46,"27,052.0",2000
+Allstate,"2,720.0",47,"26,959.0",2000
+Prudential Financial,813.0,48,"26,618.0",2000
+Aetna,716.9,49,"26,452.7",2000
+Bank One Corp.,"3,479.0",50,"25,986.0",2000
+Marathon Oil,698.0,51,"25,610.0",2000
+Lockheed Martin,382.0,52,"25,530.0",2000
+MetLife,617.0,53,"25,426.0",2000
+MetLife,953.0,47,"31,947.0",2001
+Dell,"2,177.0",48,"31,888.0",2001
+Ingram Micro,226.2,49,"30,715.1",2001
+Freddie Mac,"2,547.0",50,"30,000.0",2001
+Cardinal Health,679.7,51,"29,870.6",2001
+Albertson's,501.0,38,"37,931.0",2002
+Berkshire Hathaway,795.0,39,"37,668.0",2002
+Kmart Holding,-95.0,40,"36,910.0",2002
+Freddie Mac,"4,147.0",41,"35,523.0",2002
+MCI WorldCom,"1,501.0",42,"35,179.0",2002
+Marathon Oil,157.0,43,"35,041.0",2002
+State Farm Insurance Cos,"-2,795.5",21,"49,653.7",2003
+AT&T,"-13,082.2",22,"46,727.0",2003
+Bank of America Corp.,"9,249.0",23,"45,732.0",2003
+AmerisourceBergen,344.9,24,"45,234.8",2003
+Target,"1,654.0",25,"43,917.0",2003
+J.P. Morgan Chase & Co.,"1,663.0",26,"43,372.0",2003
+SBC Communications,"5,653.0",27,"43,138.0",2003
+Berkshire Hathaway,"4,286.0",28,"42,353.0",2003
+Time Warner,"-98,696.0",29,"41,780.0",2003
+Sears Roebuck,"1,376.0",30,"41,366.0",2003
+Procter & Gamble,"4,352.0",31,"40,238.0",2003
+Freddie Mac,"5,764.0",32,"39,663.0",2003
+Altria Group,"9,204.0",15,"60,704.0",2004
+McKesson,555.4,16,"57,129.2",2004
+Cardinal Health,"1,405.8",17,"56,829.5",2004
+State Farm Insurance Cos,"2,825.9",18,"56,064.6",2004
+Kroger,314.6,19,"53,790.8",2004
+Fannie Mae,"7,904.9",20,"53,766.9",2004
+Boeing,698.0,21,"50,485.0",2004
+AmerisourceBergen,441.2,22,"49,657.3",2004
+Target,"1,841.0",23,"48,163.0",2004
+Bank of America Corp.,"10,810.0",24,"48,065.0",2004
+Pfizer,"3,910.0",25,"45,950.0",2004
+Exxon Mobil,"25,330.0",2,"270,772.0",2005
+General Motors,"2,805.0",3,"193,517.0",2005
+Ford Motor,"3,487.0",4,"172,233.0",2005
+General Electric,"16,593.0",5,"152,363.0",2005
+ChevronTexaco,"13,328.0",6,"147,967.0",2005
+ConocoPhillips,"8,129.0",7,"121,663.0",2005
+Citigroup,"17,046.0",8,"108,276.0",2005
+American Intl. Group,"11,050.0",9,"98,610.0",2005
+Intl. Business Machines,"8,430.0",10,"96,293.0",2005
+Hewlett-Packard,"3,497.0",11,"79,905.0",2005
+New York Life Insurance,404.3,84,"12,066.6",1995
+Anheuser-Busch,"1,032.1",85,"12,053.8",1995
+Bristol-Myers Squibb,"1,842.0",86,"11,983.6",1995
+J.P. Morgan,"1,215.0",87,"11,915.0",1995
+Albertson's,400.4,88,"11,894.6",1995
+SBC Communications,"1,648.7",89,"11,618.5",1995
+Intel,"2,288.0",90,"11,521.0",1995
+"MediaOne Group, Inc.","1,426.0",91,"11,506.0",1995
+Archer Daniels Midland,484.1,92,"11,374.4",1995
+CVS,307.5,93,"11,285.6",1995
+Rockwell Automation,634.1,94,"11,204.7",1995
+Chase Manhattan Corp.,"1,205.0",95,"11,187.0",1995
+Verizon Communications,"1,858.3",83,"13,429.5",1996
+Ameritech,"2,007.6",84,"13,427.8",1996
+Nynex,"-1,849.9",85,"13,406.9",1996
+Wyeth,"1,680.4",86,"13,376.1",1996
+McKesson,404.5,87,"13,325.5",1996
+Goodyear Tire & Rubber,611.0,88,"13,165.9",1996
+Texas Instruments,"1,088.0",89,"13,128.0",1996
+Rockwell Automation,742.0,90,"13,009.0",1996
+Rockwell Automation,726.0,79,"14,343.0",1997
+Lehman Brothers Hldgs.,416.0,80,"14,260.0",1997
+3M,"1,526.0",81,"14,236.0",1997
+Sprint,"1,183.8",82,"14,234.9",1997
+Wyeth,"1,883.4",83,"14,088.3",1997
+Honeywell Intl.,"1,020.0",84,"13,971.0",1997
+SBC Communications,"2,101.0",85,"13,898.2",1997
+College Retirement Equities Fund,N.A.,86,"13,864.6",1997
+McDonnell Douglas,788.0,87,"13,834.0",1997
+Teachers Insurance & Annuity Assn.,934.5,88,"13,828.1",1997
+Albertson's,493.8,89,"13,776.7",1997
+McKesson,135.4,90,"13,718.8",1997
+Nynex,"1,477.0",91,"13,453.8",1997
+Loews,793.6,63,"19,647.8",1998
+Atlantic Richfield,"1,771.0",64,"19,272.0",1998
+American Stores,280.6,65,"19,138.9",1998
+Caterpillar,"1,665.0",66,"18,925.0",1998
+New York Life Insurance,650.7,67,"18,899.3",1998
+Coca-Cola,"4,129.0",68,"18,868.0",1998
+Columbia/HCA Healthcare,-305.0,69,"18,819.0",1998
+AMR,985.0,70,"18,570.0",1998
+Aetna,901.1,71,"18,540.2",1998
+Xerox,"1,452.0",72,"18,166.0",1998
+American Express,"1,991.0",73,"17,760.0",1998
+Bristol-Myers Squibb,"3,141.2",77,"18,283.6",1999
+Dell,"1,460.0",78,"18,243.0",1999
+Freddie Mac,"1,700.0",79,"18,048.0",1999
+MCI WorldCom,"-2,669.0",80,"17,678.0",1999
+Duke Energy,"1,252.0",81,"17,610.0",1999
+UAL,821.0,82,"17,561.0",1999
+AutoNation,499.5,83,"17,487.3",1999
+UnitedHealth Group,-166.0,84,"17,355.0",1999
+Halliburton,-14.7,85,"17,353.1",1999
+Goldman Sachs Group,"2,708.0",54,"25,363.0",2000
+GTE,"4,032.8",55,"25,336.2",2000
+Dell,"1,666.0",56,"25,265.0",2000
+United Technologies,"1,531.0",57,"25,242.0",2000
+BellSouth,"3,448.0",58,"25,224.0",2000
+Cardinal Health,456.3,59,"25,033.6",2000
+ConAgra Foods,358.4,60,"24,594.3",2000
+International Paper,183.0,61,"24,573.0",2000
+Freddie Mac,"2,223.0",62,"24,268.0",2000
+AutoNation,282.9,63,"24,206.6",2000
+Berkshire Hathaway,"1,557.0",64,"24,028.0",2000
+Honeywell Intl.,"1,541.0",65,"23,735.0",2000
+Walt Disney,"1,300.0",66,"23,402.0",2000
+United Parcel Service,"2,934.0",52,"29,771.0",2001
+Pfizer,"3,726.0",53,"29,574.0",2001
+Dynegy,500.5,54,"29,444.9",2001
+CenterPoint Energy,447.5,55,"29,339.0",2001
+DuPont,"2,314.0",56,"29,202.0",2001
+Johnson & Johnson,"4,800.0",57,"29,139.0",2001
+Delphi,"1,062.0",57,"29,139.0",2001
+Allstate,"2,211.0",59,"29,134.0",2001
+Aquila,206.8,60,"28,974.9",2001
+International Paper,142.0,61,"28,180.0",2001
+Wells Fargo,"4,026.0",62,"27,568.0",2001
+Costco Wholesale,602.1,44,"34,797.0",2002
+Safeway,"1,253.9",45,"34,301.0",2002
+Compaq Computer,-785.0,46,"33,554.0",2002
+Johnson & Johnson,"5,668.0",47,"33,004.0",2002
+Conoco,"1,589.0",48,"32,795.0",2002
+Pfizer,"7,788.0",49,"32,259.0",2002
+J.C. Penney,98.0,50,"32,004.0",2002
+MetLife,473.0,51,"31,928.0",2002
+Mirant,568.0,52,"31,502.0",2002
+Dell,"1,246.0",53,"31,168.0",2002
+Costco Wholesale,700.0,33,"38,762.5",2003
+Johnson & Johnson,"6,597.0",34,"36,298.0",2003
+Albertson's,485.0,35,"35,916.0",2003
+Dell,"2,122.0",36,"35,404.0",2003
+Pfizer,"9,126.0",37,"35,281.0",2003
+MetLife,"1,605.0",38,"34,055.0",2003
+Kmart Holding,"-3,691.0",39,"32,765.0",2003
+Morgan Stanley,"2,988.0",40,"32,415.0",2003
+Safeway,-828.1,41,"32,399.2",2003
+J.C. Penney,405.0,42,"32,347.0",2003
+J.P. Morgan Chase & Co.,"6,719.0",26,"44,363.0",2004
+Time Warner,"2,639.0",27,"43,877.0",2004
+Procter & Gamble,"5,186.0",28,"43,377.0",2004
+Costco Wholesale,721.0,29,"42,545.6",2004
+Johnson & Johnson,"7,197.0",30,"41,862.0",2004
+Dell,"2,645.0",31,"41,444.0",2004
+Sears Roebuck,"3,397.0",32,"41,124.0",2004
+SBC Communications,"8,505.0",33,"40,843.0",2004
+Valero Energy,621.5,34,"37,968.6",2004
+Marathon Oil,"1,321.0",35,"37,137.0",2004
+MetLife,"2,217.0",36,"36,261.0",2004
+Safeway,-169.8,37,"35,552.7",2004
+Albertson's,556.0,38,"35,436.0",2004
+Morgan Stanley,"3,787.0",39,"34,933.0",2004
+AT&T,"1,865.0",40,"34,529.0",2004
+Berkshire Hathaway,"7,308.0",12,"74,382.0",2005
+Home Depot,"5,001.0",13,"73,094.0",2005
+Verizon Communications,"7,830.7",14,"71,563.3",2005
+McKesson,646.5,15,"69,506.1",2005
+Cardinal Health,"1,474.5",16,"65,130.6",2005
+Altria Group,"9,416.0",17,"64,440.0",2005
+Bank of America Corp.,"14,143.0",18,"63,324.0",2005
+State Farm Insurance Cos,"5,308.6",19,"58,818.9",2005
+J.P. Morgan Chase & Co.,"4,466.0",20,"56,931.0",2005
+Nationwide,445.3,96,"11,183.1",1995
+Columbia/HCA Healthcare,630.0,97,"11,132.0",1995
+Winn-Dixie Stores,216.1,98,"11,082.2",1995
+Sysco,216.8,99,"10,942.5",1995
+Compaq Computer,867.0,100,"10,866.0",1995
+Aetna,251.7,91,"12,978.0",1996
+Archer Daniels Midland,795.9,92,"12,671.9",1996
+SBC Communications,-930.0,93,"12,669.7",1996
+IBP,257.9,94,"12,667.6",1996
+Alcoa,790.5,95,"12,654.9",1996
+Albertson's,465.0,96,"12,585.0",1996
+Anheuser-Busch,642.3,97,"12,325.5",1996
+Delta Air Lines,408.0,98,"12,194.0",1996
+May Dept. Stores,752.0,99,"12,187.0",1996
+Hartford Financial Services,559.0,100,"12,150.0",1996
+Sysco,276.9,92,"13,395.1",1997
+Archer Daniels Midland,695.9,93,"13,314.0",1997
+Enron,584.0,94,"13,289.0",1997
+Kimberly-Clark,"1,403.8",95,"13,149.1",1997
+Morgan Stanley Group,"1,029.0",96,"13,144.0",1997
+Alcoa,514.9,97,"13,128.4",1997
+Goodyear Tire & Rubber,101.7,98,"13,112.8",1997
+Verizon Communications,"1,881.5",99,"13,081.4",1997
+Georgia-Pacific,156.0,100,"13,024.0",1997
+J.P. Morgan,"1,465.0",74,"17,701.0",1998
+UAL,949.0,75,"17,378.0",1998
+Nabisco Group Holdings,381.0,76,"17,057.0",1998
+Lehman Brothers Hldgs.,647.0,77,"16,883.0",1998
+Bristol-Myers Squibb,"3,204.7",78,"16,701.2",1998
+Ingram Micro,193.6,79,"16,581.5",1998
+Supervalu,175.0,80,"16,551.9",1998
+Duke Energy,974.4,81,"16,308.9",1998
+Ameritech,"2,296.0",82,"15,998.0",1998
+Supervalu,230.8,86,"17,201.4",1999
+Ameritech,"3,606.0",87,"17,154.0",1999
+Sprint,414.5,88,"17,134.3",1999
+Nabisco Group Holdings,-577.0,89,"17,037.0",1999
+Electronic Data Systems,743.4,90,"16,891.0",1999
+Archer Daniels Midland,403.6,91,"16,108.6",1999
+Albertson's,567.2,92,"16,005.1",1999
+Cardinal Health,247.1,93,"15,918.1",1999
+FedEx,503.0,94,"15,872.8",1999
+Federated Dept. Stores,662.0,95,"15,833.0",1999
+Alcoa,853.0,96,"15,489.4",1999
+Sysco,296.8,97,"15,327.5",1999
+Wachovia Corp.,"3,223.0",67,"22,084.0",2000
+Wells Fargo,"3,747.0",68,"21,795.0",2000
+Duke Energy,"1,507.0",69,"21,742.0",2000
+New York Life Insurance,554.8,70,"21,679.3",2000
+American Express,"2,475.0",71,"21,278.0",2000
+Loews,363.2,72,"20,952.6",2000
+PG&E Corp.,-73.0,73,"20,820.0",2000
+Conoco,744.0,74,"20,817.0",2000
+Cigna,"1,774.0",75,"20,644.0",2000
+PepsiCo,"2,050.0",76,"20,367.0",2000
+AMR,985.0,77,"20,262.0",2000
+Bristol-Myers Squibb,"4,167.0",78,"20,222.0",2000
+Aetna,127.1,63,"26,818.9",2001
+United Technologies,"1,808.0",64,"26,583.0",2001
+Lehman Brothers Hldgs.,"1,775.0",65,"26,447.0",2001
+BellSouth,"4,220.0",66,"26,151.0",2001
+Walt Disney,920.0,67,"25,402.0",2001
+ConAgra Foods,413.0,68,"25,385.8",2001
+Lockheed Martin,-519.0,69,"25,329.0",2001
+Bank One Corp.,-511.0,70,"25,168.0",2001
+Honeywell Intl.,"1,659.0",71,"25,023.0",2001
+Tosco,529.4,72,"24,545.0",2001
+Wachovia Corp.,92.0,73,"24,246.0",2001
+Goldman Sachs Group,"2,310.0",54,"31,138.0",2002
+United Parcel Service,"2,399.0",55,"30,646.0",2002
+Motorola,"-3,937.0",56,"30,004.0",2002
+Allstate,"1,158.0",57,"28,865.0",2002
+TXU,677.0,58,"27,927.0",2002
+United Technologies,"1,938.0",59,"27,897.0",2002
+Dow Chemical,-385.0,60,"27,805.0",2002
+ConAgra Foods,638.0,61,"27,194.2",2002
+Prudential Financial,-154.0,62,"27,177.0",2002
+PepsiCo,"2,662.0",63,"26,935.0",2002
+United Parcel Service,"3,182.0",43,"31,272.0",2003
+Allstate,"1,134.0",44,"29,579.0",2003
+Walgreen,"1,019.2",45,"28,681.1",2003
+Wells Fargo,"5,434.0",46,"28,473.0",2003
+Microsoft,"7,829.0",47,"28,365.0",2003
+Merrill Lynch,"2,513.0",48,"28,253.0",2003
+United Technologies,"2,236.0",49,"28,212.0",2003
+ConAgra Foods,783.0,50,"27,629.6",2003
+Dow Chemical,-338.0,51,"27,609.0",2003
+Marathon Oil,516.0,52,"27,470.0",2003
+Delphi,343.0,53,"27,427.0",2003
+Sprint,630.0,54,"27,180.0",2003
+Valero Energy,91.5,55,"26,976.3",2003
+Medco Health Solutions,425.8,41,"34,264.5",2004
+United Parcel Service,"2,898.0",42,"33,485.0",2004
+J.C. Penney,-928.0,43,"32,923.0",2004
+Dow Chemical,"1,730.0",44,"32,632.0",2004
+Walgreen,"1,175.7",45,"32,505.4",2004
+Microsoft,"9,993.0",46,"32,187.0",2004
+Allstate,"2,705.0",47,"32,149.0",2004
+Lockheed Martin,"1,053.0",48,"31,844.0",2004
+Wells Fargo,"6,202.0",49,"31,800.0",2004
+Lowe's,"1,877.0",50,"31,263.0",2004
+Kroger,-128.0,21,"56,434.4",2005
+Valero Energy,"1,803.8",22,"53,918.6",2005
+AmerisourceBergen,468.4,23,"53,179.0",2005
+Pfizer,"11,361.0",24,"52,921.0",2005
+Boeing,"1,872.0",25,"52,553.0",2005
+Procter & Gamble,"6,481.0",26,"51,407.0",2005
+Target,"3,198.0",27,"49,934.0",2005
+Dell,"3,043.0",28,"49,205.0",2005
+Costco Wholesale,882.4,29,"48,107.0",2005
+Johnson & Johnson,"8,509.0",30,"47,348.0",2005
+Marathon Oil,"1,261.0",31,"45,444.0",2005
+Time Warner,"3,364.0",32,"42,869.0",2005
+SBC Communications,"5,887.0",33,"41,098.0",2005
+Federated Dept. Stores,536.0,83,"15,668.3",1998
+ConocoPhillips,959.0,84,"15,424.0",1998
+PG&E Corp.,716.0,85,"15,399.9",1998
+Fleming,25.4,86,"15,372.7",1998
+"MediaOne Group, Inc.",697.0,87,"15,352.0",1998
+Electronic Data Systems,730.6,88,"15,235.6",1998
+3M,"2,121.0",89,"15,070.0",1998
+Sprint,952.5,90,"14,873.9",1998
+Eastman Kodak,5.0,91,"14,713.0",1998
+Albertson's,516.8,92,"14,689.5",1998
+Honeywell Intl.,"1,170.0",93,"14,472.0",1998
+Sysco,302.5,94,"14,454.6",1998
+Freddie Mac,"1,395.0",95,"14,399.0",1998
+Walgreen,511.0,98,"15,307.0",1999
+CVS,396.4,99,"15,273.6",1999
+Honeywell Intl.,"1,331.0",100,"15,128.0",1999
+Sara Lee,"1,191.0",79,"20,012.0",2000
+FleetBoston Financial,"2,038.0",80,"20,000.0",2000
+Sprint,-935.0,81,"19,930.0",2000
+Raytheon,404.0,82,"19,841.0",2000
+Coca-Cola,"2,431.0",83,"19,805.0",2000
+Microsoft,"7,785.0",84,"19,747.0",2000
+Caterpillar,946.0,85,"19,702.0",2000
+UnitedHealth Group,568.0,86,"19,562.0",2000
+Xerox,"1,424.0",87,"19,228.0",2000
+Lehman Brothers Hldgs.,"1,132.0",88,"18,989.0",2000
+American Express,"2,810.0",74,"23,675.0",2001
+Sprint,93.0,75,"23,613.0",2001
+Southern,"1,313.0",76,"23,381.0",2001
+Alcoa,"1,484.0",77,"23,090.0",2001
+Dow Chemical,"1,513.0",78,"23,008.0",2001
+Microsoft,"9,421.0",79,"22,956.0",2001
+Prudential Financial,189.3,80,"22,759.9",2001
+FleetBoston Financial,"3,420.0",81,"22,608.0",2001
+PG&E Corp.,161.0,82,"22,483.0",2001
+AutoNation,329.9,83,"22,330.8",2001
+Georgia-Pacific,505.0,84,"22,218.0",2001
+Wells Fargo,"3,423.0",64,"26,891.0",2002
+Intel,"1,291.0",65,"26,539.0",2002
+International Paper,"-1,204.0",66,"26,363.0",2002
+Delphi,-370.0,67,"26,088.0",2002
+Sprint,"-1,401.0",68,"26,071.0",2002
+New York Life Insurance,"1,086.0",69,"25,678.2",2002
+DuPont,"4,339.0",70,"25,370.0",2002
+Georgia-Pacific,-407.0,71,"25,309.0",2002
+Microsoft,"7,346.0",72,"25,296.0",2002
+Walt Disney,-158.0,73,"25,269.0",2002
+Aetna,-279.6,74,"25,190.8",2002
+Ingram Micro,6.7,75,"25,186.9",2002
+Lucent Technologies,"-16,198.0",76,"25,132.0",2002
+Lockheed Martin,500.0,56,"26,806.0",2003
+Prudential Financial,194.0,57,"26,797.0",2003
+Intel,"3,117.0",58,"26,764.0",2003
+Motorola,"-2,485.0",59,"26,679.0",2003
+Lowe's,"1,471.5",60,"26,490.9",2003
+Walt Disney,"1,236.0",61,"25,329.0",2003
+PepsiCo,"3,313.0",62,"25,112.0",2003
+UnitedHealth Group,"1,352.0",63,"25,020.0",2003
+International Paper,-880.0,64,"24,976.0",2003
+New York Life Insurance,423.5,65,"24,720.7",2003
+Viacom,725.7,66,"24,605.7",2003
+United Technologies,"2,361.0",51,"31,034.0",2004
+Archer Daniels Midland,451.1,52,"30,708.0",2004
+Intel,"5,641.0",53,"30,141.0",2004
+UnitedHealth Group,"1,825.0",54,"28,823.0",2004
+Northrop Grumman,866.0,55,"28,686.0",2004
+Delphi,-56.0,56,"28,096.0",2004
+Prudential Financial,"1,264.0",57,"27,907.0",2004
+Merrill Lynch,"3,988.0",58,"27,745.0",2004
+DuPont,973.0,59,"27,730.0",2004
+Walt Disney,"1,267.0",60,"27,061.0",2004
+Dow Chemical,"2,797.0",34,"40,161.0",2005
+Albertson's,444.0,35,"40,052.0",2005
+Morgan Stanley,"4,486.0",36,"39,549.0",2005
+MetLife,"2,758.0",37,"39,535.0",2005
+Walgreen,"1,360.2",38,"37,508.2",2005
+United Technologies,"2,788.0",39,"37,445.0",2005
+UnitedHealth Group,"2,587.0",40,"37,218.0",2005
+Microsoft,"8,168.0",41,"36,835.0",2005
+United Parcel Service,"3,333.0",42,"36,582.0",2005
+Lowe's,"2,176.0",43,"36,464.0",2005
+Archer Daniels Midland,494.7,44,"36,151.4",2005
+Sears Roebuck,-507.0,45,"36,099.0",2005
+Safeway,560.2,46,"35,822.9",2005
+Wachovia Corp.,"1,896.0",96,"14,329.0",1998
+Massey Energy,146.2,97,"14,298.5",1998
+Wyeth,"2,043.1",98,"14,196.0",1998
+Archer Daniels Midland,377.3,99,"13,853.3",1998
+Raytheon,526.8,100,"13,673.5",1998
+Dow Chemical,"1,331.0",89,"18,929.0",2000
+Aquila,160.5,90,"18,621.5",2000
+Electronic Data Systems,420.9,91,"18,534.2",2000
+J.P. Morgan,"2,055.0",92,"18,110.0",2000
+CVS,635.1,93,"18,098.3",2000
+UAL,"1,235.0",94,"18,027.0",2000
+Walgreen,624.1,95,"17,838.8",2000
+Georgia-Pacific,716.0,96,"17,796.0",2000
+Federated Dept. Stores,795.0,97,"17,716.0",2000
+Sysco,362.3,98,"17,422.8",2000
+Supervalu,191.3,99,"17,420.5",2000
+Bergen Brunswig,70.6,100,"17,244.9",2000
+TXU,916.0,85,"22,009.0",2001
+El Paso,652.0,86,"21,950.0",2001
+New York Life Insurance,"1,205.5",87,"21,450.4",2001
+Bristol-Myers Squibb,"4,711.0",88,"21,331.0",2001
+ConocoPhillips,"1,862.0",89,"21,227.0",2001
+Walgreen,776.9,90,"21,206.9",2001
+UnitedHealth Group,736.0,91,"21,122.0",2001
+Loews,"1,876.7",92,"20,669.9",2001
+Lockheed Martin,"-1,046.0",77,"24,793.0",2002
+Walgreen,885.6,78,"24,623.0",2002
+Bank One Corp.,"2,638.0",79,"24,527.0",2002
+TIAA-CREF,585.2,80,"24,230.6",2002
+ConocoPhillips,"1,661.0",81,"24,189.0",2002
+BellSouth,"2,570.0",82,"24,130.0",2002
+Honeywell Intl.,-99.0,83,"23,652.0",2002
+UnitedHealth Group,913.0,84,"23,454.0",2002
+Viacom,-223.5,85,"23,222.8",2002
+Supervalu,82.0,86,"23,194.3",2002
+PG&E Corp.,"1,099.0",87,"22,959.0",2002
+Alcoa,908.0,88,"22,859.0",2002
+DuPont,"-1,103.0",67,"24,522.0",2003
+CVS,716.6,68,"24,181.5",2003
+American Express,"2,671.0",69,"23,807.0",2003
+Wachovia Corp.,"3,579.0",70,"23,591.0",2003
+Archer Daniels Midland,511.1,71,"23,453.6",2003
+Tyson Foods,383.0,72,"23,367.0",2003
+Sysco,679.8,73,"23,350.5",2003
+Georgia-Pacific,-735.0,74,"23,271.0",2003
+Goldman Sachs Group,"2,114.0",75,"22,854.0",2003
+Ingram Micro,-275.2,76,"22,459.3",2003
+BellSouth,"1,423.0",77,"22,440.0",2003
+Motorola,893.0,61,"27,058.0",2004
+PepsiCo,"3,568.0",62,"26,971.0",2004
+CVS,847.3,63,"26,588.0",2004
+Viacom,"1,416.9",64,"26,585.3",2004
+Sprint,"1,215.0",65,"26,202.0",2004
+Sysco,778.3,66,"26,140.3",2004
+Kmart Holding,"-1,991.0",67,"26,032.0",2004
+TIAA-CREF,514.3,68,"26,016.2",2004
+American Express,"2,987.0",69,"25,866.0",2004
+New York Life Insurance,695.0,70,"25,699.7",2004
+Lockheed Martin,"1,266.0",47,"35,526.0",2005
+Medco Health Solutions,481.6,48,"35,351.9",2005
+Motorola,"1,532.0",49,"35,349.0",2005
+Intel,"7,516.0",50,"34,209.0",2005
+Allstate,"3,181.0",51,"33,936.0",2005
+Wells Fargo,"7,014.0",52,"33,876.0",2005
+Merrill Lynch,"4,436.0",53,"32,467.0",2005
+Walt Disney,"2,345.0",54,"30,752.0",2005
+CVS,918.8,55,"30,594.3",2005
+AT&T,"-6,469.0",56,"30,537.0",2005
+Caterpillar,"2,035.0",57,"30,251.0",2005
+Northrop Grumman,"1,084.0",58,"29,868.0",2005
+Goldman Sachs Group,"4,553.0",59,"29,839.0",2005
+Coca-Cola,"2,177.0",93,"20,458.0",2001
+PepsiCo,"2,183.0",94,"20,438.0",2001
+Tech Data,178.0,95,"20,427.7",2001
+Sara Lee,"1,222.0",96,"20,414.0",2001
+Supervalu,242.9,97,"20,339.1",2001
+AMR,813.0,98,"20,245.0",2001
+Caterpillar,"1,053.0",99,"20,175.0",2001
+CVS,746.0,100,"20,087.5",2001
+American Express,"1,311.0",89,"22,582.0",2002
+Wachovia Corp.,"1,619.0",90,"22,396.0",2002
+Lehman Brothers Hldgs.,"1,255.0",91,"22,392.0",2002
+Cisco Systems,"-1,014.0",92,"22,293.0",2002
+CVS,413.2,93,"22,241.4",2002
+Lowe's,"1,023.3",94,"22,111.1",2002
+Sysco,596.9,95,"21,784.5",2002
+Bristol-Myers Squibb,"5,245.0",96,"21,717.0",2002
+Electronic Data Systems,"1,363.0",97,"21,543.0",2002
+Caterpillar,805.0,98,"20,450.0",2002
+Honeywell Intl.,-220.0,78,"22,274.0",2003
+Bank One Corp.,"3,295.0",79,"22,171.0",2003
+Electronic Data Systems,"1,116.0",80,"21,782.0",2003
+Supervalu,198.3,81,"20,908.5",2003
+Alcoa,420.0,82,"20,618.0",2003
+FedEx,710.0,83,"20,607.0",2003
+Mass. Mutual Life Ins.,"1,430.0",84,"20,247.1",2003
+Caterpillar,798.0,85,"20,152.0",2003
+Johnson Controls,600.5,86,"20,103.4",2003
+Cigna,-398.0,87,"19,915.0",2003
+Aetna,"-2,522.5",88,"19,878.7",2003
+TIAA-CREF,-136.8,89,"19,791.0",2003
+HCA,833.0,90,"19,729.0",2003
+International Paper,302.0,71,"25,200.0",2004
+Tyson Foods,337.0,72,"24,549.0",2004
+Wachovia Corp.,"4,624.0",73,"24,474.0",2004
+Goldman Sachs Group,"3,005.0",74,"23,623.0",2004
+Duke Energy,"-1,323.0",75,"23,483.0",2004
+Honeywell Intl.,"1,324.0",76,"23,103.0",2004
+Caterpillar,"1,099.0",77,"22,763.0",2004
+Best Buy,99.0,78,"22,673.0",2004
+Johnson Controls,682.9,79,"22,646.0",2004
+BellSouth,"3,904.0",80,"22,635.0",2004
+Sysco,907.2,60,"29,335.4",2005
+PepsiCo,"4,212.0",61,"29,261.0",2005
+American Express,"3,445.0",62,"29,115.0",2005
+Delphi,-36.0,63,"28,700.0",2005
+Prudential Financial,"2,256.0",64,"28,348.0",2005
+Wachovia Corp.,"5,214.0",65,"28,067.0",2005
+DuPont,"1,780.0",66,"27,995.0",2005
+Sprint,"-1,012.0",67,"27,428.0",2005
+New York Life Insurance,"1,213.3",68,"27,175.5",2005
+Viacom,"-17,462.2",69,"27,054.8",2005
+International Paper,-35.0,70,"26,722.0",2005
+Johnson Controls,817.5,71,"26,553.4",2005
+Coca-Cola,"3,969.0",99,"20,092.0",2002
+Archer Daniels Midland,383.3,100,"20,051.4",2002
+Best Buy,570.0,91,"19,597.0",2003
+Coca-Cola,"3,050.0",92,"19,564.0",2003
+AutoNation,381.6,93,"19,478.5",2003
+Washington Mutual,"3,896.0",94,"19,037.0",2003
+Cisco Systems,"1,893.0",95,"18,915.0",2003
+Weyerhaeuser,241.0,96,"18,521.0",2003
+Visteon,-352.0,97,"18,395.0",2003
+Bristol-Myers Squibb,"1,895.0",98,"18,119.0",2003
+Northrop Grumman,64.0,99,"17,837.0",2003
+Abbott Laboratories,"2,793.7",100,"17,684.7",2003
+Ingram Micro,149.2,81,"22,613.0",2004
+FedEx,830.0,82,"22,487.0",2004
+Merck,"6,830.9",83,"22,485.9",2004
+ConAgra Foods,774.8,84,"22,052.5",2004
+HCA,"1,332.0",85,"21,808.0",2004
+Alcoa,938.0,86,"21,728.0",2004
+Electronic Data Systems,"-1,698.0",87,"21,596.0",2004
+Bank One Corp.,"3,535.0",88,"21,454.0",2004
+Comcast,"3,240.0",89,"21,263.0",2004
+Tyson Foods,403.0,72,"26,441.0",2005
+Caremark Rx,600.3,73,"25,801.1",2005
+J.C. Penney,524.0,74,"25,678.0",2005
+Honeywell Intl.,"1,281.0",75,"25,601.0",2005
+Ingram Micro,219.9,76,"25,462.1",2005
+Best Buy,705.0,77,"24,901.0",2005
+FedEx,838.0,78,"24,710.0",2005
+Alcoa,"1,310.0",79,"23,960.0",2005
+HCA,"1,246.0",80,"23,502.0",2005
+TIAA-CREF,540.5,81,"23,411.3",2005
+Sunoco,605.0,82,"23,226.0",2005
+Mass. Mutual Life Ins.,735.0,90,"21,075.8",2004
+Coca-Cola,"4,347.0",91,"21,044.0",2004
+Bristol-Myers Squibb,"2,952.0",92,"20,671.0",2004
+WellPoint Health Networks,935.2,93,"20,359.7",2004
+Georgia-Pacific,254.0,94,"20,255.0",2004
+Weyerhaeuser,277.0,95,"19,873.0",2004
+Abbott Laboratories,"2,753.2",96,"19,680.6",2004
+AutoNation,479.2,97,"19,381.1",2004
+Williams,-504.5,98,"19,245.7",2004
+Supervalu,257.0,99,"19,160.4",2004
+Cisco Systems,"3,578.0",100,"18,878.0",2004
+Mass. Mutual Life Ins.,677.0,83,"23,159.2",2005
+Merck,"5,813.4",84,"22,938.6",2005
+St. Paul Travelers Cos.,955.0,85,"22,934.0",2005
+Duke Energy,"1,490.0",86,"22,779.0",2005
+BellSouth,"4,758.0",87,"22,729.0",2005
+Hartford Financial Services,"2,115.0",88,"22,693.0",2005
+Weyerhaeuser,"1,283.0",89,"22,665.0",2005
+MCI,"-4,002.0",90,"22,615.0",2005
+Cisco Systems,"4,401.0",91,"22,045.0",2005
+Coca-Cola,"4,847.0",92,"21,962.0",2005
+Bristol-Myers Squibb,"2,388.0",93,"21,886.0",2005
+Lehman Brothers Hldgs.,"2,369.0",94,"21,250.0",2005
+Electronic Data Systems,158.0,95,"21,033.0",2005
+Plains All Amer. Pipeline,130.0,96,"20,975.5",2005
+Wellpoint,960.1,97,"20,815.1",2005
+News Corp.,"1,533.0",98,"20,802.0",2005
+Nationwide,"1,010.0",99,"20,558.0",2005
+Abbott Laboratories,"3,235.9",100,"20,473.1",2005

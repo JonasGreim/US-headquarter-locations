@@ -1,5 +1,4 @@
 import scrapy
-from ..itemsSP500 import TopUsCompaniesSP500Item
 import json
 
 
