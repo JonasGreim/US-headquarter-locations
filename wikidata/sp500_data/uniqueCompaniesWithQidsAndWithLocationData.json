@@ -1,0 +1,345 @@
+[
+    {
+        "companyName":"Exxon Mobil",
+        "searchQueryCompanyName":"Exxon Mobil",
+        "wikiDataName":"ExxonMobil",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q156238",
+        "headquarterCoordinates":"Point(-95.3869 30.0542)"
+    },
+    {
+        "companyName":"IBM",
+        "searchQueryCompanyName":"IBM Corporation",
+        "wikiDataName":"IBM",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q37156",
+        "headquarterCoordinates":"Point(-73.707777777 41.128611111)"
+    },
+    {
+        "companyName":"Loews",
+        "searchQueryCompanyName":"Loews Corporation",
+        "wikiDataName":"Loews Corporation",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q826526",
+        "headquarterCoordinates":"Point(-74.0 40.7)"
+    },
+    {
+        "companyName":"Raytheon",
+        "searchQueryCompanyName":"Raytheon",
+        "wikiDataName":"Raytheon Company",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q156644",
+        "headquarterCoordinates":"Point(-71.235005 42.380596)"
+    },
+    {
+        "companyName":"Bristol-Myers Squibb",
+        "searchQueryCompanyName":"Bristol-Myers Squibb",
+        "wikiDataName":"Bristol-Myers Squibb",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q266423",
+        "headquarterCoordinates":"Point(-74.0 40.7)"
+    },
+    {
+        "companyName":"Merck",
+        "searchQueryCompanyName":"Merck Sharp & Dohme",
+        "wikiDataName":"Merck & Co.",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q247489",
+        "headquarterCoordinates":"Point(-75.163611111 39.952777777)"
+    },
+    {
+        "companyName":"Coca-Cola",
+        "searchQueryCompanyName":"Coca-Cola Company",
+        "wikiDataName":"The Coca-Cola Company",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q3295867",
+        "headquarterCoordinates":"Point(-84.390277777 33.756944444)"
+    },
+    {
+        "companyName":"Walmart",
+        "searchQueryCompanyName":"Walmart",
+        "wikiDataName":"Walmart",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q483551",
+        "headquarterCoordinates":"Point(-94.213333333 36.366666666)"
+    },
+    {
+        "companyName":"General Electric",
+        "searchQueryCompanyName":"General Electric Company",
+        "wikiDataName":"AEG",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q158276",
+        "headquarterCoordinates":"Point(13.383333333 52.516666666)"
+    },
+    {
+        "companyName":"Procter & Gamble",
+        "searchQueryCompanyName":"Procter & Gamble",
+        "wikiDataName":"Procter & Gamble",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q212405",
+        "headquarterCoordinates":"Point(-82.5 40.5)"
+    },
+    {
+        "companyName":"Verizon",
+        "searchQueryCompanyName":"Verizon",
+        "wikiDataName":"Verizon",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q919641",
+        "headquarterCoordinates":"Point(-74.5493 40.7062)"
+    },
+    {
+        "companyName":"Johnson & Johnson",
+        "searchQueryCompanyName":"Johnson & Johnson",
+        "wikiDataName":"Johnson & Johnson",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q333718",
+        "headquarterCoordinates":"Point(-74.444444444 40.486666666)"
+    },
+    {
+        "companyName":"Eli Lilly",
+        "searchQueryCompanyName":"Eli Lilly and Company",
+        "wikiDataName":"Eli Lilly and Company",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q632240",
+        "headquarterCoordinates":"Point(-86.158055555 39.768611111)"
+    },
+    {
+        "companyName":"3M",
+        "searchQueryCompanyName":"3M",
+        "wikiDataName":"3M",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q159433",
+        "headquarterCoordinates":"Point(-92.995277777 44.953055555)"
+    },
+    {
+        "companyName":"PepsiCo",
+        "searchQueryCompanyName":"PepsiCo Inc.",
+        "wikiDataName":"PepsiCo",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q334800",
+        "headquarterCoordinates":"Point(-73.714444444 41.040555555)"
+    },
+    {
+        "companyName":"Walt Disney",
+        "searchQueryCompanyName":"Walt Disney",
+        "wikiDataName":"The Walt Disney Company",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q7414",
+        "headquarterCoordinates":"Point(-98.5795 39.828175)"
+    },
+    {
+        "companyName":"AT&T",
+        "searchQueryCompanyName":"AT&T",
+        "wikiDataName":"AT&T",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q35476",
+        "headquarterCoordinates":"Point(-96.808888888 32.779166666)"
+    },
+    {
+        "companyName":"AIG",
+        "searchQueryCompanyName":"AIG",
+        "wikiDataName":"American International Group",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q212235",
+        "headquarterCoordinates":"Point(-74.0 40.7)"
+    },
+    {
+        "companyName":"Boeing",
+        "searchQueryCompanyName":"Boeing",
+        "wikiDataName":"Boeing",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q66",
+        "headquarterCoordinates":"Point(-87.65005 41.85003)"
+    },
+    {
+        "companyName":"DuPont",
+        "searchQueryCompanyName":"DowDuPont",
+        "wikiDataName":"DuPont",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q221062",
+        "headquarterCoordinates":"Point(-75.551388888 39.748333333)"
+    },
+    {
+        "companyName":"Pfizer",
+        "searchQueryCompanyName":"Pfizer",
+        "wikiDataName":"Pfizer",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q206921",
+        "headquarterCoordinates":"Point(-74.0 40.7)"
+    },
+    {
+        "companyName":"Microsoft",
+        "searchQueryCompanyName":"Microsoft",
+        "wikiDataName":"Microsoft",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q2283",
+        "headquarterCoordinates":"Point(-122.123888888 47.669444444)"
+    },
+    {
+        "companyName":"Altria Group",
+        "searchQueryCompanyName":"Altria",
+        "wikiDataName":"Altria",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q445007",
+        "headquarterCoordinates":"Point(-77.436666666 37.540833333)"
+    },
+    {
+        "companyName":"Home Depot",
+        "searchQueryCompanyName":"Home Depot",
+        "wikiDataName":"The Home Depot",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q864407",
+        "headquarterCoordinates":"Point(-84.390277777 33.756944444)"
+    },
+    {
+        "companyName":"Intel",
+        "searchQueryCompanyName":"Intel Corporation",
+        "wikiDataName":"Intel",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q248",
+        "headquarterCoordinates":"Point(-121.966666666 37.35)"
+    },
+    {
+        "companyName":"Chevron",
+        "searchQueryCompanyName":"Chevron",
+        "wikiDataName":"Chevron Corporation",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q319642",
+        "headquarterCoordinates":"Point(-121.978055555 37.78)"
+    },
+    {
+        "companyName":"Bank of America",
+        "searchQueryCompanyName":"Bank of America",
+        "wikiDataName":"Bank of America",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q487907",
+        "headquarterCoordinates":"Point(-80.843333333 35.226944444)"
+    },
+    {
+        "companyName":"Cisco Systems",
+        "searchQueryCompanyName":"Cisco Systems",
+        "wikiDataName":"Cisco",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q173395",
+        "headquarterCoordinates":"Point(-121.872777777 37.304166666)"
+    },
+    {
+        "companyName":"Berkshire Hathaway",
+        "searchQueryCompanyName":"Berkshire Hathaway",
+        "wikiDataName":"Berkshire Hathaway",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q217583",
+        "headquarterCoordinates":"Point(-95.9375 41.258611111)"
+    },
+    {
+        "companyName":"Citigroup",
+        "searchQueryCompanyName":"Citigroup",
+        "wikiDataName":"Citigroup",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q219508",
+        "headquarterCoordinates":"Point(-74.011 40.7207)"
+    },
+    {
+        "companyName":"Oracle",
+        "searchQueryCompanyName":"Oracle",
+        "wikiDataName":"Oracle",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q19900",
+        "headquarterCoordinates":"Point(-97.733333333 30.3)"
+    },
+    {
+        "companyName":"Qualcomm",
+        "searchQueryCompanyName":"Qualcomm",
+        "wikiDataName":"Qualcomm",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q544847",
+        "headquarterCoordinates":"Point(-117.1625 32.715)"
+    },
+    {
+        "companyName":"Paramount Global",
+        "searchQueryCompanyName":"Paramount Global",
+        "wikiDataName":"Paramount Global",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q76846862",
+        "headquarterCoordinates":"Point(-74.0 40.7)"
+    },
+    {
+        "companyName":"Wells Fargo",
+        "searchQueryCompanyName":"Wells Fargo Bank",
+        "wikiDataName":"Wells Fargo",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q744149",
+        "headquarterCoordinates":"Point(-122.416388888 37.7775)"
+    },
+    {
+        "companyName":"JPMorgan Chase",
+        "searchQueryCompanyName":"JPMorgan Chase",
+        "wikiDataName":"JPMorgan Chase",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q192314",
+        "headquarterCoordinates":"Point(-74.0 40.7)"
+    },
+    {
+        "companyName":"UPS",
+        "searchQueryCompanyName":"United Parcel Service",
+        "wikiDataName":"United Parcel Service",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q155026",
+        "headquarterCoordinates":"Point(-84.368611111 33.9375)"
+    },
+    {
+        "companyName":"Alphabet",
+        "searchQueryCompanyName":"Alphabet Inc.",
+        "wikiDataName":"Alphabet Inc.",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q20800404",
+        "headquarterCoordinates":"Point(-122.041944444 37.392777777)"
+    },
+    {
+        "companyName":"Amgen",
+        "searchQueryCompanyName":"Amgen",
+        "wikiDataName":"Amgen",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q470517",
+        "headquarterCoordinates":"Point(-118.875 34.189444444)"
+    },
+    {
+        "companyName":"Apple",
+        "searchQueryCompanyName":"Apple",
+        "wikiDataName":"Apple",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q312",
+        "headquarterCoordinates":"Point(-122.041944444 37.3175)"
+    },
+    {
+        "companyName":"Philip Morris Int.",
+        "searchQueryCompanyName":"Philip Morris International",
+        "wikiDataName":"Philip Morris International",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q1852556",
+        "headquarterCoordinates":"Point(6.633333333 46.533333333)"
+    },
+    {
+        "companyName":"Amazon",
+        "searchQueryCompanyName":"Amazon.Inc",
+        "wikiDataName":"Amazon",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q3884",
+        "headquarterCoordinates":"Point(-120.5 47.5)"
+    },
+    {
+        "companyName":"Meta\/Facebook",
+        "searchQueryCompanyName":"Meta Platforms",
+        "wikiDataName":"Meta Platforms",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q380",
+        "headquarterCoordinates":"Point(-122.178611111 37.454166666)"
+    },
+    {
+        "companyName":"Visa",
+        "searchQueryCompanyName":"Visa Inc",
+        "wikiDataName":"Visa Inc.",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q328840",
+        "headquarterCoordinates":"Point(-122.416388888 37.7775)"
+    },
+    {
+        "companyName":"UnitedHealth",
+        "searchQueryCompanyName":"UnitedHealth Group",
+        "wikiDataName":"UnitedHealth Group",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q2103926",
+        "headquarterCoordinates":"Point(-93.503333333 44.913333333)"
+    },
+    {
+        "companyName":"Mastercard",
+        "searchQueryCompanyName":"Mastercard",
+        "wikiDataName":"Mastercard",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q489921",
+        "headquarterCoordinates":"Point(-73.714444444 41.040555555)"
+    },
+    {
+        "companyName":"Tesla",
+        "searchQueryCompanyName":"Tesla Inc.",
+        "wikiDataName":"Tesla, Inc.",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q478214",
+        "headquarterCoordinates":"Point(-97.733333333 30.3)"
+    },
+    {
+        "companyName":"NVIDIA",
+        "searchQueryCompanyName":"Nvidia Corporation",
+        "wikiDataName":"Nvidia",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q182477",
+        "headquarterCoordinates":"Point(-120.0 37.0)"
+    },
+    {
+        "companyName":"PayPal",
+        "searchQueryCompanyName":"PayPal",
+        "wikiDataName":"PayPal",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q483959",
+        "headquarterCoordinates":"Point(-121.872777777 37.304166666)"
+    },
+    {
+        "companyName":"Broadcom",
+        "searchQueryCompanyName":"Broadcom",
+        "wikiDataName":"Broadcom",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q555925",
+        "headquarterCoordinates":"Point(-117.7925 33.684166666)"
+    }
+]
