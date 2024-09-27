@@ -77,6 +77,7 @@ TODO:
 - alle files nochmal durchgehen, kommentare, input output fixen (wikidata)
 - anzahl von fails von fortune500 notieren
 - venv löschen
+- topUsCompaniesLocationScraper umbenennen -> scraped keine location nur company rankings
 - frontend übertragen -> anpassungen machen
 
 
