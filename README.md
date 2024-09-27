@@ -6,8 +6,6 @@
 US headquarter locations of big companies (Fortune 500 / Big Stock market players?) for the last 100 years. 
 Look into centers of industrial developmnt (Steel & Cars --> Silicon Valley?), track free market developments geographically
 
-scrape this website: https://money.cnn.com/magazines/fortune/fortune500_archive/full/1955/
-
 
 ### Setup:
 virtual python environment:
@@ -16,12 +14,29 @@ virtual python environment:
 
 install packages:
 - pip3 install scrapy
+- pip3 install json
 
-### Run scraper:
-go into the scraper folder:
+### Run scraper (scrapy):
+go into the scrapy folder:
 
-store in json: 
-- scrapy crawl us-companies -o items.json
+- cd topUsCompaniesLocationScraper
 
-store in csv:
-- scrapy crawl us-companies -o items.csv
+- Fortune500:
+  - scrapy crawl us-companies -o fortune500.json
+
+- S&P500:
+  - scrapy crawl us-companies-sp500 
+
+### apiWiki
+
+- pip3 install requests
+- pip3 install json
+
+run:
+- python3 apiWiki.py
+
+Problem: 
+- You get the same data as you would scrape the wiki page (with the official api and also with python wikiapi wrapper)
+- Html data is completely unstructured -> cannot scrape the data
+- We also tried the new wikipedia geosearch api ([link](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates))
+  - But only a few wikipedia pages have coordinates 
