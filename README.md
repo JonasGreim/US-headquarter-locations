@@ -13,8 +13,7 @@ virtual python environment:
 - source venv/bin/activate
 
 install packages:
-- pip3 install scrapy
-- pip3 install json
+- pip3 install -r requirements.tx
 
 ### Run scraper (scrapy):
 The scraper only searches the existing annual SP500 and Fortune 500 rankings of the specified websites. There are no headquarters locations in the rankings.
@@ -32,9 +31,6 @@ go into the scrapy folder:
 ### apiWiki
 First try to preserve the headquarters locations of the companies with the offical wikipedia api.
 
-- pip3 install requests
-- pip3 install json
-
 run:
 - python3 apiWiki.py
 
@@ -43,3 +39,34 @@ Problem:
 - Html data is completely unstructured -> cannot scrape the data
 - We also tried the new wikipedia geosearch api ([link](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates))
   - But only a few wikipedia pages have coordinates 
+
+
+### wikidata
+- Try to get the headquarters locations of the companies with the wikidata api.
+
+- create a unique company list from the ranking (initUniqueComaniesJson.py) -> map later location to json
+- dataCompanyName, searchCompanyName, wikidataCompanyName, qid -> compare and correct manually
+
+- First have to get the wikidata page qid (id) of the company -> text search with unique company names of ranking
+- get qid -> if no qid found -> manually change company name (5/49)
+- getAllQidsThroughCompanyNameList.py -> extract unique names of ranking -> text search -> first result: add qid + wikidata name to json
+- (didn't work with tag filtering -> incmplete data) -> only text search in wikidata title and synonyms
+- compare -> search name and wikidata name manually -> correct -> if not change the company name in the json 
+
+- then retrieve the wikidata page with the qid (getAllLocationDataThroughQIDList.py) 
+- try to get the headquarters location of the company -> no coordinates found -> change name -> run qid search again
+- -> trail and error -> 15  of  49 failed
+
+
+-> run industry sector search -> 1  of  49 failed -> ask chatgpt to our 10 sectors
+
+
+wikidata websearch is different then the api search (worse)
+difficult names -> bad search (alphabet, apple) -> data also not right company names
+
+
+TODO:
+Alles ordnen, strukturieren -> folder data, foder helper methods, 
+
+
+
