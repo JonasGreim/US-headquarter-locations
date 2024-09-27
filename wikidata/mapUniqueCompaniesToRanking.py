@@ -12,7 +12,7 @@ top_items = items[items['rank'] <= 55]
 merged_items = top_items.merge(unique_companies, left_on='company', right_on='companyName', how='left')
 
 # Select columns
-merged_items = merged_items[['rank', 'company', 'revenues', 'profits', 'year', 'headquarterCoordinates', 'qid', 'wikiDataName']]
+merged_items = merged_items[['rank', 'company', 'revenues', 'profits', 'year', 'headquarterCoordinates', 'qid', 'wikiDataName', 'industry']]
 
 merged_items.to_json('./itemsRankingWithCoordinates.json', orient='records', indent=4)
 

@@ -25,7 +25,8 @@ def convert_to_geojson(input_file, output_file):
                 "profits": item["profits"],
                 "year": item["year"],
                 "qid": item["qid"],
-                "wikiDataName": item["wikiDataName"]
+                "wikiDataName": item["wikiDataName"],
+                "industry": item["industry"]
             }
         }
         geojson["features"].append(feature)

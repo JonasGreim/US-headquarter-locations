@@ -24,7 +24,8 @@ def convert_to_geojson_sp500(input_file, output_file):
                 "market_cap": item["market_cap"],
                 "year": item["year"],
                 "qid": item["qid"],
-                "wikiDataName": item["wikiDataName"]
+                "wikiDataName": item["wikiDataName"],
+                "industry": item["industry"]
             }
         }
         geojson["features"].append(feature)
