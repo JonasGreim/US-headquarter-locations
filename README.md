@@ -82,9 +82,10 @@ TODO:
 - topUsCompaniesLocationScraper umbenennen -> scraped keine location nur company rankings
 - 
 - frontend übertragen -> anpassungen machen 
-  - paar falsche kooridinaten in deutschland
-  - optionale filter +5 (nicht möglich)
-  - auswahl top 50 in dropdown schreiben
+    - distribution funzt nicht -> wechsel von dataset  
+    - paar falsche kooridinaten in deutschland
+    - optionale filter +5 (nicht möglich)
+    - auswahl top 50 in dropdown schreiben
 
 
 
