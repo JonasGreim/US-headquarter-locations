@@ -4,13 +4,14 @@ import re
 from queryHeadquarters import request_queryHeadquarters
 
 # 56 of 196 failed
-# todo check created list
 
 current_dir = os.path.dirname(__file__)
 file_path = os.path.join(current_dir, "uniqueCompaniesWithQidsAndWithLocationData.json")
 
 df = pd.read_json(file_path, orient='columns')
 allQids = df['qid']  # f.e. http://www.wikidata.org/entity/Q81965
+if 'headquarterCoordinates' not in df.columns:
+    df['headquarterCoordinates'] = None
 filtered_qids_WithoutLocation = df[df['headquarterCoordinates'].isnull()]['qid']
 
 print('total queries:  ', len(filtered_qids_WithoutLocation))  # total queries:   196
