@@ -92,7 +92,7 @@ getAllIndustryDataThroughQIDList.py
 - converte to geojson (createGeoJson.py)
 
 
-
+- also tried out dbpedia -> same problems as with wikidata api
 
 
 wikidata websearch is different then the api search (worse)
