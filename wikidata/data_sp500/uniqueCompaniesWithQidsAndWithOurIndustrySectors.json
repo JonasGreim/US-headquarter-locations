@@ -5,7 +5,7 @@
         "wikiDataName": "ExxonMobil",
         "qid": "http://www.wikidata.org/entity/Q156238",
         "headquarterCoordinates": "Point(-95.3869 30.0542)",
-        "industry": "Energy"
+        "industry": "energy"
     },
     {
         "companyName": "IBM",
@@ -13,7 +13,7 @@
         "wikiDataName": "IBM",
         "qid": "http://www.wikidata.org/entity/Q37156",
         "headquarterCoordinates": "Point(-73.707777777 41.128611111)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Loews",
@@ -21,7 +21,7 @@
         "wikiDataName": "Loews Corporation",
         "qid": "http://www.wikidata.org/entity/Q826526",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Raytheon",
@@ -29,7 +29,7 @@
         "wikiDataName": "Raytheon Company",
         "qid": "http://www.wikidata.org/entity/Q156644",
         "headquarterCoordinates": "Point(-71.235005 42.380596)",
-        "industry": "Industrials"
+        "industry": "industrials"
     },
     {
         "companyName": "Bristol-Myers Squibb",
@@ -37,7 +37,7 @@
         "wikiDataName": "Bristol-Myers Squibb",
         "qid": "http://www.wikidata.org/entity/Q266423",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "Merck",
@@ -45,7 +45,7 @@
         "wikiDataName": "Merck & Co.",
         "qid": "http://www.wikidata.org/entity/Q247489",
         "headquarterCoordinates": "Point(-75.163611111 39.952777777)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "Coca-Cola",
@@ -53,7 +53,7 @@
         "wikiDataName": "The Coca-Cola Company",
         "qid": "http://www.wikidata.org/entity/Q3295867",
         "headquarterCoordinates": "Point(-84.390277777 33.756944444)",
-        "industry": "Consumer Defensive"
+        "industry": "consumer_defensive"
     },
     {
         "companyName": "Walmart",
@@ -61,7 +61,7 @@
         "wikiDataName": "Walmart",
         "qid": "http://www.wikidata.org/entity/Q483551",
         "headquarterCoordinates": "Point(-94.213333333 36.366666666)",
-        "industry": "Consumer Defensive"
+        "industry": "consumer_defensive"
     },
     {
         "companyName": "General Electric",
@@ -69,7 +69,7 @@
         "wikiDataName": "AEG",
         "qid": "http://www.wikidata.org/entity/Q158276",
         "headquarterCoordinates": "Point(13.383333333 52.516666666)",
-        "industry": "Industrials"
+        "industry": "industrials"
     },
     {
         "companyName": "Procter & Gamble",
@@ -77,7 +77,7 @@
         "wikiDataName": "Procter & Gamble",
         "qid": "http://www.wikidata.org/entity/Q212405",
         "headquarterCoordinates": "Point(-82.5 40.5)",
-        "industry": "Consumer Defensive"
+        "industry": "consumer_defensive"
     },
     {
         "companyName": "Verizon",
@@ -85,7 +85,7 @@
         "wikiDataName": "Verizon",
         "qid": "http://www.wikidata.org/entity/Q919641",
         "headquarterCoordinates": "Point(-74.5493 40.7062)",
-        "industry": "Communications"
+        "industry": "communications"
     },
     {
         "companyName": "Johnson & Johnson",
@@ -93,7 +93,7 @@
         "wikiDataName": "Johnson & Johnson",
         "qid": "http://www.wikidata.org/entity/Q333718",
         "headquarterCoordinates": "Point(-74.444444444 40.486666666)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "Eli Lilly",
@@ -101,7 +101,7 @@
         "wikiDataName": "Eli Lilly and Company",
         "qid": "http://www.wikidata.org/entity/Q632240",
         "headquarterCoordinates": "Point(-86.158055555 39.768611111)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "3M",
@@ -109,7 +109,7 @@
         "wikiDataName": "3M",
         "qid": "http://www.wikidata.org/entity/Q159433",
         "headquarterCoordinates": "Point(-92.995277777 44.953055555)",
-        "industry": "Industrials"
+        "industry": "industrials"
     },
     {
         "companyName": "PepsiCo",
@@ -117,7 +117,7 @@
         "wikiDataName": "PepsiCo",
         "qid": "http://www.wikidata.org/entity/Q334800",
         "headquarterCoordinates": "Point(-73.714444444 41.040555555)",
-        "industry": "Consumer Defensive"
+        "industry": "consumer_defensive"
     },
     {
         "companyName": "Walt Disney",
@@ -125,7 +125,7 @@
         "wikiDataName": "The Walt Disney Company",
         "qid": "http://www.wikidata.org/entity/Q7414",
         "headquarterCoordinates": "Point(-98.5795 39.828175)",
-        "industry": "Communications"
+        "industry": "communications"
     },
     {
         "companyName": "AT&T",
@@ -133,7 +133,7 @@
         "wikiDataName": "AT&T",
         "qid": "http://www.wikidata.org/entity/Q35476",
         "headquarterCoordinates": "Point(-96.808888888 32.779166666)",
-        "industry": "Communications"
+        "industry": "communications"
     },
     {
         "companyName": "AIG",
@@ -141,7 +141,7 @@
         "wikiDataName": "American International Group",
         "qid": "http://www.wikidata.org/entity/Q212235",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Boeing",
@@ -149,7 +149,7 @@
         "wikiDataName": "Boeing",
         "qid": "http://www.wikidata.org/entity/Q66",
         "headquarterCoordinates": "Point(-87.65005 41.85003)",
-        "industry": "Industrials"
+        "industry": "industrials"
     },
     {
         "companyName": "DuPont",
@@ -157,7 +157,7 @@
         "wikiDataName": "DuPont",
         "qid": "http://www.wikidata.org/entity/Q221062",
         "headquarterCoordinates": "Point(-75.551388888 39.748333333)",
-        "industry": "Basic Materials"
+        "industry": "basic_materials"
     },
     {
         "companyName": "Pfizer",
@@ -165,7 +165,7 @@
         "wikiDataName": "Pfizer",
         "qid": "http://www.wikidata.org/entity/Q206921",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "Microsoft",
@@ -173,7 +173,7 @@
         "wikiDataName": "Microsoft",
         "qid": "http://www.wikidata.org/entity/Q2283",
         "headquarterCoordinates": "Point(-122.123888888 47.669444444)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Altria Group",
@@ -181,7 +181,7 @@
         "wikiDataName": "Altria",
         "qid": "http://www.wikidata.org/entity/Q445007",
         "headquarterCoordinates": "Point(-77.436666666 37.540833333)",
-        "industry": "Consumer Defensive"
+        "industry": "consumer_defensive"
     },
     {
         "companyName": "Home Depot",
@@ -189,7 +189,7 @@
         "wikiDataName": "The Home Depot",
         "qid": "http://www.wikidata.org/entity/Q864407",
         "headquarterCoordinates": "Point(-84.390277777 33.756944444)",
-        "industry": "Consumer Cyclical"
+        "industry": "consumer_cyclical"
     },
     {
         "companyName": "Intel",
@@ -197,7 +197,7 @@
         "wikiDataName": "Intel",
         "qid": "http://www.wikidata.org/entity/Q248",
         "headquarterCoordinates": "Point(-121.966666666 37.35)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Chevron",
@@ -205,7 +205,7 @@
         "wikiDataName": "Chevron Corporation",
         "qid": "http://www.wikidata.org/entity/Q243603",
         "headquarterCoordinates": "Point(-122.3 37.8)",
-        "industry": "Energy"
+        "industry": "energy"
     },
     {
         "companyName": "Bank of America",
@@ -213,7 +213,7 @@
         "wikiDataName": "Bank of America",
         "qid": "http://www.wikidata.org/entity/Q487907",
         "headquarterCoordinates": "Point(-80.83 35.225)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Cisco Systems",
@@ -221,7 +221,7 @@
         "wikiDataName": "Cisco Systems",
         "qid": "http://www.wikidata.org/entity/Q7214",
         "headquarterCoordinates": "Point(-121.966666666 37.35)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Berkshire Hathaway",
@@ -229,7 +229,7 @@
         "wikiDataName": "Berkshire Hathaway",
         "qid": "http://www.wikidata.org/entity/Q49455",
         "headquarterCoordinates": "Point(-95.997777777 41.252222222)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Citigroup",
@@ -237,7 +237,7 @@
         "wikiDataName": "Citigroup",
         "qid": "http://www.wikidata.org/entity/Q173466",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Oracle",
@@ -245,7 +245,7 @@
         "wikiDataName": "Oracle Corporation",
         "qid": "http://www.wikidata.org/entity/Q42904",
         "headquarterCoordinates": "Point(-122.25 37.533333333)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Qualcomm",
@@ -253,7 +253,7 @@
         "wikiDataName": "Qualcomm",
         "qid": "http://www.wikidata.org/entity/Q171559",
         "headquarterCoordinates": "Point(-117.2359 32.89067)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Paramount Global",
@@ -261,7 +261,7 @@
         "wikiDataName": "Paramount Global",
         "qid": "http://www.wikidata.org/entity/Q19755597",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Communications"
+        "industry": "communications"
     },
     {
         "companyName": "Wells Fargo",
@@ -269,7 +269,7 @@
         "wikiDataName": "Wells Fargo",
         "qid": "http://www.wikidata.org/entity/Q867364",
         "headquarterCoordinates": "Point(-122.4 37.8)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "JPMorgan Chase",
@@ -277,7 +277,7 @@
         "wikiDataName": "JPMorgan Chase",
         "qid": "http://www.wikidata.org/entity/Q246944",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "UPS",
@@ -285,7 +285,7 @@
         "wikiDataName": "United Parcel Service",
         "qid": "http://www.wikidata.org/entity/Q950115",
         "headquarterCoordinates": "Point(-84.428 33.6367)",
-        "industry": "Industrials"
+        "industry": "industrials"
     },
     {
         "companyName": "Alphabet",
@@ -293,7 +293,7 @@
         "wikiDataName": "Alphabet Inc.",
         "qid": "http://www.wikidata.org/entity/Q20800404",
         "headquarterCoordinates": "Point(-122.0838 37.3861)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Amgen",
@@ -301,7 +301,7 @@
         "wikiDataName": "Amgen",
         "qid": "http://www.wikidata.org/entity/Q523239",
         "headquarterCoordinates": "Point(-118.784166666 34.168055555)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "Apple",
@@ -309,7 +309,7 @@
         "wikiDataName": "Apple Inc.",
         "qid": "http://www.wikidata.org/entity/Q312",
         "headquarterCoordinates": "Point(-122.032333 37.332072)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Philip Morris Int.",
@@ -317,7 +317,7 @@
         "wikiDataName": "Philip Morris International",
         "qid": "http://www.wikidata.org/entity/Q184334",
         "headquarterCoordinates": "Point(-74.0 40.7)",
-        "industry": "Consumer Defensive"
+        "industry": "consumer_defensive"
     },
     {
         "companyName": "Amazon",
@@ -325,7 +325,7 @@
         "wikiDataName": "Amazon (company)",
         "qid": "http://www.wikidata.org/entity/Q3884",
         "headquarterCoordinates": "Point(-122.335167 47.6119)",
-        "industry": "Consumer Cyclical"
+        "industry": "consumer_cyclical"
     },
     {
         "companyName": "Meta/Facebook",
@@ -333,7 +333,7 @@
         "wikiDataName": "Meta Platforms",
         "qid": "http://www.wikidata.org/entity/Q380",
         "headquarterCoordinates": "Point(-122.149722222 37.484722222)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "Visa",
@@ -341,7 +341,7 @@
         "wikiDataName": "Visa Inc.",
         "qid": "http://www.wikidata.org/entity/Q154398",
         "headquarterCoordinates": "Point(-122.2728 37.7927)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "UnitedHealth",
@@ -349,7 +349,7 @@
         "wikiDataName": "UnitedHealth Group",
         "qid": "http://www.wikidata.org/entity/Q1124994",
         "headquarterCoordinates": "Point(-93.3576 44.9719)",
-        "industry": "Health Care"
+        "industry": "health"
     },
     {
         "companyName": "Mastercard",
@@ -357,7 +357,7 @@
         "wikiDataName": "Mastercard",
         "qid": "http://www.wikidata.org/entity/Q47904",
         "headquarterCoordinates": "Point(-73.610833333 40.7275)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Tesla",
@@ -365,7 +365,7 @@
         "wikiDataName": "Tesla, Inc.",
         "qid": "http://www.wikidata.org/entity/Q478214",
         "headquarterCoordinates": "Point(-97.621671 30.221804)",
-        "industry": "Consumer Cyclical"
+        "industry": "consumer_cyclical"
     },
     {
         "companyName": "NVIDIA",
@@ -373,7 +373,7 @@
         "wikiDataName": "Nvidia",
         "qid": "http://www.wikidata.org/entity/Q2013",
         "headquarterCoordinates": "Point(-122.008888888 37.370277777)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     },
     {
         "companyName": "PayPal",
@@ -381,7 +381,7 @@
         "wikiDataName": "PayPal",
         "qid": "http://www.wikidata.org/entity/Q699064",
         "headquarterCoordinates": "Point(-121.931944444 37.3875)",
-        "industry": "Financials"
+        "industry": "financials"
     },
     {
         "companyName": "Broadcom",
@@ -389,6 +389,6 @@
         "wikiDataName": "Broadcom Inc.",
         "qid": "http://www.wikidata.org/entity/Q19867452",
         "headquarterCoordinates": "Point(-121.961666666 37.388611111)",
-        "industry": "Information Technology"
+        "industry": "information_technology"
     }
 ]
