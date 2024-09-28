@@ -1,47 +1,74 @@
-# US headquarter locations
-#### University Leipzig, SoSe 2024, Computational Spatial Humanities
-#### Jiacheng Lang, Jonas Greim
-
-### Task:
-US headquarter locations of big companies (Fortune 500 / Big Stock market players?) for the last 100 years. 
-Look into centers of industrial developmnt (Steel & Cars --> Silicon Valley?), track free market developments geographically
+# Company Headquarters in the USA
+The objective of this university project is to demonstrate how the US industry has changed over time, as represented by the major corporate headquarters included in the SP500 or Fortune 500 indices.
+The geographical distribution of these headquarters and their respective industry sectors are presented on a map where users can select different years and choose between two indexes.
 
 
-### Setup:
-virtual python environment:
-- python3 -m venv venv
-- source venv/bin/activate
+## Data
+This repository is the data scraping and processing part of the project. 
 
-install packages:
+- The historical company rankings (SP500 and Fortune 500) over many years are scraped from websites.
+- The headquarters locations are then retrieved from the Wikidata API. 
+- The data is then processed and converted into a GeoJSON format for the map.
+
+## Visualisation
+The visualization/mapping of the headquarters locations data can be found in [this repository](https://github.com/JonasGreim/leaflet-map-project).
+
+The final visualization result can be found as website [here](https://jonasgreim.github.io/leaflet-map-project/).
+
+## Getting Started:
+To get a local copy up and running, follow these simple steps.
+### Installation
+1. Set up a virtual python environment (Python version >= 3.10):
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+2. Install the required packages:
+```bash
 - pip3 install -r requirements.tx
+```
 
 ### Run scraper (scrapy):
-The scraper only searches the existing annual SP500 and Fortune 500 rankings of the specified websites. There are no headquarters locations in the rankings.
+**Info:** The scraper only searches the existing annual SP500 and Fortune 500 rankings of the specified websites. There are no headquarters locations in the rankings.
 
 go into the scrapy folder:
 
-- cd topUsCompaniesLocationScraper
+```bash
+cd topUsCompaniesLocationScraper
+```
 
-- Fortune500:
-  - scrapy crawl us-companies -o fortune500.json
+Fortune500:
+```bash 
+scrapy crawl us-companies -o fortune500.json
+```
 
-- S&P500:
-  - scrapy crawl us-companies-sp500 
+SP500:
+```bash
+scrapy crawl us-companies-sp500 
+```
 
-### apiWiki
-First try to preserve the headquarters locations of the companies with the offical wikipedia api.
-
-run:
-- python3 apiWiki.py
+### Official Wikipedia API
+First we tried to preserve the headquarters locations of the companies with the official Wikipedia API.
 
 Problem: 
-- You get the same data as you would scrape the wiki page (with the official api and also with python wikiapi wrapper)
-- Html data is completely unstructured -> cannot scrape the data
-- We also tried the new wikipedia geosearch api ([link](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates))
+- You get the same data as you would scrape the wiki page (same thing with python wiki api wrappers)
+- The HTML structure of Wikipedia company articles is inconsistent -> cannot scrape the data (f.e. the fact table)
+- We also tried the new Wikipedia Geosearch API ([link](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates))
   - But only a few wikipedia pages have coordinates 
 
+run:
+```bash 
+cd apiWiki
+python3 apiWiki.py
+```
 
-### wikidata
+### Wikidata API
+
+To access the headquarters location data of the companies, we used the Wikidata API.
+
+Explain the data processing
+
+
 - Try to get the headquarters locations of the companies with the wikidata api.
 
 - create a unique company list from the ranking (initUniqueComaniesJson.py) -> map later location to json
@@ -80,12 +107,9 @@ TODO:
 - anzahl von fails von fortune500 notieren
 - venv löschen
 - topUsCompaniesLocationScraper umbenennen -> scraped keine location nur company rankings
-- 
-- frontend übertragen -> anpassungen machen 
-    - distribution funzt nicht -> wechsel von dataset  
-    - paar falsche kooridinaten in deutschland
-    - optionale filter +5 (nicht möglich)
-    - auswahl top 50 in dropdown schreiben
 
 
 
+### Credits 
+- Jiacheng Lang & Jonas Greim
+- The university course "Computational Spatial Humanities," taught by Dr. Thomas Efer at the University of Leipzig
