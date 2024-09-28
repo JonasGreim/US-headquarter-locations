@@ -58,9 +58,9 @@
     {
         "companyName":"General Electric",
         "searchQueryCompanyName":"General Electric Company",
-        "wikiDataName":"AEG",
-        "qid":"http:\/\/www.wikidata.org\/entity\/Q158276",
-        "headquarterCoordinates":"Point(13.383333333 52.516666666)"
+        "wikiDataName":"General Electric",
+        "qid":"http:\/\/www.wikidata.org\/entity\/Q54173",
+        "headquarterCoordinates":"Point(-71.050952 42.349497)"
     },
     {
         "companyName":"Procter & Gamble",
