@@ -34,12 +34,12 @@ source venv/bin/activate
 go into the scrapy folder:
 
 ```bash
-cd topUsCompaniesLocationScraper
+cd companyRankingsScraper
 ```
 
 Fortune500:
 ```bash 
-scrapy crawl us-companies -o fortune500.json
+scrapy crawl us-companies-fortune500 -o fortune500.json
 ```
 
 SP500:

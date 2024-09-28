@@ -1,9 +1,9 @@
 import scrapy
-from ..items import TopuscompanieslocationscraperItem
+from ..itemsFortune500 import TopuscompanieslocationscraperItem
 
 
 class CompanySpider(scrapy.Spider):
-    name = "us-companies"
+    name = "us-companies-fortune500"
 
     def start_requests(self):
         # create array of links that gets scraped
