@@ -58,8 +58,8 @@ Problem:
 
 run:
 ```bash 
-cd apiWiki
-python3 apiWiki.py
+cd officialWikiApi
+python3 officialWikiApi.py
 ```
 
 ### Wikidata API

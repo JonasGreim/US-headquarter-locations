@@ -1,12 +1,12 @@
 import os
 import pandas as pd
 import re
-from queryHeadquarters import request_queryHeadquarters
+from wikidata.helperFunctions.queryHeadquarters import request_queryHeadquarters
 
 # 56 of 196 failed
 
 current_dir = os.path.dirname(__file__)
-file_path = os.path.join(current_dir, "uniqueCompaniesWithQidsAndWithLocationData.json")
+file_path = os.path.join(current_dir, "./data_sp500/uniqueCompaniesWithQids.json")
 
 df = pd.read_json(file_path, orient='columns')
 allQids = df['qid']  # f.e. http://www.wikidata.org/entity/Q81965
@@ -42,5 +42,5 @@ for qidLink in filtered_qids_WithoutLocation:
 
 
 # updates json with query results
-df.to_json('./uniqueCompaniesWithQidsAndWithLocationData.json', orient='records', indent=4)
+df.to_json('./data_sp500/uniqueCompaniesWithQidsAndWithLocationData.json', orient='records', indent=4)
 print('total number of no company qids found:', notFoundCountercounter, ' of ', len(filtered_qids_WithoutLocation))

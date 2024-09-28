@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 current_dir = os.path.dirname(__file__)
-file_path = os.path.join(current_dir, "dataset_sp500.json")
+file_path = os.path.join(current_dir, "./data_sp500/dataset_sp500.json")
 
 df = pd.read_json(file_path, orient='columns')
 filtered_data = df.loc[df['rank'] <= 55]
@@ -16,4 +16,4 @@ df = pd.DataFrame({
     'qid': ''
 })
 
-df.to_json('./uniqueCompanies.json', orient='records', lines=False, indent=4)
+df.to_json('./data_sp500/uniqueCompanies.json', orient='records', lines=False, indent=4)

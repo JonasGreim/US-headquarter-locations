@@ -1,7 +1,7 @@
 import json
 
 
-def convert_to_geojson(input_file, output_file):
+def convert_to_geojson_sp500(input_file, output_file):
     with open(input_file, 'r') as f:
         data = json.load(f)
 
@@ -21,8 +21,7 @@ def convert_to_geojson(input_file, output_file):
             "properties": {
                 "rank": item["rank"],
                 "company": item["company"],
-                "revenues": item["revenues"],
-                "profits": item["profits"],
+                "market_cap": item["market_cap"],
                 "year": item["year"],
                 "qid": item["qid"],
                 "wikiDataName": item["wikiDataName"],
@@ -36,4 +35,4 @@ def convert_to_geojson(input_file, output_file):
 
 
 # Example usage
-convert_to_geojson('./itemsRankingWithCoordinates.json', 'oldData/fortune500Companies.geojson')
+convert_to_geojson_sp500('./data_sp500/x_rankingWithCoordinates.json', './data_sp500/x_sp500Companies.geojson')
