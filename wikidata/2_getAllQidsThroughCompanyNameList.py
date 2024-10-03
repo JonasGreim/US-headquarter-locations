@@ -2,10 +2,10 @@ import os
 import pandas as pd
 from wikidata.helperFunctions.queryCompaniesQID import request_query_companies_qid
 
-# looping through the companies and checking if they have a qid
+# looping through the unique companies and checking if they have a qid (wikidata page id)
+# updates json with query results
 
 current_dir = os.path.dirname(__file__)
-# parent_dir_path = os.path.join(current_dir, ".")
 file_path = os.path.join(current_dir, './data_sp500/uniqueCompanies.json')
 
 df = pd.read_json(file_path, orient='columns')
@@ -27,31 +27,5 @@ for search_uniqueCompanyName in filtered_UniqueCompanyNames_WithoutQid:
         df.loc[df['searchQueryCompanyName'] == search_uniqueCompanyName, 'qid'] = qid
         df.loc[df['searchQueryCompanyName'] == search_uniqueCompanyName, 'wikiDataName'] = wikidata_company_name
 
-
-# updates json with query results
 df.to_json('./data_sp500/uniqueCompaniesWithQids.json', orient='records', indent=4)
 print('total number of no company qids found:', notFoundCountercounter, ' of ', len(filtered_UniqueCompanyNames_WithoutQid))
-
-
-# 5 companies are missing -> no wikidata or wikipedia entry ??
-# search again -> positios manually
-
-
-
-# I need 2 lists: (curate company names)
-
-# input: unique names list (csv, json)  (input list)
-# output: unique names + qid (if found)
-
-# depends how much company fails -> compute on their own again
-# -> need name changes/translation table
-
-
-# item top 100 from 1958-2005
-# take top 55
-
-
-
-
-# create csv, json with pandas -> insert manually qids
-# take top 60

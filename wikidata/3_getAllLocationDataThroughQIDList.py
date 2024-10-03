@@ -3,6 +3,9 @@ import pandas as pd
 import re
 from wikidata.helperFunctions.queryHeadquarters import request_queryHeadquarters
 
+# Get wikidata page data through qid and extract the headquarters location
+# updates json with query results
+
 # 56 of 196 failed
 
 current_dir = os.path.dirname(__file__)
@@ -14,10 +17,7 @@ if 'headquarterCoordinates' not in df.columns:
     df['headquarterCoordinates'] = None
 filtered_qids_WithoutLocation = df[df['headquarterCoordinates'].isnull()]['qid']
 
-print('total queries:  ', len(filtered_qids_WithoutLocation))  # total queries:   196
-# print(allCompanyQidWikidataLinks[0])
-# qid = re.search(r'Q\d+', allCompanyQidWikidataLinks[0]).group()
-# print(qid)
+print('total queries:  ', len(filtered_qids_WithoutLocation))
 
 
 notFoundCountercounter = 0
@@ -41,6 +41,5 @@ for qidLink in filtered_qids_WithoutLocation:
             df.loc[df['qid'].str.strip() == qidLink, 'headquarterCoordinates'] = headquarterCoordinates
 
 
-# updates json with query results
 df.to_json('./data_sp500/uniqueCompaniesWithQidsAndWithLocationData.json', orient='records', indent=4)
 print('total number of no company qids found:', notFoundCountercounter, ' of ', len(filtered_qids_WithoutLocation))

@@ -28,7 +28,7 @@ source venv/bin/activate
 - pip3 install -r requirements.tx
 ```
 
-### Run scraper (scrapy):
+### Run scraper: scrapy (Get SP500 and Fortune 500 rankings)
 **Info:** The scraper only searches the existing annual SP500 and Fortune 500 rankings of the specified websites. There are no headquarters locations in the rankings.
 
 go into the scrapy folder:
@@ -47,7 +47,7 @@ SP500:
 scrapy crawl us-companies-sp500 
 ```
 
-### Official Wikipedia API
+### Official Wikipedia API (Try to get headquarters locations)
 First we tried to preserve the headquarters locations of the companies with the official Wikipedia API.
 
 Problem: 
@@ -62,7 +62,7 @@ cd officialWikiApi
 python3 officialWikiApi.py
 ```
 
-### Wikidata API
+### Wikidata API (Get headquarters locations & industry sectors)
 
 To access the headquarters location data of the companies, we used the Wikidata API.
 
@@ -102,11 +102,8 @@ tried also with completly chatgpt -> wrong coordinates
 
 TODO:
 - read me hübsch machen
-- Alles ordnen, strukturieren -> folder data, foder helper methods folder
-- alle files nochmal durchgehen, kommentare, input output fixen (wikidata)
-- anzahl von fails von fortune500 notieren
-- venv löschen
-- topUsCompaniesLocationScraper umbenennen -> scraped keine location nur company rankings
+- vorgang notieren
+- anzahl von fails notieren
 
 
 

@@ -1,8 +1,9 @@
 import pandas as pd
 
-# Load the JSON data from the files
-unique_companies = pd.read_json('./data_sp500/uniqueCompaniesWithQidsLocationAndWithOurIndustrySectors.json')
-items = pd.read_json('./items.json')
+# Map the unique companies data to the Fortune 500 companies ranking data
+
+unique_companies = pd.read_json('./data_fortune500/uniqueCompaniesWithQidsLocationAndWithOurIndustrySectors.json')
+items = pd.read_json('./data_fortune500/dataset_fortune500.json')
 
 # Filter items to include only the top 55 based on rank
 items['rank'] = items['rank'].astype(int)
@@ -14,5 +15,4 @@ merged_items = top_items.merge(unique_companies, left_on='company', right_on='co
 # Select columns
 merged_items = merged_items[['rank', 'company', 'revenues', 'profits', 'year', 'headquarterCoordinates', 'qid', 'wikiDataName', 'industry']]
 
-merged_items.to_json('./data_sp500/x_rankingWithCoordinates.json', orient='records', indent=4)
-
+merged_items.to_json('./data_fortune500/x_rankingWithCoordinates.json', orient='records', indent=4)

@@ -1,5 +1,7 @@
 import json
 
+# create a geojson file from Fortune 500 json data
+
 
 def convert_to_geojson(input_file, output_file):
     with open(input_file, 'r') as f:
@@ -35,5 +37,4 @@ def convert_to_geojson(input_file, output_file):
         json.dump(geojson, f, indent=4)
 
 
-# Example usage
 convert_to_geojson('./data_fortune500/uniqueCompaniesWithQidsAndWithIndustrySector.json', './data_fortune500/x_sp500Companies.geojson')

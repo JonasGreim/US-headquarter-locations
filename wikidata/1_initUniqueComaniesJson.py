@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+# create a json file with unique companies
+
 current_dir = os.path.dirname(__file__)
 file_path = os.path.join(current_dir, "./data_sp500/dataset_sp500.json")
 

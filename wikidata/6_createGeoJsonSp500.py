@@ -1,5 +1,7 @@
 import json
 
+# create a geojson file from SP500 json data
+
 
 def convert_to_geojson_sp500(input_file, output_file):
     with open(input_file, 'r') as f:
