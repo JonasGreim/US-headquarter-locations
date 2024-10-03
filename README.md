@@ -125,7 +125,7 @@ To access the headquarters location data of the companies, we used the Wikidata 
 - Wikidata api docs are really confusing/messed up
 - The scraped data has sometimes unusual variations of company names or abbreviations
 - For some old companies there are no Wikidata entries even no Wikipedia entries
-- Wikidata only provides current headquarters location data, not historical locations.
+- Wikidata only provides current headquarters location data, not historical locations
 
 ### Solutions:
 - **Inaccurate search, scraped data spelling:**
@@ -135,16 +135,21 @@ To access the headquarters location data of the companies, we used the Wikidata 
     - Get the qid through the searchQueryCompanyName -> if no qid found -> manually change company name
     - Get location data through the qid -> if no coordinates found -> change name -> run qid search again (wrong Wikidata entry with the same name)
   
+
 - **Historical data:**
+  - Used only the most recent headquarters locations (historical data is not available on Wikidata)
+
+
+- **No Wikidata entries or even no Wikipedia entries**
   - Google headquarters addresses -> manually change searchQueryCompanyName
 
 ### Notes
 - The Wikidata websearch is different from the API search (a little bit better)
-- Tried out also [dbpedia](https://www.dbpedia.org/) -> same problems as with the wikidata api
-- Tried out also to ask chatgpt to generate the data completely -> wrong headquarters coordinates
+- Tried out also [dbpedia](https://www.dbpedia.org/) -> same problems as with the Wikidata API
+- Tried out also to ask Chatgpt to generate the data completely -> wrong headquarters coordinates
 
     
-
+[//]: # (extract api requests)
 [//]: # (- get qid -> if no qid found &#40;5/49&#41;)
 [//]: # (- -> trail and error ->  15 of 49 failed)
 [//]: # (run industry sector search -> 1  of  49 failed)
