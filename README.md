@@ -2,6 +2,19 @@
 The objective of this university project is to demonstrate how the US industry has changed over time, as represented by the major corporate headquarters included in the SP500 or Fortune 500 indices.
 The geographical distribution of these headquarters and their respective industry sectors are presented on a map where users can select different years and choose between two indexes.
 
+## Table of Contents
+- [Data](#data)
+- [Visualisation](#visualisation)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Run scraper: scrapy (Get SP500 and Fortune 500 rankings)](#run-scraper-scrapy-get-sp500-and-fortune-500-rankings)
+  - [Official Wikipedia API (Try to get headquarters locations)](#official-wikipedia-api-try-to-get-headquarters-locations)
+  - [Wikidata API (Get headquarters locations \& industry sectors)](#wikidata-api-get-headquarters-locations--industry-sectors)
+    - [How the data processing works](#how-the-data-processing-works)
+    - [Problems](#problems)
+    - [Solutions](#solutions)
+    - [Notes](#notes)
+- [Credits](#credits)
 
 ## Data
 This repository is the data scraping and processing part of the project. 
@@ -29,7 +42,7 @@ source venv/bin/activate
 - pip3 install -r requirements.tx
 ```
 
-### Run scraper: scrapy (Get SP500 and Fortune 500 rankings)
+## Run scraper: scrapy (Get SP500 and Fortune 500 rankings)
 **Info:** The scraper only searches the existing annual SP500 and Fortune 500 rankings of the specified websites. 
 There are no headquarters locations in the rankings.
 
@@ -52,26 +65,26 @@ SP500:
 scrapy crawl us-companies-sp500 
 ```
 
-### Official Wikipedia API (Try to get headquarters locations)
+## Official Wikipedia API (Try to get headquarters locations)
 First we tried to preserve the headquarters locations of the companies with the official Wikipedia API.
 
-Problem: 
+**Problem:** 
 - You get the same data as you would scrape the wikipedia page (same thing with python wikipedia api wrappers)
 - The HTML structure of Wikipedia company articles is inconsistent -> cannot scrape the data (f.e. the fact table)
 - We also tried the new Wikipedia Geosearch API ([link](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates))
   - But only a few wikipedia pages have coordinates 
 
-run:
+**run:**
 ```bash 
 cd officialWikiApi
 python3 officialWikiApi.py
 ```
 
-### Wikidata API (Get headquarters locations & industry sectors)
+## Wikidata API (Get headquarters locations & industry sectors)
 
 To access the headquarters location data of the companies, we used the Wikidata API.
 
-How the data processing works:
+### How the data processing works:
 
 1. [1_initUniqueComaniesJson.py](wikidata/1_initUniqueComaniesJson.py):
    - Creates a unique company list from the ranking data
@@ -107,14 +120,14 @@ How the data processing works:
 
 
 
-#### Problems:
+### Problems:
 - The API string search to find Wikidata page entries is really inaccurate
 - Wikidata api docs are really confusing/messed up
 - The scraped data has sometimes unusual variations of company names or abbreviations
 - For some old companies there are no Wikidata entries even no Wikipedia entries
 - Wikidata only provides current headquarters location data, not historical locations.
 
-#### Solutions: 
+### Solutions: 
 - **Inaccurate search, scraped data spelling:**
   - Manually change the searchQueryCompanyName in the json
   - Tried wikidata tag filtering, but it didn't work out (Wikidata entries have incomplete tag data)
@@ -125,7 +138,7 @@ How the data processing works:
 - **Historical data:**
   - Google headquarters addresses -> manually change searchQueryCompanyName
 
-#### Notes
+### Notes
 - The Wikidata websearch is different from the API search (a little bit better)
 - Tried out also [dbpedia](https://www.dbpedia.org/) -> same problems as with the wikidata api
 - Tried out also to ask chatgpt to generate the data completely -> wrong headquarter coordinates
