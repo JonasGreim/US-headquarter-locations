@@ -14,6 +14,7 @@ This repository is the data scraping and processing part of the project.
 The visualization/mapping of the headquarters locations data can be found in [this repository](https://github.com/JonasGreim/leaflet-map-project).
 
 The final visualization result can be found as website [here](https://jonasgreim.github.io/leaflet-map-project/).
+![readMeAppPreview.png](img/readMeAppPreview.png)
 
 ## Getting Started:
 To get a local copy up and running, follow these simple steps.
@@ -84,6 +85,8 @@ How the data processing works:
 2. [2_getAllQidsThroughCompanyNameList.py](wikidata/2_getAllQidsThroughCompanyNameList.py):
    - Adds the wikidata qids to the unique company list (qid = wikidata page id)
    - Looping through the unique companies and retrieve the qid with the searchQueryCompanyName through the Wikidata API
+   - Search: only text search in wikidata title and synonyms
+   - API response: First qid result is taken (returns array)
 
 3. [3_getAllLocationDataThroughQIDList.py](wikidata/3_getAllLocationDataThroughQIDList.py)
   - Adds the headquarters location data to the unique company list
@@ -122,41 +125,26 @@ How the data processing works:
 - **Historical data:**
   - Google headquarters addresses -> manually change searchQueryCompanyName
 
-
+#### Notes
+- The Wikidata websearch is different from the API search (a little bit better)
+- Tried out also [dbpedia](https://www.dbpedia.org/) -> same problems as with the wikidata api
+- Tried out also to ask chatgpt to generate the data completely -> wrong headquarter coordinates
 
     
-- get qid -> if no qid found -> manually change company name (5/49)
-- getAllQidsThroughCompanyNameList.py -> extract unique names of ranking -> text search -> first result: add qid + wikidata name to json
-- (didn't work with tag filtering -> incmplete data) -> only text search in wikidata title and synonyms
-- compare -> search name and wikidata name manually -> correct -> if not change the company name in the json 
 
-- then retrieve the wikidata page with the qid (getAllLocationDataThroughQIDList.py) 
-- try to get the headquarters location of the company -> no coordinates found -> change name -> run qid search again
-- -> trail and error -> 15  of  49 failed
+[//]: # (- get qid -> if no qid found &#40;5/49&#41;)
+[//]: # (- -> trail and error ->  15 of 49 failed)
+[//]: # (run industry sector search -> 1  of  49 failed)
 
 
-getAllIndustryDataThroughQIDList.py
--> run industry sector search -> 1  of  49 failed -> ask chatgpt to our 10 sectors
+[//]: # (TODO:)
 
-- map unique companies to ranking (mapUniqueCompaniesToRanking.py)
-- converte to geojson (createGeoJson.py)
-
-
-- also tried out dbpedia -> same problems as with wikidata api
-
-
-wikidata websearch is different then the api search (worse)
-difficult names -> bad search (alphabet, apple) -> data also not right company names
-tried also with completly chatgpt -> wrong coordinates
-
-
-TODO:
-- read me hübsch machen
-- vorgang notieren
-- anzahl von fails notieren und helper functions infos extract
-- check data again -> right qids and names
-- SP500 Berkshire Hathaway, JPMorgan Chase, Mastercard
-- maybe table of contents
+[//]: # (- read me hübsch machen)
+[//]: # (- vorgang notieren)
+[//]: # (- anzahl von fails notieren und helper functions infos extract)
+[//]: # (- check data again -> right qids and names)
+[//]: # (- SP500 Berkshire Hathaway, JPMorgan Chase, Mastercard)
+[//]: # (- maybe table of contents)
 
 
 
