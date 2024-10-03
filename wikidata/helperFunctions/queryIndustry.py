@@ -1,7 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 #  https://github.com/RDFLib/sparqlwrapper
 
-# TODO insert companies in query -> loop it
 
 def request_queryIndustry(qid):
     user_agent = 'CoolBot/0.0 (https://example.org/coolbot/; coolbot@example.org)'
@@ -21,7 +20,3 @@ def request_queryIndustry(qid):
         return queryResult["results"]["bindings"][0]
     except Exception as e:
         print('industry not found', e)
-
-# result example:
-# Apple
-# Computer manufacturing

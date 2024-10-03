@@ -5,8 +5,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 # https://sparqlwrapper.readthedocs.io/en/latest/main.html
 # https://foundation.wikimedia.org/wiki/Policy:User-Agent_policy
 
-# TODO make query better (-> maybe add country USA, or more company labels)
-
+# idea: make query better (-> maybe add country USA, or one more company labels)
 
 def request_query_companies_qid(company_name):
     user_agent = 'CoolBot/0.0 (https://example.org/coolbot/; coolbot@example.org)'
@@ -15,7 +14,7 @@ def request_query_companies_qid(company_name):
 
     search_string = company_name
 
-    # TODO maybe need some tag filtering, but found 40/50 companies
+    #  found 40/50 companies
     sparql.setQuery(f"""
     SELECT DISTINCT ?item ?itemLabel
     WHERE {{

@@ -1,7 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 #  https://github.com/RDFLib/sparqlwrapper
 
-# TODO insert companies in query -> loop it
 
 def request_queryHeadquarters(qid):
     user_agent = 'CoolBot/0.0 (https://example.org/coolbot/; coolbot@example.org)'
@@ -22,8 +21,3 @@ def request_queryHeadquarters(qid):
         return queryResult["results"]["bindings"][0]
     except Exception as e:
         print('headquarter not found', e)
-
-# result example:
-# Apple
-# Cupertino
-# Point(-122.041944444 37.3175)
