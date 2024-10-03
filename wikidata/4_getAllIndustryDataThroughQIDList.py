@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import re
-from wikidata.helperFunctions.queryIndustry import request_queryIndustry
+from wikidata.api_queries.queryIndustry import request_queryIndustry
 
 # 17 of 196 failed
 

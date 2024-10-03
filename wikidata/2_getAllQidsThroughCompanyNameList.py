@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from wikidata.helperFunctions.queryCompaniesQID import request_query_companies_qid
+from wikidata.api_queries.queryCompaniesQID import request_query_companies_qid
 
 # looping through the unique companies and checking if they have a qid (wikidata page id) -> add qid if not present
 # updates json with query results

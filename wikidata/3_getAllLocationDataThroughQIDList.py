@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import re
-from wikidata.helperFunctions.queryHeadquarters import request_queryHeadquarters
+from wikidata.api_queries.queryHeadquarters import request_queryHeadquarters
 
 # Get wikidata page data through qid and extract the headquarters location
 # updates json with query results
