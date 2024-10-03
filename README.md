@@ -10,7 +10,7 @@ The geographical distribution of these headquarters and their respective industr
   - [Run scraper: scrapy (Get SP500 and Fortune 500 rankings)](#run-scraper-scrapy-get-sp500-and-fortune-500-rankings)
   - [Official Wikipedia API (Try to get headquarters locations)](#official-wikipedia-api-try-to-get-headquarters-locations)
   - [Wikidata API (Get headquarters locations \& industry sectors)](#wikidata-api-get-headquarters-locations--industry-sectors)
-    - [How the data processing works](#how-the-data-processing-works)
+    - [How the location data processing works](#how-the-location-data-processing-works)
     - [Problems](#problems)
     - [Solutions](#solutions)
     - [Notes](#notes)
@@ -84,7 +84,7 @@ python3 officialWikiApi.py
 
 To access the headquarters location data of the companies, we used the Wikidata API.
 
-### How the data processing works:
+### How the location data processing works:
 
 1. [1_initUniqueComaniesJson.py](wikidata/1_initUniqueComaniesJson.py):
    - Creates a unique company list from the ranking data
@@ -127,7 +127,7 @@ To access the headquarters location data of the companies, we used the Wikidata 
 - For some old companies there are no Wikidata entries even no Wikipedia entries
 - Wikidata only provides current headquarters location data, not historical locations.
 
-### Solutions: 
+### Solutions:
 - **Inaccurate search, scraped data spelling:**
   - Manually change the searchQueryCompanyName in the json
   - Tried wikidata tag filtering, but it didn't work out (Wikidata entries have incomplete tag data)
@@ -141,7 +141,7 @@ To access the headquarters location data of the companies, we used the Wikidata 
 ### Notes
 - The Wikidata websearch is different from the API search (a little bit better)
 - Tried out also [dbpedia](https://www.dbpedia.org/) -> same problems as with the wikidata api
-- Tried out also to ask chatgpt to generate the data completely -> wrong headquarter coordinates
+- Tried out also to ask chatgpt to generate the data completely -> wrong headquarters coordinates
 
     
 
@@ -161,6 +161,6 @@ To access the headquarters location data of the companies, we used the Wikidata 
 
 
 
-### Credits 
+### Credits
 - Jiacheng Lang & Jonas Greim
 - The university course "Computational Spatial Humanities," taught by Dr. Thomas Efer at the University of Leipzig
