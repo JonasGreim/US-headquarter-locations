@@ -102,13 +102,13 @@ To access the headquarters location data of the companies, we used the Wikidata 
    - API response: First qid result is taken (returns array)
 
 3. [3_getAllLocationDataThroughQIDList.py](wikidata/3_getAllLocationDataThroughQIDList.py)
-  - Adds the headquarters location data to the unique company list
-  - Get wikidata page data through the qid and extract the headquarters location
+   - Adds the headquarters location data to the unique company list
+   - Get wikidata page data through the qid and extract the headquarters location
 
 4. [4_getAllIndustryDataThroughQIDList.py](wikidata/4_getAllIndustryDataThroughQIDList.py)
-  - Adds the industry sector data to the unique company list
-  - Get wikidata page data through the qid and extract the industry sector
-  - For our frontend, we categorized each company into one of ten industry sectors using ChatGPT.
+   - Adds the industry sector data to the unique company list
+   - Get wikidata page data through the qid and extract the industry sector
+   - For our frontend, we categorized each company into one of ten industry sectors using ChatGPT.
 
 5. [5_mapUniqueCompaniesToRankingFortune500.py](wikidata/5_mapUniqueCompaniesToRankingFortune500.py)
    (or [5_mapUniqueCompaniesToRankingSp500.py](wikidata/5_mapUniqueCompaniesToRankingSp500.py))
@@ -152,12 +152,9 @@ To access the headquarters location data of the companies, we used the Wikidata 
 
 [//]: # (TODO:)
 
-[//]: # (- read me hübsch machen)
-[//]: # (- vorgang notieren)
 [//]: # (- anzahl von fails notieren und helper functions infos extract)
 [//]: # (- check data again -> right qids and names)
 [//]: # (- SP500 Berkshire Hathaway, JPMorgan Chase, Mastercard)
-[//]: # (- maybe table of contents)
 
 
 
