@@ -87,19 +87,19 @@ To access the headquarters location data of the companies, we used the Wikidata 
 ### How the location data processing works:
 
 1. [1_initUniqueComaniesJson.py](wikidata/1_initUniqueComaniesJson.py):
-   - Creates a unique company list from the ranking data
+   - Creates a unique company json list from the ranking data
    - With the attributes: `companyName`, `searchQueryCompanyName`, `wikiDataName`, `qid`
    - The reason why you need these attributes is: 
      - Wikidata name search is really inaccurate (and also the scraped data)
      - With these you can manually compare your search name (companyName) with the retrieved name (wikiDataName)
-     - If wrong you can change the searchQueryCompanyName manually 
-     - the original scraped companyName is used to map the unique companies to the ranking data later on
+     - If you retrieved a wrong entry, you can manually update the searchQueryCompanyName
+     - The original scraped companyName is used to map the unique companies to the ranking data later on
 
 2. [2_getAllQidsThroughCompanyNameList.py](wikidata/2_getAllQidsThroughCompanyNameList.py):
    - Adds the wikidata qids to the unique company list (qid = wikidata page id)
    - Looping through the unique companies and retrieve the qid with the searchQueryCompanyName through the Wikidata API
    - Search: only text search in wikidata title and synonyms
-   - API response: First qid result is taken (returns array)
+   - API response: First qid result from the returned array is taken
 
 3. [3_getAllLocationDataThroughQIDList.py](wikidata/3_getAllLocationDataThroughQIDList.py)
    - Adds the headquarters location data to the unique company list
@@ -108,7 +108,8 @@ To access the headquarters location data of the companies, we used the Wikidata 
 4. [4_getAllIndustryDataThroughQIDList.py](wikidata/4_getAllIndustryDataThroughQIDList.py)
    - Adds the industry sector data to the unique company list
    - Get wikidata page data through the qid and extract the industry sector
-   - For our frontend, we categorized each company into one of ten industry sectors using ChatGPT.
+   - For our frontend, we categorized each company into one of ten industry sectors manually, with assistance from ChatGPT
+     ([uniqueCompaniesWithQidsLocationAndWithOurIndustrySectors.json](wikidata/data_sp500/uniqueCompaniesWithQidsLocationAndWithOurIndustrySectors.json))
 
 5. [5_mapUniqueCompaniesToRankingFortune500.py](wikidata/5_mapUniqueCompaniesToRankingFortune500.py)
    (or [5_mapUniqueCompaniesToRankingSp500.py](wikidata/5_mapUniqueCompaniesToRankingSp500.py))
@@ -121,7 +122,7 @@ To access the headquarters location data of the companies, we used the Wikidata 
 
 
 ### Problems:
-- The API string search to find Wikidata page entries is really inaccurate
+- The API string search for finding Wikidata page entries is highly inaccurate
 - Wikidata api docs are really confusing/messed up
 - The scraped data has sometimes unusual variations of company names or abbreviations
 - For some old companies there are no Wikidata entries even no Wikipedia entries
@@ -145,23 +146,8 @@ To access the headquarters location data of the companies, we used the Wikidata 
 
 ### Notes
 - The Wikidata websearch is different from the API search (a little bit better)
-- Tried out also [dbpedia](https://www.dbpedia.org/) -> same problems as with the Wikidata API
-- Tried out also to ask Chatgpt to generate the data completely -> wrong headquarters coordinates
-
-    
-[//]: # (extract api requests)
-[//]: # (- get qid -> if no qid found &#40;5/49&#41;)
-[//]: # (- -> trail and error ->  15 of 49 failed)
-[//]: # (run industry sector search -> 1  of  49 failed)
-
-
-[//]: # (TODO:)
-
-[//]: # (- anzahl von fails notieren und helper functions infos extract)
-[//]: # (- check data again -> right qids and names)
-[//]: # (- SP500 Berkshire Hathaway, JPMorgan Chase, Mastercard)
-
-
+- Attempted to use [dbpedia](https://www.dbpedia.org/) -> same problems as with the Wikidata API
+- Attempted to use ChatGPT to generate the data entirely -> but resulted in incorrect headquarters coordinates
 
 ### Credits
 - Jiacheng Lang & Jonas Greim
