@@ -68,10 +68,17 @@ scrapy crawl us-companies-sp500
 ## Official Wikipedia API (Try to get headquarters locations)
 First we tried to preserve the headquarters locations of the companies with the official Wikipedia API.
 
-**Problem:** 
+**Problems:** 
 - You get the same data as you would scrape the wikipedia page (same thing with python wikipedia api wrappers)
 - The HTML structure of Wikipedia company articles is inconsistent -> cannot scrape the data (f.e. the fact table)
-- We also tried the new Wikipedia Geosearch API ([link](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates))
+- The [Wikidata API docs](https://www.mediawiki.org/wiki/API:Main_page#Quick_Start) are really confusing/messed up
+  - The docs cannot explain how to set up the API calls correctly
+  - The docs cannot explain what you can do with the API 
+  - The docs cannot explain how to format/formulate a query correctly
+  - Shout out to these two, that explain how to set up and use the API:
+    - [Github Repo: Wiki API Docs explained](https://github.com/mudroljub/wikipedia-api-docs)
+    - [Youtube: Wiki API Docs explained](https://youtu.be/RPz75gcHj18?si=5ka5g23MK3I5l5hc)
+- We also tried the new  [Wikipedia Geosearch API](https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates)
   - But only a few wikipedia pages have coordinates 
 
 **run:**
@@ -123,7 +130,11 @@ To access the headquarters location data of the companies, we used the Wikidata 
 
 ### Problems:
 - The API string search for finding Wikidata page entries is highly inaccurate
-- Wikidata api docs are really confusing/messed up
+- [Wikidata API docs](https://www.wikidata.org/wiki/Wikidata:REST_API) are really confusing/messed up
+    - Their [online API query builder](https://query.wikidata.org/querybuilder/) for SPARQL queries is also a mess 
+    - Their [online query service](https://query.wikidata.org/) works but there you can only test your own built SPARQL queries
+    - If you want to do filtering with a SPARQL query you need to know the Wikidata tag ids, but you don't find them in the docs
+    - The SPARQL queries also have to be formatted in a specific way & you don't find information about that in the docs
 - The scraped data has sometimes unusual variations of company names or abbreviations
 - For some old companies there are no Wikidata entries even no Wikipedia entries
 - Wikidata only provides current headquarters location data, not historical locations

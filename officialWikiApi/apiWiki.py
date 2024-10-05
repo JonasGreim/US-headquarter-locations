@@ -3,9 +3,8 @@ import json
 
 # also tried out -> but only a few have an entry there https://www.mediawiki.org/wiki/API:Geosearch#Example_1:_Obtain_coordinates
 # https://www.mediawiki.org/wiki/Special:ApiSandbox
-
-# search -> scrape -> city -> geosearch -> coordinates
-# search -> scrape -> geosearch (with python wrapper)
+# search -> scrape -> city -> geosearch -> coordinates  (failed -> too few entries have coordinates)
+# search -> scrape -> geosearch (with python wrapper)   (failed -> too few entries have coordinates)
 
 # api explained (official documentation is not good and very confusing)
 # https://github.com/mudroljub/wikipedia-api-docs
@@ -26,6 +25,3 @@ contentUrl = "https://en.wikipedia.org/w/api.php?action=query&titles=Apple_Inc.&
 response = requests.get(seachUrl)
 response = json.loads(response.text)
 print(json.dumps(response, indent=4))
-
-# check if python wiki wrapper -> geoSearch cities directly
-# extract cities -> wiki geosearch -> geo information
