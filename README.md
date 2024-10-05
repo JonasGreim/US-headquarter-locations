@@ -156,7 +156,7 @@ To access the headquarters location data of the companies, we used the Wikidata 
   - Google headquarters addresses -> manually change searchQueryCompanyName
 
 ### Notes
-- The Wikidata websearch is different from the API search (a little bit better)
+- The [Wikidata websearch](https://www.wikidata.org/w/index.php?search=&search=&title=Special:Search&go=Go) is different from the API search (a little bit better)
 - Attempted to use [dbpedia](https://www.dbpedia.org/) -> same problems as with the Wikidata API
 - Attempted to use ChatGPT to generate the data entirely -> but resulted in incorrect headquarters coordinates
 
