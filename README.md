@@ -69,12 +69,12 @@ scrapy crawl us-companies-sp500
 First we tried to preserve the headquarters locations of the companies with the official Wikipedia API.
 
 **Problems:** 
-- You get the same data as you would scrape the wikipedia page (same thing with python wikipedia api wrappers)
+- You get the same data as you would scrape the wikipedia page (same thing with python wikipedia API wrappers)
 - The HTML structure of Wikipedia company articles is inconsistent -> cannot scrape the data (f.e. the fact table)
-- The [Wikidata API docs](https://www.mediawiki.org/wiki/API:Main_page#Quick_Start) are really confusing/messed up
+- The [Wikipedia API docs](https://www.mediawiki.org/wiki/API:Main_page#Quick_Start) are really confusing/messed up
   - The docs cannot explain how to set up the API calls correctly
   - The docs cannot explain what you can do with the API 
-  - The docs cannot explain how to format/formulate a query correctly
+  - The docs cannot explain how to formulate a query correctly
   - Shout out to these two, that explain how to set up and use the API:
     - [Github Repo: Wiki API Docs explained](https://github.com/mudroljub/wikipedia-api-docs)
     - [Youtube: Wiki API Docs explained](https://youtu.be/RPz75gcHj18?si=5ka5g23MK3I5l5hc)
