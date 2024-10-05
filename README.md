@@ -132,17 +132,17 @@ To access the headquarters location data of the companies, we used the Wikidata 
 - The API string search for finding Wikidata page entries is highly inaccurate
 - [Wikidata API docs](https://www.wikidata.org/wiki/Wikidata:REST_API) are really confusing/messed up
     - Their [online API query builder](https://query.wikidata.org/querybuilder/) for SPARQL queries is also a mess 
-    - Their [online query service](https://query.wikidata.org/) works but there you can only test your own built SPARQL queries
-    - If you want to do filtering with a SPARQL query you need to know the Wikidata tag ids, but you don't find them in the docs
+    - Their [online query service](https://query.wikidata.org/) works, but it is only useful for testing your own SPARQL queries
+    - If you want to do filtering with a SPARQL query you need to know the Wikidata label ids, but you don't find them in the docs
     - The SPARQL queries also have to be formatted in a specific way & you don't find information about that in the docs
 - The scraped data has sometimes unusual variations of company names or abbreviations
-- For some old companies there are no Wikidata entries even no Wikipedia entries
+- For some companies there are no Wikidata entries even no Wikipedia entries (f.e. old companiess or subcompanies of European companies)
 - Wikidata only provides current headquarters location data, not historical locations
 
 ### Solutions:
 - **Inaccurate search, scraped data spelling:**
   - Manually change the searchQueryCompanyName in the json
-  - Tried wikidata tag filtering, but it didn't work out (Wikidata entries have incomplete tag data)
+  - Tried wikidata label filtering, but it didn't work out (Wikidata entries have incomplete label data)
   - Final trail and error approach: 
     - Get the qid through the searchQueryCompanyName -> if no qid found -> manually change company name
     - Get location data through the qid -> if no coordinates found -> change name -> run qid search again (wrong Wikidata entry with the same name)
